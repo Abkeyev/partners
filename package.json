@@ -1,0 +1,70 @@
+{
+  "homepage": "http://sunnatilla.github.io/ironcard",
+  "name": "ironcard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.7.2",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "*",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "@types/node-forge": "^0.9.1",
+    "@types/react": "^16.9.15",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-maskedinput": "^4.0.4",
+    "@types/react-scroll": "^1.5.4",
+    "@types/react-swipeable-views": "^0.13.0",
+    "animate.css": "^3.7.2",
+    "axios": "^0.19.0",
+    "clsx": "^1.0.4",
+    "i18next": "^19.1.0",
+    "i18next-browser-languagedetector": "^4.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "jssha": "^2.3.1",
+    "material-auto-rotating-carousel": "^3.0.2",
+    "moment": "^2.24.0",
+    "prettier": "^1.19.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-ga": "^2.7.0",
+    "react-i18next": "^11.3.1",
+    "react-maskedinput": "^4.0.1",
+    "react-number-format": "^4.3.1",
+    "react-scripts": "3.3.0",
+    "react-scroll": "^1.7.15",
+    "react-swipeable-views": "^0.13.5",
+    "react-swipeable-views-utils": "^0.13.5",
+    "react-yandex-metrika": "^2.6.0",
+    "typescript": "^3.7.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
