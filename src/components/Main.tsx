@@ -1128,7 +1128,7 @@ const Main = (props: any) => {
 
   return (
     <Grid container direction="column"  className={classes.mainPartners}> 
-      <Grid item className={classes.breadCrumbs}><a href="" className={classes.navCard}>#картакарта</a><img className={classes.navArrow} src="nav_arrow.svg" /><span className={classes.partners}>Партнеры</span></Grid>
+      <Grid item className={classes.breadCrumbs}><a href="https://www.bcc.kz/kartakarta/" target="_blank" className={classes.navCard}>#картакарта</a><img className={classes.navArrow} src="nav_arrow.svg" /><span className={classes.partners}>Партнеры</span></Grid>
       <Grid item><h2 className={classes.titleName}>Партнеры #картакарта</h2></Grid>
       { product ? <Grid item className="animated fadeInRight faster">
         <Grid container direction="row">
