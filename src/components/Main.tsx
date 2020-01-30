@@ -623,7 +623,31 @@ const useStyles = makeStyles((theme: Theme) =>
       '&:focus': {
         outline: 'none'
       }
-    }
+    },
+    addressList: {
+      marginTop: 20,
+      '& > h3': {
+        fontSize: 16,
+        color: '#141414',
+        margin: '0',
+        textAlign: 'left',
+        fontWeight: '500',
+        marginBottom: 5
+      },
+      '& > ul': {
+        padding: 0,
+        marginTop: 5,
+        '& > li': {
+            fontSize: 14,
+            color: '#5B5B5B',
+            margin: '0',
+            display: 'block',
+            textAlign: 'left',
+            lineHeight: '20px',
+            fontWeight: 'normal'
+        }
+      },
+    },
   })
 );
 
@@ -655,7 +679,7 @@ interface Product {
   mobilePhone: string;
   wpPhone: string;
   email: string;
-  address: string;
+  address: string[];
   social_link_fb: string;
   social_link_inst: string;
   social_link_vk: string;
@@ -665,66 +689,6 @@ interface Product {
 
 const products: Product[] = [{
   id: 0,
-  title: 'Галактика',
-  city: {
-    id: 1,
-    title: "Кокшетау"
-  },
-  img: 'furniture.svg',
-  category: {
-    id: 7,
-    title: "Мебель"
-  },
-  date: '',
-  payment: 'Расcрочка 6 мес.',
-  cashback: 0,
-  special_best: false,
-  pos: true,
-  onlinePay: false,
-  description: "Производство и поставка мебели из Беларусии. Скорая помощь в выборе идеально комфортной мебели. В наличии все виды мебели. Доставка и сборка по городу БЕСПЛАТНО.<br/>Гарантия 24 месяца. @wladamebel. <br/>Приглашают оптовых покупателей к сотрудничеству.",
-  worktime: "С 9.00 до 19.00 ежедневно",
-  homePhone: "",
-  mobilePhone: "87084441918",
-  wpPhone: "87084441918",
-  email: "wlada_rk@yandex.ru",
-  address: "ул.Мира 19",
-  social_link_fb: "",
-  social_link_inst: "",
-  social_link_vk: "",
-  social_link_yt: "",
-  websiteLink: "",
-}, {
-  id: 1,
-  title: "Малыш",
-  city: {
-    id: 2,
-    title: "Петропавловск"
-  },
-  img: 'item2.png',
-  category: {
-    id: 3,
-    title: "Детские товары"
-  },
-  date: 'Действителен до 1 апреля',
-  payment: '',
-  cashback: 15,
-  special_best: false,
-  pos: true,
-  onlinePay: false,
-  description: "«Малыш» - сеть магазинов игрушек.<br/>В нашем магазине вы найдёте огромный ассортимент оригинальных и эксклюзивных игрушек на любой вкус и бюджет.<br/>Все новинки, появляющиеся на мировом рынке, мы изучаем и предлагаем нашим покупателям.",
-  worktime: "С 10:00 до 20:00",
-  homePhone: "",
-  mobilePhone: "+7 705 119 88 55",
-  wpPhone: "+7 705 119 88 55",
-  email: "andrei-dyakin@mail.ru",
-  address: "ул. Муканова, 53",
-  social_link_fb: "",
-  social_link_inst: "",
-  social_link_vk: "",
-  social_link_yt: "",
-  websiteLink: "",
-}, {
-  id: 2,
   title: 'Froot',
   city: {
       id: 0,
@@ -735,10 +699,10 @@ const products: Product[] = [{
     id: 9,
     title: "Магазин"
   },
-  date: '',
+  date: 'Действителен до 1 апреля',
   payment: 'Расcрочка 3 мес.',
-  cashback: 3,
-  special_best: false,
+  cashback: 6,
+  special_best: true,
   pos: true,
   onlinePay: false,
   description: "Магазины у дома Froot - сеть маленьких и мега удобных магазинов, где можно найти всё самое необходимое по отличным ценам.<br/>Продукты, бытовая химия, горячий кофе, вкусные сэндвичи, свежий попкорн и местные овощи можно заказать с доставкой за 15 минут!",
@@ -747,44 +711,28 @@ const products: Product[] = [{
   mobilePhone: "+7 707 000 3612",
   wpPhone: "+7 707 000 3612",
   email: "contact@thefroot.com",
-  address: "ул. Муканова, 53",
+  address: [
+    "г. Алматы, Медеуский район, ул. Кунаева д. 119/47, кв. 30",
+    "г. Алматы, Алмалинский район, ул. Байзакова, д. 263, ВП 541",
+    "г. Алматы, Ауэзовский район, мкр 9, дом 3, кв 2 (Саина-Ю.Кима)",
+    "г. Алматы, Медеуский район, мкр. Самал-2, д. 29, н.п. 4",
+    "г. Алматы, Ауэзовский р-н мкр. 2, д. 40Г, н.п. 199",
+    "г. Алматы, Бостандыкский район, ул Абиша Кекилбайулы, дом 97а",
+    "г. Алматы, Жетысуйский район, Абылай хана проспект 18/Райымбека проспект 149",
+    "г. Алматы, Турксибский район, Сейфуллина 47/53, уг. ул. Майбороды",
+    "г. Алматы, Бостандыкский район, Маркова 53",
+    "г. Алматы, Алмалинский район, улица Карасай батыра, дом 90\92, н.п. 45",
+    "г. Алматы, Жетысуский район, Ул. Кудерина - ул. Сахалинская, д. 26",
+    "г. Алматы, Бостандыкский район, ул. Солодовникова, д. 21, н.п. 1Е",
+    "г. Алматы, Медеуский район, ул. Калдаякова д.51 кв 32"
+  ],
   social_link_fb: "https://www.facebook.com/pg/thefrootmarket/",
   social_link_inst: "https://www.instagram.com/thefrootmarket/",
   social_link_vk: "",
   social_link_yt: "https://www.youtube.com/channel/UC5oj3FmSgwrbXcvWz1dgpqQ",
   websiteLink: "https://froot.kz",
 }, {
-  id: 3,
-  title: 'Окна SOK',
-  city: {
-    id: 2,
-    title: "Петропавловск"
-  },
-  img: 'okna.png',
-  category: {
-    id: 7,
-    title: "Ремонт"
-  },
-  date: '',
-  payment: 'Расcрочка 12 мес.',
-  cashback: 0,
-  special_best: false,
-  pos: true,
-  onlinePay: false,
-  description: "Окна SOK – изготовит для Вас пластиковые окна высокого качества<br/>*Окна любого цвета, арочные окна <br/>*Входные группы, витражи <br/>*Балконные ограждения с крышей <br/>*Обшивка балконов под ключ Гарантийное обслуживание до 3 лет.",
-  worktime: "10:00 ч. до 19:00 ч.<br/>обед 13:00 ч. до 14:00 ч.<br/>Суббота с 10:00 ч. до 13:00 ч.<br/>выходной день: воскресенье.",
-  homePhone: "8 (7152) 46-93-38",
-  mobilePhone: "+7 777 619 80 29",
-  wpPhone: "+7 777 619 80 29",
-  email: "sputnikk@inbox.ru",
-  address: "ул.Мира 19",
-  social_link_fb: "",
-  social_link_inst: "https://www.instagram.com/okna_sok_petropavl/",
-  social_link_vk: "",
-  social_link_yt: "",
-  websiteLink: "",
-}, {
-  id: 4,
+  id: 1,
   title: "СТРОЙКОМПЛЕКТ",
   city: {
     id: 3,
@@ -792,7 +740,7 @@ const products: Product[] = [{
   },
   img: 'stroi.png',
   category: {
-    id: 7,
+    id: 10,
     title: "Ремонт"
   },
   date: '',
@@ -807,14 +755,14 @@ const products: Product[] = [{
   mobilePhone: "+7 707 553 97 43",
   wpPhone: "+7 707 553 97 43",
   email: "info@stkt.kz",
-  address: "ул. Муканова, 53",
+  address: [],
   social_link_fb: "",
   social_link_inst: "https://www.instagram.com/stroykomplekt_shymkent/",
   social_link_vk: "",
   social_link_yt: "",
   websiteLink: "https://stkt.kz/",
 }, {
-  id: 5,
+  id: 2,
   title: 'Arua',
   city: {
     id: 3,
@@ -822,7 +770,7 @@ const products: Product[] = [{
   },
   img: 'furniture.svg',
   category: {
-    id: 10,
+    id: 7,
     title: "Текстиль"
   },
   date: '',
@@ -837,14 +785,14 @@ const products: Product[] = [{
   mobilePhone: "+7 707 278 98 79",
   wpPhone: "+7 707 278 98 79",
   email: "sales1@agf.kz",
-  address: "ул.Мира 19",
+  address: [],
   social_link_fb: "",
   social_link_inst: "https://www.instagram.com/arua.bedding/",
   social_link_vk: "",
   social_link_yt: "",
   websiteLink: "http://aruabedding.com/",
 }, {
-  id: 1,
+  id: 3,
   title: "Магазин «Ксения»",
   city: {
     id: 3,
@@ -867,38 +815,161 @@ const products: Product[] = [{
   mobilePhone: "+7 701 366 07 94",
   wpPhone: "+7 701 366 07 94",
   email: "",
-  address: "",
+  address: [],
   social_link_fb: "",
   social_link_inst: "",
   social_link_vk: "",
   social_link_yt: "",
-  websiteLink: "",
-}];
+  websiteLink: "",}, {
+    id: 4,
+    title: 'Галактика',
+    city: {
+      id: 1,
+      title: "Кокшетау"
+    },
+    img: 'furniture.svg',
+    category: {
+      id: 7,
+      title: "Мебель"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: true,
+    pos: true,
+    onlinePay: false,
+    description: "Производство и поставка мебели из Беларусии. Скорая помощь в выборе идеально комфортной мебели. В наличии все виды мебели. Доставка и сборка по городу БЕСПЛАТНО.<br/>Гарантия 24 месяца. @wladamebel. <br/>Приглашают оптовых покупателей к сотрудничеству.",
+    worktime: "С 9.00 до 19.00 ежедневно",
+    homePhone: "",
+    mobilePhone: "87084441918",
+    wpPhone: "87084441918",
+    email: "wlada_rk@yandex.ru",
+    address: ["г. Кокшетау, ул. Байтурсынова, 19"],
+    social_link_fb: "",
+    social_link_inst: "",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 5,
+    title: "Малыш",
+    city: {
+      id: 2,
+      title: "Петропавловск"
+    },
+    img: 'item2.png',
+    category: {
+      id: 3,
+      title: "Детские товары"
+    },
+    date: 'Действителен до 1 апреля',
+    payment: '',
+    cashback: 30,
+    special_best: true,
+    pos: true,
+    onlinePay: false,
+    description: "«Малыш» - сеть магазинов игрушек.<br/>В нашем магазине вы найдёте огромный ассортимент оригинальных и эксклюзивных игрушек на любой вкус и бюджет.<br/>Все новинки, появляющиеся на мировом рынке, мы изучаем и предлагаем нашим покупателям.",
+    worktime: "С 10:00 до 20:00",
+    homePhone: "",
+    mobilePhone: "+7 705 119 88 55",
+    wpPhone: "+7 705 119 88 55",
+    email: "andrei-dyakin@mail.ru",
+    address: [
+      "г. Петропавловск, ул. Муканова, 53 (ТРЦ 'Семейный' (2 этаж)) – 10:00 до 20:00",
+      "г. Петропавловск, ул. Сутюшева, 58Б (ТЦ 'Рахмет' (3 этаж)) – 10:00 до 21:00",
+      "г. Петропавловск, ул. Жумабаева, 91 (ТРЦ 'Dostyq Mall' (3 этаж)) – 10:00 до 22:00"
+    ],
+    social_link_fb: "",
+    social_link_inst: "",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 6,
+    title: 'Окна SOK',
+    city: {
+      id: 2,
+      title: "Петропавловск"
+    },
+    img: 'okna.png',
+    category: {
+      id: 10,
+      title: "Ремонт"
+    },
+    date: '',
+    payment: 'Расcрочка 12 мес.',
+    cashback: 0,
+    special_best: true,
+    pos: true,
+    onlinePay: false,
+    description: "Окна SOK – изготовит для Вас пластиковые окна высокого качества<br/>*Окна любого цвета, арочные окна <br/>*Входные группы, витражи <br/>*Балконные ограждения с крышей <br/>*Обшивка балконов под ключ Гарантийное обслуживание до 3 лет.",
+    worktime: "10:00 ч. до 19:00 ч.<br/>обед 13:00 ч. до 14:00 ч.<br/>Суббота с 10:00 ч. до 13:00 ч.<br/>выходной день: воскресенье.",
+    homePhone: "8 (7152) 46-93-38",
+    mobilePhone: "+7 777 619 80 29",
+    wpPhone: "+7 777 619 80 29",
+    email: "sputnikk@inbox.ru",
+    address: ["г. Петропавловск, ул. Букетова, 44"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/okna_sok_petropavl/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 7,
+    title: "GALATEX",
+    city: {
+      id: 1,
+      title: "Кокшетау"
+    },
+    img: 'clothes.svg',
+    category: {
+      id: 7,
+      title: "Текстиль"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "'GALATEX' - первый Казахстанский текстильный бренд! Пошив и продажа сертифицированных комплектов постельного белья!<br/> Реализация оптом и в розницу. Интернет магазин.<br/>Для постельного белья мы выбираем только натуральные ткани из 100% хлопка, которые хорошо держат цвет и устойчивы к износу<br/>Материалы для пошива белья закупаются у проверенного, надежного поставщика, имеющего сертификаты качества<br/>В нашем швейном цеху работают только профессиональные специалисты, благодаря чему мы всегда получаем отличный результат<br/>Каждый комплект постельного белья мы проверяем вручную, поэтому гарантируем высокое качество наших изделий",
+    worktime: "c 10:00 до 21:00",
+    homePhone: "",
+    mobilePhone: "+ 7 702 292 23 88",
+    wpPhone: "+7 701 366 07 94",
+    email: "Galatex2015@mail.ru",
+    address: ["г. Кокшетау ул. Осипенко 1 ТРЦ 'РИО', 1 этаж"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/galatexkz/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://galatex.kz/",
+  }];
 
 const categoriesList:Category[] = [{
-    id: 1,
-    title: "Авто и мото"
+  id: 1,
+  title: "Авто и мото"
 }, {
-    id: 2,
-    title: "Бытовая техника"
+  id: 2,
+  title: "Бытовая техника"
 }, {
-    id: 3,
-    title: "Детские товары"
+  id: 3,
+  title: "Детские товары"
 }, {
-    id: 4,
-    title: "Здоровье и красота"
+  id: 4,
+  title: "Здоровье и красота"
 }, {
-    id: 5,
-    title: "Кафе и рестораны"
+  id: 5,
+  title: "Кафе и рестораны"
 }, {
-    id: 6,
-    title: "Зоотовары"
+  id: 6,
+  title: "Зоотовары"
 }, {
-    id: 7,
-    title: "Мебель"
+  id: 7,
+  title: "Товары для дома"
 }, {
-    id: 8,
-    title: "Продукты"
+  id: 8,
+  title: "Продукты"
 }, {
   id: 9,
   title: "Магазин"
@@ -911,17 +982,17 @@ const categoriesList:Category[] = [{
 }];
 
 const cities: City[] = [{
-    id: 0,
-    title: "Алматы"
+  id: 0,
+  title: "Алматы"
 }, {
-    id: 1,
-    title: "Кокшетау"
+  id: 1,
+  title: "Кокшетау"
 }, {
-    id: 2,
-    title: "Петропавловск"
+  id: 2,
+  title: "Петропавловск"
 }, {
-    id: 3,
-    title: "Шымкент"
+  id: 3,
+  title: "Шымкент"
 }];
 
 const Main = (props: any) => {
@@ -1098,7 +1169,6 @@ const Main = (props: any) => {
                     <span dangerouslySetInnerHTML={{__html: product.description}}></span>
                   </div>
                   <div className={classes.contactsInfo}>
-
                     <div className={classes.bodyContacts}>
                       <h3>Контакты</h3>
                       <span style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }<small> (дом.)</small></span>
@@ -1112,6 +1182,15 @@ const Main = (props: any) => {
                     </div>
 
                   </div>
+                  { product.address.length > 0 && <div className={classes.addressList}>
+                      <h3>Адрес</h3>
+                      <ul>
+                        {
+                          product.address.map(p => <li>{p}</li>)
+                        }
+                      </ul>
+                    </div>
+                  }
                 </Grid>
 
               </div>
