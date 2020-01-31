@@ -935,7 +935,7 @@ const products: Product[] = [{
     },
     date: '',
     payment: 'Расcрочка 6 мес.',
-    cashback: 0,
+    cashback: 10,
     special_best: false,
     pos: true,
     onlinePay: false,
