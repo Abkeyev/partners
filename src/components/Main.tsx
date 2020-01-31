@@ -360,7 +360,7 @@ const useStyles = makeStyles((theme: Theme) =>
         fontWeight: '500',
         marginBottom: 5
       },
-      '& > span': {
+      '& > a': {
         fontSize: 14,
         color: '#27AE60',
         margin: '0',
@@ -369,6 +369,11 @@ const useStyles = makeStyles((theme: Theme) =>
         textAlign: 'left',
         lineHeight: '20px',
         fontWeight: 'normal',
+        textDecoration: 'none',
+        transition: '.3s',
+        '&:hover': {
+          textDecoration: 'underline',
+        },
         '& > svg': {
           fontSize: 14,
           color: '#27AE60',
@@ -1178,10 +1183,10 @@ const Main = (props: any) => {
                   <div className={classes.contactsInfo}>
                     <div className={classes.bodyContacts}>
                       <h3>Контакты</h3>
-                      <span style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></span>
-                      <span style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></span>
-                      <span style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></span>
-                      <span style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</span>
+                      <a href="tel:{ product.homePhone }" style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></a>
+                      <a href="tel:{ product.mobilePhone }" style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></a>
+                      <a href="tel:{ product.wpPhone }" style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></a>
+                      <a href="mailto:{ product.email }" style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</a>
                     </div>
                     <div className={classes.bodyTimework}>
                       <h3>Режим работы</h3>
@@ -1214,7 +1219,7 @@ const Main = (props: any) => {
                   <a style={{ display: product.social_link_fb.length > 0 ? 'flex' : 'none' }} href={product.social_link_fb} target="blank"><img src="fb.svg" alt="Facebook"/></a>
                   <a style={{ display: product.social_link_inst.length > 0 ? 'flex' : 'none' }} href={product.social_link_inst} target="blank"><img src="in.svg" alt="Instagram"/></a>
                   <a style={{ display: product.social_link_vk.length > 0 ? 'flex' : 'none' }} href={product.social_link_vk} target="blank"><img src="vk.svg" alt="VK"/></a>
-                  <a style={{ display: product.social_link_yt.length > 0 ? 'flex' : 'none' }} href={product.social_link_yt} target="blank"><img src="fb.svg" alt="Youtube"/></a>
+                  <a style={{ display: product.social_link_yt.length > 0 ? 'flex' : 'none' }} href={product.social_link_yt} target="blank"><img src="yb.svg" alt="Youtube"/></a>
                 </div>
                 
               </div>
