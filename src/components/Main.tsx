@@ -699,14 +699,14 @@ const products: Product[] = [{
     id: 9,
     title: "Магазин"
   },
-  date: 'Действителен до 1 апреля',
+  date: 'Действует до 1 апреля',
   payment: 'Расcрочка 3 мес.',
   cashback: 6,
   special_best: true,
   pos: true,
   onlinePay: false,
   description: "Магазины у дома Froot - сеть маленьких и мега удобных магазинов, где можно найти всё самое необходимое по отличным ценам.<br/>Продукты, бытовая химия, горячий кофе, вкусные сэндвичи, свежий попкорн и местные овощи можно заказать с доставкой за 15 минут!",
-  worktime: "С 8 до 24 (Без выходных)",
+  worktime: "С 8 до 24 (без выходных)",
   homePhone: "",
   mobilePhone: "+7 707 000 3612",
   wpPhone: "+7 707 000 3612",
@@ -755,7 +755,9 @@ const products: Product[] = [{
   mobilePhone: "+7 707 553 97 43",
   wpPhone: "+7 707 553 97 43",
   email: "info@stkt.kz",
-  address: [],
+  address: [
+    "г.Шымкент, ул. Желтоксан, 163"
+  ],
   social_link_fb: "",
   social_link_inst: "https://www.instagram.com/stroykomplekt_shymkent/",
   social_link_vk: "",
@@ -785,7 +787,10 @@ const products: Product[] = [{
   mobilePhone: "+7 707 278 98 79",
   wpPhone: "+7 707 278 98 79",
   email: "sales1@agf.kz",
-  address: [],
+  address: [
+    "г.Шымкент, площадь Аль-Фараби, ТРЦ 'Shymkent Plaza' 1 этаж",
+    "г.Шымкент, ул.М.Х.Дулати 200 А, ТРЦ 'Hyper House'"
+  ],
   social_link_fb: "",
   social_link_inst: "https://www.instagram.com/arua.bedding/",
   social_link_vk: "",
@@ -815,7 +820,9 @@ const products: Product[] = [{
   mobilePhone: "+7 701 366 07 94",
   wpPhone: "+7 701 366 07 94",
   email: "",
-  address: [],
+  address: [
+    "г.Шымкент, ул.Аскарова 13/1, ТД 'ЮГ-Сити', 1 этаж"
+  ],
   social_link_fb: "",
   social_link_inst: "",
   social_link_vk: "",
@@ -835,7 +842,7 @@ const products: Product[] = [{
     date: '',
     payment: 'Расcрочка 6 мес.',
     cashback: 0,
-    special_best: true,
+    special_best: false,
     pos: true,
     onlinePay: false,
     description: "Производство и поставка мебели из Беларусии. Скорая помощь в выборе идеально комфортной мебели. В наличии все виды мебели. Доставка и сборка по городу БЕСПЛАТНО.<br/>Гарантия 24 месяца. @wladamebel. <br/>Приглашают оптовых покупателей к сотрудничеству.",
@@ -862,7 +869,7 @@ const products: Product[] = [{
       id: 3,
       title: "Детские товары"
     },
-    date: 'Действителен до 1 апреля',
+    date: 'Действует до 1 апреля',
     payment: '',
     cashback: 30,
     special_best: true,
@@ -1153,11 +1160,11 @@ const Main = (props: any) => {
 
               <div className={classes.cardBody}>
                 <Grid lg={3} xs={12}>
-                  <div className={classes.bodyPeriod}>
+                  <div className={classes.bodyPeriod} style={{ display: product.payment.length > 0 ? 'block' : 'none' }}>
                     <h3>Период рассрочки</h3>
                     <span>{product.payment}</span>
                   </div>
-                  <div className={classes.bodyCashback}>
+                  <div className={classes.bodyCashback} style={{ display: product.cashback > 0 ? 'block' : 'none' }}>
                     <h3>Кешбэк</h3>
                     <span className={classes.infoCashback}>{product.special_best ? 'Спецпредложение' : ''} <span>{product.cashback}%</span></span>
                     <small>{ product.date }</small>
@@ -1171,9 +1178,9 @@ const Main = (props: any) => {
                   <div className={classes.contactsInfo}>
                     <div className={classes.bodyContacts}>
                       <h3>Контакты</h3>
-                      <span style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }<small> (дом.)</small></span>
-                      <span style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }<small> (тел.)</small></span>
-                      <span style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone }<small> (Whatsapp)</small></span>
+                      <span style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></span>
+                      <span style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></span>
+                      <span style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></span>
                       <span style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</span>
                     </div>
                     <div className={classes.bodyTimework}>
@@ -1326,7 +1333,6 @@ const Main = (props: any) => {
             </FormControl>
             { filteredProducts().length === 0 ? 
                   <div className={classes.noPartners}>
-                    <img src="horse_nopartners.svg"/>
                     <div className={classes.text_noPartners}>
                       <h2>Похоже, по таким фильтрам у нас еще нет партнеров</h2>
                       <a href="#">Стать партнером</a>
