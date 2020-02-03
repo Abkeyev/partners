@@ -6,6 +6,9 @@ import PublicIcon from '@material-ui/icons/Public';
 import StoreIcon from '@material-ui/icons/Store';
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 import LinkIcon from '@material-ui/icons/Link';
+import TextField from "@material-ui/core/TextField";
+import MaskedInput from "react-maskedinput";
+import CloseIcon from '@material-ui/icons/Close';
 import PhoneIcon from '@material-ui/icons/Phone';
 import EmailIcon from '@material-ui/icons/Email';
 import Tooltip from '@material-ui/core/Tooltip';
@@ -503,7 +506,7 @@ const useStyles = makeStyles((theme: Theme) =>
       display: 'none'
     },
     noPartners: {
-      paddingTop: '4rem',
+      padding: '4rem 0',
       display: 'grid',
       alignItems: 'center',
       justifyContent: 'center',
@@ -527,7 +530,175 @@ const useStyles = makeStyles((theme: Theme) =>
           }
       }
     },
+    mainBg: {
+      backgroundImage: 'url(partners_bg.svg)',
+      backgroundSize: 'contain',
+      backgroundPosition: 'right',
+      backgroundRepeat: 'no-repeat',
+      marginTop: '2rem'
+  },
+  myFont: {
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    fontSize: 32,
+    textAlign: "center",
+    color: 'white'
+  },
+  titlePartner: {
+      fontStyle: "normal",
+      fontWeight: "bold",
+      fontSize: "40px",
+      marginBottom: 20
+  },
+  subtitlePartner: {
+      fontStyle: "normal",
+      fontWeight: "bold",
+      fontSize: "20px",
+      color: "#5B5B5B",
+      marginBottom: 10
+  },
+  buttonPartner: {
+      fontStyle: "normal",
+      fontWeight: "normal",
+      fontSize: 10,
+      color: "#5B5B5B",
+      marginTop: 10
+  },
+  noteButtonPartner: {
+      textTransform: "none",
+      color: "#3F0259",
+      fontSize: 16,
+      marginTop: 10,
+      paddingLeft: 20,
+      paddingRight: 20,
+      borderColor: "#3F0259"
+  },
+  //Modal
+  cardModal: {
+    borderRadius: '8px',
+    padding: '2rem',
+    width: '500px',
+    margin: 'auto',
+    position: 'fixed',
+    top: '5%',
+    left: 0,
+    right: 0,
+    border: '1px solid #E8E8E8',
+    backgroundColor: 'white',
+    display: 'none',
+    zIndex: 2,
+    '&.show': {
+      display: 'block'
+    },
+  },
+  bckdrop: {
+    display: 'block',
+    width: '100%',
+    height: '100%',
+    position: 'unset',
+    zIndex: 1,
+    top: 0,
+    left: 0,
+    background: '#00000054',
+    '&.show': {
+      position: 'fixed',
+    },
+  },
+  headerModal: {
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    '& > h4': {
+      fontSize: '30px',
+      margin: '10px 0'
+    },
+  },
+  bodyModal: {
+
+  },
+  marInput: {
+    margin: '5px 0',
+    '& > label': {
+      background: 'white',
+      padding: '0 4px 0 2px'
+    },
+  },
+  submit: {
+      backgroundColor: '#28ae60',
+      color: 'white'
+  },
+  exitBtn: {
+    cursor: 'pointer'
+  },
+  //RESPNSIVE
     [theme.breakpoints.down("sm")]: {
+      mainBg: {
+        background: 'unset',
+        margin: '2rem 0'
+    },
+      myFont: {
+        fontStyle: 'normal',
+        fontWeight: 'normal',
+        fontSize: 32,
+        textAlign: "center",
+        color: 'white'
+      },
+      titlePartner: {
+          fontStyle: "normal",
+          fontWeight: "bold",
+          fontSize: "30px",
+          marginBottom: 20
+      },
+      subtitlePartner: {
+          fontStyle: "normal",
+          fontWeight: "bold",
+          fontSize: "16px",
+          color: "#5B5B5B",
+          marginBottom: 10
+      },
+      //Modal
+      cardModal: {
+        borderRadius: '8px',
+        padding: '1rem',
+        width: '90%',
+        margin: 'auto',
+        position: 'fixed',
+        top: '5%',
+        left: 0,
+        right: 0,
+        border: '1px solid #E8E8E8',
+        backgroundColor: 'white',
+        display: 'none',
+        zIndex: 20,
+        '&.show': {
+          display: 'block'
+        },
+      },
+      bckdrop: {
+        display: 'block',
+        width: '100%',
+        height: '100%',
+        position: 'unset',
+        zIndex: 1,
+        top: 0,
+        left: 0,
+        background: '#00000054',
+        '&.show': {
+          position: 'fixed',
+        },
+      },
+      headerModal: {
+        '& > h4': {
+          fontSize: '30px',
+          margin: '10px 0'
+        }
+      },
+      bodyModal: {
+
+      },
+      marInput: {
+        margin: '5px 0'
+      },
       dispMob: {
         display: 'block !important',
         position: 'fixed',
@@ -1008,6 +1179,11 @@ const cities: City[] = [{
 }];
 
 const Main = (props: any) => {
+  const [fio, setFio] = React.useState("");
+  const [phoneNumber, setPhoneNumber] = React.useState("");
+  const [kala, setKala] = React.useState("");
+  const [Comp, setComp] = React.useState("");
+  const [service, setService] = React.useState("");
   const classes = useStyles({});
   const { t, i18n } = useTranslation();
   const [product, setProduct] = React.useState()
@@ -1024,11 +1200,14 @@ const Main = (props: any) => {
   const [value, setValue] = React.useState(0);
   const [search, setSearch] = React.useState('');
   const [openFilter, setOpenFilter] = React.useState(false);
+  const [openModal, setOpenModal] = React.useState(false);
 
   const handleOpenFilter = () => {
       setOpenFilter(!openFilter)
   }
-
+  const handleOpenModal = () => {
+      setOpenModal(!openModal)
+  } 
   const handleClearFilter = () => {
       setCategory([])
       setBest(false)
@@ -1039,7 +1218,23 @@ const Main = (props: any) => {
       setPos(false)
       setSearch('')
   }
-
+  interface TextMaskCustomProps {
+    inputRef: (ref: HTMLInputElement | null) => void;
+  }
+  const TextMaskCustom = (props: TextMaskCustomProps) => {
+    const { inputRef, ...other } = props;
+  
+    return (
+      <MaskedInput
+        {...other}
+        ref={(ref: any) => {
+          inputRef(ref ? ref.inputElement : null);
+        }}
+        mask="1(111) 111 11 11"
+        placeholder={"7(707) 707 77 77"}
+      />
+    );
+  };
   const handleChangeShowAll = () => {
       setShowAll(!showAll)
   }
@@ -1183,10 +1378,10 @@ const Main = (props: any) => {
                   <div className={classes.contactsInfo}>
                     <div className={classes.bodyContacts}>
                       <h3>Контакты</h3>
-                      <a href="tel:{ product.homePhone }" style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></a>
-                      <a href="tel:{ product.mobilePhone }" style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></a>
-                      <a href="tel:{ product.wpPhone }" style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></a>
-                      <a href="mailto:{ product.email }" style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</a>
+                      <a href={`tel:${product.homePhone}`} style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></a>
+                      <a href={`tel:${product.mobilePhone}`} style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></a>
+                      <a href={`tel:${product.wpPhone}`} style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></a>
+                      <a href={`mailto:${product.email}`} style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</a>
                     </div>
                     <div className={classes.bodyTimework}>
                       <h3>Режим работы</h3>
@@ -1326,7 +1521,7 @@ const Main = (props: any) => {
               <BccInput
                 placeholder="Поиск"
                 type="text"
-                autoFocus="true"
+                // autoFocus={openFilter ? false : true}
                 value={search}
                 onChange={(e: any) => handleChangeSearch(e.target.value)}
                 startAdornment={
@@ -1369,6 +1564,111 @@ const Main = (props: any) => {
         
       </Grid>
       }
+      
+      <Grid className={classes.mainRoot}>
+            <Grid container className={`${classes.root} ${classes.mainBg}`} spacing={4}>
+                <Grid item xl={6} lg={6} md={6} sm={12} xs={12}>
+                    <h2 className={classes.titlePartner}>Станьте партнером</h2>
+                    <p className={classes.subtitlePartner}>Подайте заявку чтобы стать партнером</p>
+                    {/* <p className={classes.subtitleDesc}>{t('partner.text_3')}</p>
+                    <p className={classes.subtitleDesc}>{t('partner.text_4')}</p> */}
+
+                    <span className={classes.buttonPartner}>
+                        <Button onClick={handleOpenModal}
+                            variant="outlined"
+                            className={classes.noteButtonPartner}
+                        >
+                            Написать
+                        </Button>
+                    </span>
+                </Grid>
+
+            </Grid>
+        </Grid>
+        
+        <Grid className={`${classes.cardModal} ${openModal ? 'show' : ''}`} >
+          <div className={classes.headerModal}>
+              <h4>Заявка для партнера</h4>
+              <span className={`${classes.exitBtn} ${openModal ? 'show' : ''}`} onClick={handleOpenModal}><CloseIcon style={{color: "#B9B9B9"}}/></span>
+          </div>
+
+          <form className={classes.form}>
+          <div className={classes.bodyModal}>
+          <TextField
+            variant="outlined"
+            className={classes.marInput}
+            fullWidth
+            id="name"
+            label='Имя'
+            name="name"
+            value={fio}
+            onChange={(e: any) => setFio(e.target.value)}
+          />
+          <TextField
+            className={classes.marInput}
+            variant="outlined"
+            fullWidth
+            id="phone"
+            name="phone"
+            value={phoneNumber}
+            onChange={(e: any) => setPhoneNumber(e.target.value)}
+            label='Телефон'
+            InputProps={{
+              inputComponent: TextMaskCustom as any
+            }}
+          />
+
+          <TextField
+            className={classes.marInput}
+            variant="outlined"
+            fullWidth
+            id="kala"
+            label='Город'
+            name="kala"
+            value={kala}
+            onChange={(e: any) => setKala(e.target.value)}
+          />
+           <TextField
+            className={classes.marInput}
+            variant="outlined"
+            fullWidth
+            id="nameComp"
+            label='Наименование юр. лица'
+            name="nameComp"
+            value={Comp}
+            onChange={(e: any) => setComp(e.target.value)}
+          />
+           <TextField
+            className={classes.marInput}
+            variant="outlined"
+            fullWidth
+            id="service"
+            label='Вид деятельности'
+            name="service"
+            value={service}
+            onChange={(e: any) => setService(e.target.value)}
+          />
+          
+          </div>
+          <div className={classes.footerModal}>
+            <Grid container style={{ marginTop: "15px" }} spacing={4}>
+              
+              <Grid item xl={12} lg={12} md={12} sm={12} xs={12}>
+                <Button
+                  type="submit"
+                  fullWidth
+                  variant="contained"
+                  className={classes.submit}
+                >
+                  Отправить
+                </Button>
+              </Grid>
+            </Grid>
+          </div>
+          </form>
+        </Grid>
+          <div className={`${classes.bckdrop} ${openModal ? 'show' : ''}`} onClick={handleOpenModal}></div>
+
     </Grid>
   );
 };
