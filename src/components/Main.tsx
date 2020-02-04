@@ -1,6 +1,5 @@
 import React from "react";
-import clsx from "clsx";
-import { Grid, FormControlLabel, Checkbox, FormControl, InputLabel, Input, InputAdornment, Button } from "@material-ui/core";
+import { Grid, FormControlLabel, Checkbox, FormControl, Input, InputAdornment, Button } from "@material-ui/core";
 import { makeStyles, createStyles, withStyles, Theme } from "@material-ui/core/styles";
 import PublicIcon from '@material-ui/icons/Public';
 import StoreIcon from '@material-ui/icons/Store';
@@ -16,6 +15,7 @@ import { BccInputText, BccSwitch } from './index';
 import MenuItem from '@material-ui/core/MenuItem';
 import { useTranslation } from 'react-i18next';
 import SearchIcon from '@material-ui/icons/Search';
+import emailjs from 'emailjs-com';
 
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
@@ -1178,14 +1178,53 @@ const cities: City[] = [{
   title: "Шымкент"
 }];
 
+const phoneNumber = {
+  phone: ''
+}
+
+const BccLoginInputText = withStyles({
+    root: {
+        "& label.Mui-focused": {
+            color: "#219653"
+        },
+        "& .Mui-error": {
+            "& label.Mui-focused": {
+                color: '#C84F4F'
+            },
+            "& fieldset": {
+                borderColor: "#C84F4F"
+            },
+            "&:hover fieldset": {
+                borderColor: "#C84F4F"
+            },
+            "&.Mui-focused fieldset": {
+                borderColor: "#C84F4F"
+            }
+        },
+        "& .MuiInput-underline:after": {
+            borderBottomColor: "#219653"
+        },
+        "& .MuiOutlinedInput-root": {
+            "& fieldset": {
+                borderColor: "#E8E8E8"
+            },
+            "&:hover fieldset": {
+                borderColor: "#219653"
+            },
+            "&.Mui-focused fieldset": {
+                borderColor: "#219653"
+            }
+        }
+    }
+})(TextField);
+
 const Main = (props: any) => {
   const [fio, setFio] = React.useState("");
-  const [phoneNumber, setPhoneNumber] = React.useState("");
   const [kala, setKala] = React.useState("");
-  const [Comp, setComp] = React.useState("");
+  const [comp, setComp] = React.useState("");
   const [service, setService] = React.useState("");
   const classes = useStyles({});
-  const { t, i18n } = useTranslation();
+  // const { t, i18n } = useTranslation();
   const [product, setProduct] = React.useState()
   const [categories, setCategories] = React.useState(categoriesList)
   const [category, setCategory] = React.useState<number[]>([])
@@ -1239,8 +1278,8 @@ const Main = (props: any) => {
       setShowAll(!showAll)
   }
 
-  const handleChangeSearch = (c: string) => {
-    setSearch(c)
+  const handleChangeSearch = (c: any) => {
+    setSearch(c.target.value);
   }
 
   const handleChangeCity = (c: number) => {
@@ -1253,6 +1292,22 @@ const Main = (props: any) => {
         setShowAllCities(false)
       }
   }
+  const handleSetPhone = (c: React.ChangeEvent<HTMLInputElement>) => {
+      c.preventDefault()
+      phoneNumber.phone = c.target.value
+  }
+
+  const submit = (e: any) => {
+    e.preventDefault();
+    emailjs.sendForm('madi', 'template_1yi0r746', e.target, 'user_Vslz1wEPBI1DoVgrfEAaA')
+      .then(() => {
+          handleOpenModal()
+      }, () => {
+          handleOpenModal()
+      });
+    
+  }
+
   const handleChangeBest = (c: boolean) => {
       setBest(c)
   }
@@ -1426,7 +1481,7 @@ const Main = (props: any) => {
       </Grid>
       :
         <Grid item>
-          <button className={classes.dispMob} onClick={() => handleOpenFilter()}>{openFilter ? 'Закрыть' : 'Фильтр'}</button>
+          <button className={classes.dispMob} onClick={ handleOpenFilter }>{openFilter ? 'Закрыть' : 'Фильтр'}</button>
             {/* OTSUDA */}
           <Grid container direction="row" className={openFilter ? '' : 'animated fadeInLeft faster'}>
             <Grid item lg={3} xs={12} className={`${classes.filterMob} ${openFilter ? classes.mobileFilter + ' animated fadeInUp faster' : ''}`}>
@@ -1521,9 +1576,11 @@ const Main = (props: any) => {
               <BccInput
                 placeholder="Поиск"
                 type="text"
-                // autoFocus={openFilter ? false : true}
+                autoFocus={openFilter || openModal ? false : true}
                 value={search}
-                onChange={(e: any) => handleChangeSearch(e.target.value)}
+                id="search"
+                key="search"
+                onChange={(e: any) => handleChangeSearch(e)}
                 startAdornment={
                   <InputAdornment position="start">
                     <SearchIcon style={{color: "#B9B9B9"}}/>
@@ -1591,64 +1648,68 @@ const Main = (props: any) => {
               <h4>Заявка для партнера</h4>
               <span className={`${classes.exitBtn} ${openModal ? 'show' : ''}`} onClick={handleOpenModal}><CloseIcon style={{color: "#B9B9B9"}}/></span>
           </div>
-
-          <form className={classes.form}>
+          <form onSubmit={submit}>
           <div className={classes.bodyModal}>
-          <TextField
+          <BccLoginInputText
             variant="outlined"
             className={classes.marInput}
             fullWidth
             id="name"
+            key="name"
             label='Имя'
             name="name"
             value={fio}
             onChange={(e: any) => setFio(e.target.value)}
           />
-          <TextField
+          <BccLoginInputText
             className={classes.marInput}
             variant="outlined"
             fullWidth
-            id="phone"
+            InputLabelProps={{
+              shrink: true
+            }}
             name="phone"
-            value={phoneNumber}
-            onChange={(e: any) => setPhoneNumber(e.target.value)}
+            value={phoneNumber.phone}
+            onChange={handleSetPhone}
             label='Телефон'
             InputProps={{
               inputComponent: TextMaskCustom as any
             }}
           />
 
-          <TextField
+          <BccLoginInputText
             className={classes.marInput}
             variant="outlined"
             fullWidth
             id="kala"
+            key="kala"
             label='Город'
             name="kala"
             value={kala}
             onChange={(e: any) => setKala(e.target.value)}
           />
-           <TextField
+           <BccLoginInputText
             className={classes.marInput}
             variant="outlined"
             fullWidth
             id="nameComp"
+            key="nameComp"
             label='Наименование юр. лица'
             name="nameComp"
-            value={Comp}
+            value={comp}
             onChange={(e: any) => setComp(e.target.value)}
           />
-           <TextField
+           <BccLoginInputText
             className={classes.marInput}
             variant="outlined"
             fullWidth
             id="service"
+            key="service"
             label='Вид деятельности'
             name="service"
             value={service}
             onChange={(e: any) => setService(e.target.value)}
           />
-          
           </div>
           <div className={classes.footerModal}>
             <Grid container style={{ marginTop: "15px" }} spacing={4}>
