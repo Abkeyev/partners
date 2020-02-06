@@ -32,7 +32,11 @@ const useStyles = makeStyles((theme: Theme) =>
     },
     partners: {
       color: '#B9B9B9',
-      fontSize: 14
+      fontSize: 14,
+      cursor: 'pointer',
+      '&:hover': {
+        textDecoration: 'underline',
+      }
     },
     title: {
       color: '#141414',
@@ -1299,8 +1303,13 @@ const Main = (props: any) => {
 
   const submit = (e: any) => {
     e.preventDefault();
+
     emailjs.sendForm('madi', 'template_1yi0r746', e.target, 'user_Vslz1wEPBI1DoVgrfEAaA')
       .then(() => {
+          setFio('');
+          setKala('');
+          setComp('');
+          setService('');
           handleOpenModal()
       }, () => {
           handleOpenModal()
@@ -1388,9 +1397,21 @@ const Main = (props: any) => {
             (!cashback || p.cashback > 0) && (!payment || p.payment.length > 0))
   }
 
+  const isValid = () => {
+    return fio.length > 0 && phoneNumber.phone.length > 0 && kala.length > 0 && service.length > 0
+  }
+
   return (
     <Grid container direction="column"  className={classes.mainPartners}> 
-      <Grid item className={classes.breadCrumbs}><a href="https://www.bcc.kz/kartakarta/" target="_blank" className={classes.navCard}>#картакарта</a><img className={classes.navArrow} src="nav_arrow.svg" /><span className={classes.partners}>Партнеры</span></Grid>
+      <Grid item className={classes.breadCrumbs}>
+        <a href="https://www.bcc.kz/kartakarta/?utm_source=partners&utm_medium=button_click&utm_campaign=kartakarta." target="_blank" className={classes.navCard}>#картакарта</a>
+        <img className={classes.navArrow} src="nav_arrow.svg" />
+        <span onClick={() => handleSetProductNull()} className={classes.partners}>Партнеры</span>
+        {product && <>
+          <img className={classes.navArrow} src="nav_arrow.svg" />
+          <span className={classes.partners}>{product.title}</span>
+        </>}
+      </Grid>
       <Grid item><h2 className={classes.titleName}>Партнеры #картакарта</h2></Grid>
       { product ? <Grid item className="animated fadeInRight faster">
         <Grid container direction="row">
@@ -1598,7 +1619,7 @@ const Main = (props: any) => {
                 : <Grid item className={classes.blockGrids}>
                 {
                   filteredProducts().map((p: Product, index: number) => {
-                    return <div onClick={() => handleSetProduct(p)} className={classes.contentItem}>
+                    return <div onClick={() => handleSetProduct(p)} id={`${p.id}`} className={classes.contentItem}>
                       <div className={classes.itemGrided}>
                         <div className={classes.partnerLogo_list} style={{ backgroundImage: `url(${p.img})`}}></div>
                         <h1>{p.title}</h1>
@@ -1627,12 +1648,11 @@ const Main = (props: any) => {
                 <Grid item xl={6} lg={6} md={6} sm={12} xs={12}>
                     <h2 className={classes.titlePartner}>Станьте партнером</h2>
                     <p className={classes.subtitlePartner}>Подайте заявку чтобы стать партнером</p>
-                    {/* <p className={classes.subtitleDesc}>{t('partner.text_3')}</p>
-                    <p className={classes.subtitleDesc}>{t('partner.text_4')}</p> */}
 
                     <span className={classes.buttonPartner}>
                         <Button onClick={handleOpenModal}
                             variant="outlined"
+                            id="partnerWrite"
                             className={classes.noteButtonPartner}
                         >
                             Написать
@@ -1719,7 +1739,9 @@ const Main = (props: any) => {
                   type="submit"
                   fullWidth
                   variant="contained"
+                  disabled={!isValid()}
                   className={classes.submit}
+                  id="partnerSend"
                 >
                   Отправить
                 </Button>

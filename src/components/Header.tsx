@@ -159,7 +159,7 @@ const Header = (props: any) => {
             </div>
         </div> */}
           <div className={classes.banner}>
-            <a href="https://www.bcc.kz/kartakarta/" target="_blank">
+            <a href="https://www.bcc.kz/kartakarta/?utm_source=partners&utm_medium=button_click&utm_campaign=kartakarta." target="_blank">
               <img className={classes.imgBanner_desc} src="cardcardbanner2.svg" alt=""/>
               <img className={classes.imgBanner} src="kartakarta4.png" alt=""/>
             </a>
