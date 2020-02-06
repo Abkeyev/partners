@@ -1613,7 +1613,7 @@ const Main = (props: any) => {
                   <div className={classes.noPartners}>
                     <div className={classes.text_noPartners}>
                       <h2>Похоже, по таким фильтрам у нас еще нет партнеров</h2>
-                      <a href="#">Стать партнером</a>
+                      <a href="#" onClick={handleOpenModal} id="bePartner">Стать партнером</a>
                     </div>
                   </div>
                 : <Grid item className={classes.blockGrids}>
