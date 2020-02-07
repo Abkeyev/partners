@@ -844,7 +844,7 @@ interface Category {
 interface Product {
   id: number;
   title: string;
-  city: City;
+  city: City[];
   img: string;
   category: Category;
   date: string;
@@ -870,10 +870,10 @@ interface Product {
 const products: Product[] = [{
   id: 0,
   title: 'Froot',
-  city: {
+  city: [{
       id: 0,
       title: 'Алматы'
-  },
+  }],
   img: 'froot.svg',
   category: {
     id: 9,
@@ -914,10 +914,10 @@ const products: Product[] = [{
 }, {
   id: 1,
   title: "СТРОЙКОМПЛЕКТ",
-  city: {
+  city: [{
     id: 3,
     title: "Шымкент"
-  },
+  }],
   img: 'stroi.png',
   category: {
     id: 10,
@@ -946,10 +946,10 @@ const products: Product[] = [{
 }, {
   id: 2,
   title: 'Arua',
-  city: {
+  city: [{
     id: 3,
     title: "Шымкент"
-  },
+  }],
   img: 'arua.svg',
   category: {
     id: 7,
@@ -979,14 +979,14 @@ const products: Product[] = [{
 }, {
   id: 3,
   title: "Магазин «Ксения»",
-  city: {
+  city: [{
     id: 3,
     title: "Шымкент"
-  },
+  }],
   img: 'clothes.svg',
   category: {
     id: 11,
-    title: "Одежда"
+    title: "Одежда и обувь"
   },
   date: '',
   payment: 'Расcрочка 3 мес.',
@@ -1010,10 +1010,10 @@ const products: Product[] = [{
   websiteLink: "",}, {
     id: 4,
     title: 'Галактика',
-    city: {
+    city: [{
       id: 1,
       title: "Кокшетау"
-    },
+    }],
     img: 'furniture.svg',
     category: {
       id: 7,
@@ -1040,10 +1040,10 @@ const products: Product[] = [{
   }, {
     id: 5,
     title: "Малыш",
-    city: {
+    city: [{
       id: 2,
       title: "Петропавловск"
-    },
+    }],
     img: 'item2.png',
     category: {
       id: 3,
@@ -1074,10 +1074,10 @@ const products: Product[] = [{
   }, {
     id: 6,
     title: 'Окна SOK',
-    city: {
+    city: [{
       id: 2,
       title: "Петропавловск"
-    },
+    }],
     img: 'okna.png',
     category: {
       id: 10,
@@ -1104,14 +1104,14 @@ const products: Product[] = [{
   }, {
     id: 7,
     title: "GALATEX",
-    city: {
+    city: [{
       id: 1,
       title: "Кокшетау"
-    },
+    }],
     img: 'all_for_home.svg',
     category: {
       id: 7,
-      title: "Текстиль"
+      title: "Товары для дома"
     },
     date: '',
     payment: 'Расcрочка 6 мес.',
@@ -1134,10 +1134,10 @@ const products: Product[] = [{
   }, {
     id: 8,
     title: "La Familia",
-    city: {
+    city: [{
       id: 2,
       title: "Петропавловск"
-    },
+    }],
     img: 'lafamilia.png',
     category: {
       id: 5,
@@ -1164,10 +1164,10 @@ const products: Product[] = [{
   }, {
     id: 9,
     title: "Sunkar-Premium",
-    city: {
+    city: [{
       id: 3,
       title: "Шымкент"
-    },
+    }],
     img: 'sunkar-premium.png',
     category: {
       id: 13,
@@ -1194,10 +1194,10 @@ const products: Product[] = [{
   }, {
     id: 10,
     title: "Артель",
-    city: {
+    city: [{
       id: 2,
       title: "Петропавловск"
-    },
+    }],
     img: 'artel.png',
     category: {
       id: 7,
@@ -1224,10 +1224,10 @@ const products: Product[] = [{
   }, {
     id: 11,
     title: "Tasty Fried Chicken",
-    city: {
+    city: [{
       id: 4,
       title: "Кызылорда"
-    },
+    }],
     img: 'tfs-chicken.png',
     category: {
       id: 5,
@@ -1254,10 +1254,10 @@ const products: Product[] = [{
   }, {
     id: 12,
     title: "ТОО 'Чингиз'",
-    city: {
+    city: [{
       id: 4,
       title: "Кызылорда"
-    },
+    }],
     img: 'chingiz.png',
     category: {
       id: 12,
@@ -1288,10 +1288,10 @@ const products: Product[] = [{
   }, {
     id: 13,
     title: "Офтальмологический центр Focus",
-    city: {
+    city: [{
       id: 0,
       title: "Алматы"
-    },
+    }],
     img: 'focus-clinic.svg',
     category: {
       id: 13,
@@ -1318,10 +1318,10 @@ const products: Product[] = [{
   }, {
     id: 14,
     title: "YAKUZA",
-    city: {
+    city: [{
       id: 5,
       title: "Темиртау"
-    },
+    }],
     img: 'cafe_and_restaraunt.svg',
     category: {
       id: 5,
@@ -1345,8 +1345,86 @@ const products: Product[] = [{
     social_link_vk: "",
     social_link_yt: "",
     websiteLink: "http://focuseyecenter.kz/",
+  }, {
+    id: 15,
+    title: "Keddo",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }, {
+      id: 3,
+      title: "Шымкент"
+    }, {
+      id: 4,
+      title: "Кызылорда"
+    }, {
+      id: 6,
+      title: "Тараз"
+    }, {
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'keddo.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Keddo-сеть фирменных магазинов брендовой обуви! У нас вы найдете качественную ,трендовую обувь для каждого! Будь стильным - носи Keddo!",
+    worktime: "Пн-Вс - 10:00 - 22:00",
+    homePhone: "",
+    mobilePhone: "+7 747 094 80 98",
+    wpPhone: "+7 776 650 61 11",
+    email: "keddo1kaz@yandex.kz",
+    address: [
+      "г. Тараз, ул. Толе би, д. 27, ТЦ MART",
+      "г. Нур-Султан, просп. Кабанбай Батыра, д. 62. ТРЦ MEGA Silk Way",
+      "г. Кызылорда, ул. Назарбаева 13а, ТРЦ Aray City Mall",
+      "г. Шымкент, Тамерлановское шоссе д. 3/5, ТЦ Баян-Сұлу",
+      "г. Алматы, ул. Розыбакиева, д. 263 А, ТРЦ MEGA – 2",
+      "г. Алматы, ул. Макатаева 127/1 , ТЦ MEGA Park"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/keddo_kazakhstan/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://focuseyecenter.kz/",
+  }, {
+    id: 16,
+    title: "Магазин автозапчастей",
+    city: [{
+      id: 4,
+      title: "Кызылорда"
+    }],
+    img: 'zapchasti-auto.png',
+    category: {
+      id: 1,
+      title: "Авто и мото"
+    },
+    date: '',
+    payment: '',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Магазин автозапчастей на следующие авто: Toyota, Lexus, Hyundai, Kia. Оригинальные запасные части по выгодным ценам!",
+    worktime: "Пн-Сб - 09:00 - 18:00<br>Вс - Выходной",
+    homePhone: "",
+    mobilePhone: "+7 705 952 22 33",
+    wpPhone: "+7 705 952 22 33",
+    email: "kia_hyundai@list.ru",
+    address: ["г. Кызылорда, ул. Шымбая 37"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/autoparts.kzo/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
   }];
-
 const categoriesList:Category[] = [{
   id: 1,
   title: "Авто и мото"
@@ -1379,7 +1457,7 @@ const categoriesList:Category[] = [{
   title: "Ремонт"
 }, {
   id: 11,
-  title: "Одежда"
+  title: "Одежда и обувь"
 }, {
   id: 12,
   title: "Аптеки"
@@ -1406,6 +1484,12 @@ const cities: City[] = [{
 }, {
   id: 5,
   title: "Темиртау"
+}, {
+  id: 6,
+  title: "Тараз"
+}, {
+  id: 7,
+  title: "Нур-Султан"
 }];
 
 const phoneNumber = {
@@ -1616,7 +1700,7 @@ const Main = (props: any) => {
   })((props: any) => <Checkbox {...props} />);
 
   const filteredProducts = () => {
-    return products.filter(p => ((city >= 0 && city === p.city.id) || showAllCities) && 
+    return products.filter(p => ((city >= 0 && (p.city.findIndex(ci => ci.id === city) >= 0)) || showAllCities) && 
             ((category.findIndex(c => c === p.category.id) >= 0) || showAll) &&
             (p.title.toLowerCase().includes(search.toLowerCase()) || search == '') &&
             (!best || p.special_best) && (!pos || p.pos) && (!online || p.onlinePay) &&
