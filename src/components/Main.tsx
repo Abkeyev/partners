@@ -1007,7 +1007,8 @@ const products: Product[] = [{
   social_link_inst: "",
   social_link_vk: "",
   social_link_yt: "",
-  websiteLink: "",}, {
+  websiteLink: ""
+}, {
     id: 4,
     title: 'Галактика',
     city: {
@@ -1404,7 +1405,7 @@ const Main = (props: any) => {
   return (
     <Grid container direction="column"  className={classes.mainPartners}> 
       <Grid item className={classes.breadCrumbs}>
-        <a href="https://www.bcc.kz/kartakarta/?utm_source=partners&utm_medium=button_click&utm_campaign=kartakarta." target="_blank" className={classes.navCard}>#картакарта</a>
+        <a href="https://www.bcc.kz/kartakarta/?utm_source=partners&utm_medium=button_click&utm_campaign=kartakarta" target="_blank" className={classes.navCard}>#картакарта</a>
         <img className={classes.navArrow} src="nav_arrow.svg" />
         <span onClick={() => handleSetProductNull()} className={classes.partners}>Партнеры</span>
         {product && <>
