@@ -912,6 +912,55 @@ const products: Product[] = [{
   social_link_yt: "https://www.youtube.com/channel/UC5oj3FmSgwrbXcvWz1dgpqQ",
   websiteLink: "https://froot.kz",
 }, {
+  id: 15,
+  title: "Keddo",
+  city: [{
+    id: 0,
+    title: "Алматы"
+  }, {
+    id: 3,
+    title: "Шымкент"
+  }, {
+    id: 4,
+    title: "Кызылорда"
+  }, {
+    id: 6,
+    title: "Тараз"
+  }, {
+    id: 7,
+    title: "Нур-Султан"
+  }],
+  img: 'keddo.png',
+  category: {
+    id: 11,
+    title: "Одежда и обувь"
+  },
+  date: '',
+  payment: 'Расcрочка 3 мес.',
+  cashback: 3,
+  special_best: false,
+  pos: true,
+  onlinePay: false,
+  description: "Keddo-сеть фирменных магазинов брендовой обуви! У нас вы найдете качественную ,трендовую обувь для каждого! Будь стильным - носи Keddo!",
+  worktime: "Пн-Вс - 10:00 - 22:00",
+  homePhone: "",
+  mobilePhone: "+7 747 094 80 98",
+  wpPhone: "+7 776 650 61 11",
+  email: "keddo1kaz@yandex.kz",
+  address: [
+    "г. Тараз, ул. Толе би, д. 27, ТЦ MART",
+    "г. Нур-Султан, просп. Кабанбай Батыра, д. 62. ТРЦ MEGA Silk Way",
+    "г. Кызылорда, ул. Назарбаева 13а, ТРЦ Aray City Mall",
+    "г. Шымкент, Тамерлановское шоссе д. 3/5, ТЦ Баян-Сұлу",
+    "г. Алматы, ул. Розыбакиева, д. 263 А, ТРЦ MEGA – 2",
+    "г. Алматы, ул. Макатаева 127/1 , ТЦ MEGA Park"
+],
+  social_link_fb: "",
+  social_link_inst: "https://www.instagram.com/keddo_kazakhstan/",
+  social_link_vk: "",
+  social_link_yt: "",
+  websiteLink: "http://focuseyecenter.kz/",
+}, {
   id: 1,
   title: "СТРОЙКОМПЛЕКТ",
   city: [{
@@ -1253,12 +1302,12 @@ const products: Product[] = [{
     websiteLink: "",
   }, {
     id: 12,
-    title: "ТОО 'Чингиз'",
+    title: "Ак Кайын",
     city: [{
       id: 4,
       title: "Кызылорда"
     }],
-    img: 'chingiz.png',
+    img: 'medicine.svg',
     category: {
       id: 12,
       title: "Аптеки"
@@ -1276,9 +1325,9 @@ const products: Product[] = [{
     wpPhone: "+7 777 453 02 00",
     email: "chingys@mail.ru",
     address: [
-      "Аптека 'Ак Кайын', ул. Женис 98/31 (район Автовокзала)",
-      "Аптека 'Ак Кайын', пр. Абая б/н. (район Областного диагностического центра)",
-      "Аптека 'Ак Кайын', ул. Бозгулова , строение 5 В (район Областной детской больницы)"
+      "г. Кызылорда, ул. Женис 98/31 (район Автовокзала)",
+      "г. Кызылорда, пр. Абая б/н. (район Областного диагностического центра)",
+      "г. Кызылорда, ул. Бозгулова , строение 5 В (район Областной детской больницы)"
   ],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/apteka_akkayin/",
@@ -1342,55 +1391,6 @@ const products: Product[] = [{
     address: ["г. Темиртау, ул Амангельды 114"],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/yakuza_temir/",
-    social_link_vk: "",
-    social_link_yt: "",
-    websiteLink: "http://focuseyecenter.kz/",
-  }, {
-    id: 15,
-    title: "Keddo",
-    city: [{
-      id: 0,
-      title: "Алматы"
-    }, {
-      id: 3,
-      title: "Шымкент"
-    }, {
-      id: 4,
-      title: "Кызылорда"
-    }, {
-      id: 6,
-      title: "Тараз"
-    }, {
-      id: 7,
-      title: "Нур-Султан"
-    }],
-    img: 'keddo.png',
-    category: {
-      id: 11,
-      title: "Одежда и обувь"
-    },
-    date: '',
-    payment: 'Расcрочка 3 мес.',
-    cashback: 3,
-    special_best: false,
-    pos: true,
-    onlinePay: false,
-    description: "Keddo-сеть фирменных магазинов брендовой обуви! У нас вы найдете качественную ,трендовую обувь для каждого! Будь стильным - носи Keddo!",
-    worktime: "Пн-Вс - 10:00 - 22:00",
-    homePhone: "",
-    mobilePhone: "+7 747 094 80 98",
-    wpPhone: "+7 776 650 61 11",
-    email: "keddo1kaz@yandex.kz",
-    address: [
-      "г. Тараз, ул. Толе би, д. 27, ТЦ MART",
-      "г. Нур-Султан, просп. Кабанбай Батыра, д. 62. ТРЦ MEGA Silk Way",
-      "г. Кызылорда, ул. Назарбаева 13а, ТРЦ Aray City Mall",
-      "г. Шымкент, Тамерлановское шоссе д. 3/5, ТЦ Баян-Сұлу",
-      "г. Алматы, ул. Розыбакиева, д. 263 А, ТРЦ MEGA – 2",
-      "г. Алматы, ул. Макатаева 127/1 , ТЦ MEGA Park"
-  ],
-    social_link_fb: "",
-    social_link_inst: "https://www.instagram.com/keddo_kazakhstan/",
     social_link_vk: "",
     social_link_yt: "",
     websiteLink: "http://focuseyecenter.kz/",
