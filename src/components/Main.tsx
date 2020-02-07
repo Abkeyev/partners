@@ -886,7 +886,7 @@ const products: Product[] = [{
   pos: true,
   onlinePay: false,
   description: "Магазины у дома Froot - сеть маленьких и мега удобных магазинов, где можно найти всё самое необходимое по отличным ценам.<br/>Продукты, бытовая химия, горячий кофе, вкусные сэндвичи, свежий попкорн и местные овощи можно заказать с доставкой за 15 минут!",
-  worktime: "С 8 до 24 (без выходных)",
+  worktime: "Пн-Вс - 08:00 - 24:00",
   homePhone: "",
   mobilePhone: "+7 707 000 3612",
   wpPhone: "+7 707 000 3612",
@@ -930,7 +930,7 @@ const products: Product[] = [{
   pos: true,
   onlinePay: false,
   description: "СТРОЙКОМПЛЕКТ - предлагает свои услуги для тех, кто решил начать строительство или ремонт. Здесь можно купить герметики и клеи, лакокрасочные материалы, строительные и отделочные материалы, сухие строительные смеси. История нашей компании начинается в 2003-тьем году. Ранее мы назывались Крепеж City. За более чем 15-ти летнюю историю ассортимент поставляемых товаров вырос более чем в 100 раз, и на сегодняшний день насчитывает более 10 000 различных товаров.",
-  worktime: "пн-пт: 09:00-18:00<br/>сб: 09:00-17:00<br/>вс: 09:00-15:00",
+  worktime: "Пн-Пт - 09:00 - 18:00<br/>Сб - 09:00-17:00<br/>Вс - 09:00-15:00",
   homePhone: "+8 (7252) 57-48-70",
   mobilePhone: "+7 707 553 97 43",
   wpPhone: "+7 707 553 97 43",
@@ -950,10 +950,10 @@ const products: Product[] = [{
     id: 3,
     title: "Шымкент"
   },
-  img: 'furniture.svg',
+  img: 'arua.svg',
   category: {
     id: 7,
-    title: "Текстиль"
+    title: "Товары для дома"
   },
   date: '',
   payment: 'Расcрочка 3 мес.',
@@ -962,7 +962,7 @@ const products: Product[] = [{
   pos: true,
   onlinePay: false,
   description: "ARUA – торговая марка самого крупного казахстанского производителя домашнего <br/>текстиля «АГФ групп». ARUA – представляет линейку постельного белья, произведенного<br/>из 100% экологически чистого хлопка. Это непревзойденный комфорт и удовольствие от<br/>сна. ARUA – это радость прикосновения.",
-  worktime: "Будни с 9:00 – до 19:00<br/>Суббота-воскресенье выходной",
+  worktime: "Пн-Пт - 9:00 – 19:00<br/>Сб-Вс - выходной",
   homePhone: "8 (7252) 92 15 30",
   mobilePhone: "+7 707 278 98 79",
   wpPhone: "+7 707 278 98 79",
@@ -1007,8 +1007,7 @@ const products: Product[] = [{
   social_link_inst: "",
   social_link_vk: "",
   social_link_yt: "",
-  websiteLink: ""
-}, {
+  websiteLink: "",}, {
     id: 4,
     title: 'Галактика',
     city: {
@@ -1027,7 +1026,7 @@ const products: Product[] = [{
     pos: true,
     onlinePay: false,
     description: "Производство и поставка мебели из Беларусии. Скорая помощь в выборе идеально комфортной мебели. В наличии все виды мебели. Доставка и сборка по городу БЕСПЛАТНО.<br/>Гарантия 24 месяца. @wladamebel. <br/>Приглашают оптовых покупателей к сотрудничеству.",
-    worktime: "С 9.00 до 19.00 ежедневно",
+    worktime: "Пн-Вс - 9:00 - 19:00",
     homePhone: "",
     mobilePhone: "87084441918",
     wpPhone: "87084441918",
@@ -1057,7 +1056,7 @@ const products: Product[] = [{
     pos: true,
     onlinePay: false,
     description: "«Малыш» - сеть магазинов игрушек.<br/>В нашем магазине вы найдёте огромный ассортимент оригинальных и эксклюзивных игрушек на любой вкус и бюджет.<br/>Все новинки, появляющиеся на мировом рынке, мы изучаем и предлагаем нашим покупателям.",
-    worktime: "С 10:00 до 20:00",
+    worktime: "Пн-Вс - 10:00 - 20:00",
     homePhone: "",
     mobilePhone: "+7 705 119 88 55",
     wpPhone: "+7 705 119 88 55",
@@ -1091,7 +1090,7 @@ const products: Product[] = [{
     pos: true,
     onlinePay: false,
     description: "Окна SOK – изготовит для Вас пластиковые окна высокого качества<br/>*Окна любого цвета, арочные окна <br/>*Входные группы, витражи <br/>*Балконные ограждения с крышей <br/>*Обшивка балконов под ключ Гарантийное обслуживание до 3 лет.",
-    worktime: "10:00 ч. до 19:00 ч.<br/>обед 13:00 ч. до 14:00 ч.<br/>Суббота с 10:00 ч. до 13:00 ч.<br/>выходной день: воскресенье.",
+    worktime: "Пн-Пт - 10:00 - 19:00<br/>обед 13:00 ч. до 14:00 ч.<br/>Сб - 10:00 - 13:00<br/>Вс - выходной",
     homePhone: "8 (7152) 46-93-38",
     mobilePhone: "+7 777 619 80 29",
     wpPhone: "+7 777 619 80 29",
@@ -1109,7 +1108,7 @@ const products: Product[] = [{
       id: 1,
       title: "Кокшетау"
     },
-    img: 'clothes.svg',
+    img: 'all_for_home.svg',
     category: {
       id: 7,
       title: "Текстиль"
@@ -1121,7 +1120,7 @@ const products: Product[] = [{
     pos: true,
     onlinePay: false,
     description: "'GALATEX' - первый Казахстанский текстильный бренд! Пошив и продажа сертифицированных комплектов постельного белья!<br/> Реализация оптом и в розницу. Интернет магазин.<br/>Для постельного белья мы выбираем только натуральные ткани из 100% хлопка, которые хорошо держат цвет и устойчивы к износу<br/>Материалы для пошива белья закупаются у проверенного, надежного поставщика, имеющего сертификаты качества<br/>В нашем швейном цеху работают только профессиональные специалисты, благодаря чему мы всегда получаем отличный результат<br/>Каждый комплект постельного белья мы проверяем вручную, поэтому гарантируем высокое качество наших изделий",
-    worktime: "c 10:00 до 21:00",
+    worktime: "Пн-Вс - 10:00 - 21:00",
     homePhone: "",
     mobilePhone: "+ 7 702 292 23 88",
     wpPhone: "+7 701 366 07 94",
@@ -1132,6 +1131,220 @@ const products: Product[] = [{
     social_link_vk: "",
     social_link_yt: "",
     websiteLink: "http://galatex.kz/",
+  }, {
+    id: 8,
+    title: "La Familia",
+    city: {
+      id: 2,
+      title: "Петропавловск"
+    },
+    img: 'lafamilia.png',
+    category: {
+      id: 5,
+      title: "Кафе и рестораны"
+    },
+    date: '',
+    payment: '',
+    cashback: 10,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Приглашаем вас в семейное кафе 'La Familia', которое находится в центральной парковой зоне. Мы предлагаем попробовать на вкус потрясающие блюда мировых кухонь, насладиться изысканной картой бара, ощутить приятный аромат кофе. Интерьер ресторана выполнен в приятных тонах, комфортабельная мебель и легкая музыка - настоящая атмосфера уюта. А пока родители отдыхают, дети смогут играть и веселиться в специальной детской комнате! Мы рады видеть вас всей семьей или с друзьями, на обед, ужин или день рождения, свадьбу, банкет. Мы ценим и ждем каждого гостя! С уважением, семейное кафе 'La Familia'!",
+    worktime: "Вс-Чт - 11:00 - 00:00<br> Пт-Сб - 11:00 - 01:00",
+    homePhone: "",
+    mobilePhone: "+7 747 555 15 10",
+    wpPhone: "+7 747 555 15 10",
+    email: "prostokatya1984@mail.ru",
+    address: ["г. Петропавловск, ул. Васильева. 61"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/lafamilia_petro/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 9,
+    title: "Sunkar-Premium",
+    city: {
+      id: 3,
+      title: "Шымкент"
+    },
+    img: 'sunkar-premium.png',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 8,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Клиника 'Sunkar-Premium' лучшая в своей сфере. У нас десятки квалифицированных врачей от терапевта до гинеколога и огромный спектр услуг",
+    worktime: "Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 11:00 (График работы врачей) <br> Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 15:00 (График работы лаборатории)",
+    homePhone: "8 (7252) 53-03-83",
+    mobilePhone: "+7 702 906 35 87",
+    wpPhone: "+7 702 906 35 87",
+    email: "help@sunkar-premium.kz",
+    address: ["г.Шымкент, ул.Дулати 57/57 (К.Маркса)"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/sunkar_premium/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "https://sunkarpremium.kz/",
+  }, {
+    id: 10,
+    title: "Артель",
+    city: {
+      id: 2,
+      title: "Петропавловск"
+    },
+    img: 'artel.png',
+    category: {
+      id: 7,
+      title: "Товары для дома"
+    },
+    date: '',
+    payment: '',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Специалисты Мастерской 'Артель' изготавливают столярные изделия высочайшего уровня, а также выполняют художественную ковку, успешно сочетая кованые элементы с изделиями из дерева. Наши мастера обладают соответствующей компетентностью, постоянно прилагая усилия для совершенствования своих знаний и навыков. Мы понимаем, как делать красивые вещи, придаем большое значение созданию нетривиальной продукции и уверены, что Вам тоже понравятся наши изделия. Вот лишь небольшой перечень изделий, изготавливаемых специалистами Мастерской «Артель»: - Изделия для декора интерьеров и ландшафтного дизайна - Мебель под старину и корпусная мебель из натурального дерева - Малые архитектурные формы - Лестницы из массива и кованые ограждения лестниц - резные панно и иконы… И еще многое другое Вы сможете увидеть в разделах нашего сайта.",
+    worktime: "Пн-Пт - 09:00 - 18:00 <br/> Сб-Вс - Выходной",
+    homePhone: "8 (7152) 39-84-46",
+    mobilePhone: "+7 771 360 97 32",
+    wpPhone: "+7 771 360 97 32",
+    email: "info@artel-sk.kz",
+    address: ["г.Петропавловск, ул. Гуденко, 21"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/masterskaya_artel.sk/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://artel-sk.kz/",
+  }, {
+    id: 11,
+    title: "Tasty Fried Chicken",
+    city: {
+      id: 4,
+      title: "Кызылорда"
+    },
+    img: 'tfs-chicken.png',
+    category: {
+      id: 5,
+      title: "Кафе и рестораны"
+    },
+    date: '',
+    payment: '',
+    cashback: 5,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Лучшая курочка по рецепту от KFC!",
+    worktime: "Пн-Вс - 10:00 - 01:00",
+    homePhone: "8 (7152) 39-84-46",
+    mobilePhone: "+7 776 766 79 99",
+    wpPhone: "+7 776 727 79 99",
+    email: "rada76@inbox.ru",
+    address: ["г.Кызылорда, ул. Желтоксан 6"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/tfchicken_kzo/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 12,
+    title: "ТОО 'Чингиз'",
+    city: {
+      id: 4,
+      title: "Кызылорда"
+    },
+    img: 'chingiz.png',
+    category: {
+      id: 12,
+      title: "Аптеки"
+    },
+    date: '',
+    payment: '',
+    cashback: 2,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "ТОО 'Чингиз' предоставляет высококачественные услуги по реализации фармацевтической и медицинской продукции через сеть аптек «Ак Кайын»",
+    worktime: "Пн-Вс - 08:00 - 20:00",
+    homePhone: "",
+    mobilePhone: "+7 701 735 28 88",
+    wpPhone: "+7 777 453 02 00",
+    email: "chingys@mail.ru",
+    address: [
+      "Аптека 'Ак Кайын', ул. Женис 98/31 (район Автовокзала)",
+      "Аптека 'Ак Кайын', пр. Абая б/н. (район Областного диагностического центра)",
+      "Аптека 'Ак Кайын', ул. Бозгулова , строение 5 В (район Областной детской больницы)"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/apteka_akkayin/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://chingys.kz/",
+  }, {
+    id: 13,
+    title: "Офтальмологический центр Focus",
+    city: {
+      id: 0,
+      title: "Алматы"
+    },
+    img: 'focus-clinic.svg',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Цель создания центра: Оказание офтальмологической помощи населению РК на высочайшем современном уровне, отвечающем требованиям лучших европейских клиник с внедрением самых передовых методов диагностики и хирургического лечения. Центр оснащен самым современным оборудованием для диагностики и хирургического лечения больных с различной офтальмопатологией переднего и заднего отрезка глаза: патологии роговицы, катаракты возрастной и осложнённой и с патологией связочного аппарата хрусталика.",
+    worktime: "Пн-Пт - 08:00 - 17:00 <br/>Сб - 08:00 - 13:00",
+    homePhone: "8 (727) 337-70-80",
+    mobilePhone: "+7 702 337 70 80",
+    wpPhone: "",
+    email: "jandoskrb@mail.ru",
+    address: ["пр. Сейфуллина, д. 450, уг. ул. Жибек жолы"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/eye_center_focus/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://focuseyecenter.kz/",
+  }, {
+    id: 14,
+    title: "YAKUZA",
+    city: {
+      id: 5,
+      title: "Темиртау"
+    },
+    img: 'cafe_and_restaraunt.svg',
+    category: {
+      id: 5,
+      title: "Кафе и рестораны"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Вкуснейшие суши, роллы, пицца, удоны",
+    worktime: "Пн-Вс - 11:00 - 23:00",
+    homePhone: "8 (727) 337-70-80",
+    mobilePhone: "+7 775 506 60 20",
+    wpPhone: "",
+    email: "jandoskrb@mail.ru",
+    address: ["г. Темиртау, ул Амангельды 114"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/yakuza_temir/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://focuseyecenter.kz/",
   }];
 
 const categoriesList:Category[] = [{
@@ -1167,6 +1380,12 @@ const categoriesList:Category[] = [{
 }, {
   id: 11,
   title: "Одежда"
+}, {
+  id: 12,
+  title: "Аптеки"
+}, {
+  id: 13,
+  title: "Прочее"
 }];
 
 const cities: City[] = [{
@@ -1181,6 +1400,12 @@ const cities: City[] = [{
 }, {
   id: 3,
   title: "Шымкент"
+}, {
+  id: 4,
+  title: "Кызылорда"
+}, {
+  id: 5,
+  title: "Темиртау"
 }];
 
 const phoneNumber = {
@@ -1620,17 +1845,17 @@ const Main = (props: any) => {
                 : <Grid item className={classes.blockGrids}>
                 {
                   filteredProducts().map((p: Product, index: number) => {
-                    return <div onClick={() => handleSetProduct(p)} id={`${p.id}`} className={classes.contentItem}>
-                      <div className={classes.itemGrided}>
-                        <div className={classes.partnerLogo_list} style={{ backgroundImage: `url(${p.img})`}}></div>
-                        <h1>{p.title}</h1>
-                        <h2>{p.category.title}</h2>
-                        <span style={{ display: p.payment.length > 0 ? 'flex' : 'none' }}>{p.payment}</span>
-                        <h3 style={{ display: p.cashback > 0 ? 'flex' : 'none' }} className={`${classes.cashback} ${p.special_best ? classes.special : ''}`}>Кешбэк<span>{p.cashback}%</span></h3>
+                    return <div onClick={() => handleSetProduct(p)} className={`${classes.contentItem} partner${p.id}`}>
+                      <div className={`${classes.itemGrided} partner${p.id}`}>
+                        <div className={`${classes.partnerLogo_list} partner${p.id}`} style={{ backgroundImage: `url(${p.img})`}}></div>
+                        <h1 className={`partner${p.id}`}>{p.title}</h1>
+                        <h2 className={`partner${p.id}`}>{p.category.title}</h2>
+                        <span className={`partner${p.id}`} style={{ display: p.payment.length > 0 ? 'flex' : 'none' }}>{p.payment}</span>
+                        <h3 style={{ display: p.cashback > 0 ? 'flex' : 'none' }} className={`${classes.cashback} ${p.special_best ? classes.special : ''} partner${p.id}`}>Кешбэк<span>{p.cashback}%</span></h3>
                       </div>
-                      <div className={classes.viewPay}>
-                        <span style={{ display: p.onlinePay ? 'inline' : 'none' }}><Tooltip title="Покупка онлайн" arrow><PublicIcon/></Tooltip></span>
-                        <span style={{ display: p.pos ? 'inline' : 'none' }}><Tooltip title="Покупка в POS" arrow><StoreIcon/></Tooltip></span>
+                      <div className={`${classes.viewPay} partner${p.id}`}>
+                        <span className={`partner${p.id}`} style={{ display: p.onlinePay ? 'inline' : 'none' }}><Tooltip title="Покупка онлайн" arrow><PublicIcon className={`partner${p.id}`}/></Tooltip></span>
+                        <span className={`partner${p.id}`} style={{ display: p.pos ? 'inline' : 'none' }}><Tooltip title="Покупка в POS" arrow><StoreIcon className={`partner${p.id}`}/></Tooltip></span>
                       </div>
                     </div>
                   })
@@ -1650,11 +1875,10 @@ const Main = (props: any) => {
                     <h2 className={classes.titlePartner}>Станьте партнером</h2>
                     <p className={classes.subtitlePartner}>Подайте заявку чтобы стать партнером</p>
 
-                    <span className={classes.buttonPartner}>
+                    <span className={`${classes.buttonPartner} partnerWrite`}>
                         <Button onClick={handleOpenModal}
                             variant="outlined"
-                            id="partnerWrite"
-                            className={classes.noteButtonPartner}
+                            className={`${classes.noteButtonPartner} partnerWrite`}
                         >
                             Написать
                         </Button>
@@ -1741,8 +1965,7 @@ const Main = (props: any) => {
                   fullWidth
                   variant="contained"
                   disabled={!isValid()}
-                  className={classes.submit}
-                  id="partnerSend"
+                  className={`${classes.submit} partnerSend`}
                 >
                   Отправить
                 </Button>
