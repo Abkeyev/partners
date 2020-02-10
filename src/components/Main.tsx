@@ -1949,7 +1949,7 @@ const Main = (props: any) => {
                         <span className={`partner-${p.id}`} style={{ display: p.payment.length > 0 ? 'flex' : 'none' }}>{p.payment}</span>
                         <h3 style={{ display: p.cashback > 0 ? 'flex' : 'none' }} className={`${classes.cashback} ${p.special_best ? classes.special : ''} partner-${p.id}`}>Кешбэк<span>{p.cashback}%</span></h3>
                       </div>
-                      <div className={`${classes.viewPay} partner${p.id}`}>
+                      <div className={`${classes.viewPay} partner-${p.id}`}>
                         <span className={`partner-${p.id}`} style={{ display: p.onlinePay ? 'inline' : 'none' }}><Tooltip title="Покупка онлайн" arrow><PublicIcon className={`partner-${p.id}`}/></Tooltip></span>
                         <span className={`partner-${p.id}`} style={{ display: p.pos ? 'inline' : 'none' }}><Tooltip title="Покупка в POS" arrow><StoreIcon className={`partner-${p.id}`}/></Tooltip></span>
                       </div>
