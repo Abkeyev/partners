@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <YMInitializer
-        accounts={[56874502]}
+        accounts={[57384823]}
         options={{
           clickmap: true,
           trackLinks: true,

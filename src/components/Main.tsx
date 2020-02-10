@@ -208,7 +208,17 @@ const useStyles = makeStyles((theme: Theme) =>
     },
     iconBack: {
       paddingRight: '15px',
-      cursor: 'pointer'
+      cursor: 'pointer',
+      display: 'flex',
+      alignItems: 'center',
+      '& > svg': {
+        color: '#28ae60',
+        padding: '3px',
+        background: 'transparent',
+        border: '1px solid',
+        borderRadius: '5px',
+        transition: '.3s'
+      }
     },
     cardHeader_title: {
       '& > h1': {
@@ -487,7 +497,9 @@ const useStyles = makeStyles((theme: Theme) =>
     },
     back: {
       '&:hover': {
-        color: '#27AE60'
+        border: '1px solid #28ae60',
+        background: '#28ae60',
+        color: 'white'
       }
     },
     search: {
@@ -1929,17 +1941,17 @@ const Main = (props: any) => {
                 : <Grid item className={classes.blockGrids}>
                 {
                   filteredProducts().map((p: Product, index: number) => {
-                    return <div onClick={() => handleSetProduct(p)} className={`${classes.contentItem} partner${p.id}`}>
-                      <div className={`${classes.itemGrided} partner${p.id}`}>
-                        <div className={`${classes.partnerLogo_list} partner${p.id}`} style={{ backgroundImage: `url(${p.img})`}}></div>
-                        <h1 className={`partner${p.id}`}>{p.title}</h1>
-                        <h2 className={`partner${p.id}`}>{p.category.title}</h2>
-                        <span className={`partner${p.id}`} style={{ display: p.payment.length > 0 ? 'flex' : 'none' }}>{p.payment}</span>
-                        <h3 style={{ display: p.cashback > 0 ? 'flex' : 'none' }} className={`${classes.cashback} ${p.special_best ? classes.special : ''} partner${p.id}`}>Кешбэк<span>{p.cashback}%</span></h3>
+                    return <div onClick={() => handleSetProduct(p)} className={`${classes.contentItem} partner-${p.id}`}>
+                      <div className={`${classes.itemGrided} partner-${p.id}`}>
+                        <div className={`${classes.partnerLogo_list} partner-${p.id}`} style={{ backgroundImage: `url(${p.img})`}}></div>
+                        <h1 className={`partner-${p.id}`}>{p.title}</h1>
+                        <h2 className={`partner-${p.id}`}>{p.category.title}</h2>
+                        <span className={`partner-${p.id}`} style={{ display: p.payment.length > 0 ? 'flex' : 'none' }}>{p.payment}</span>
+                        <h3 style={{ display: p.cashback > 0 ? 'flex' : 'none' }} className={`${classes.cashback} ${p.special_best ? classes.special : ''} partner-${p.id}`}>Кешбэк<span>{p.cashback}%</span></h3>
                       </div>
                       <div className={`${classes.viewPay} partner${p.id}`}>
-                        <span className={`partner${p.id}`} style={{ display: p.onlinePay ? 'inline' : 'none' }}><Tooltip title="Покупка онлайн" arrow><PublicIcon className={`partner${p.id}`}/></Tooltip></span>
-                        <span className={`partner${p.id}`} style={{ display: p.pos ? 'inline' : 'none' }}><Tooltip title="Покупка в POS" arrow><StoreIcon className={`partner${p.id}`}/></Tooltip></span>
+                        <span className={`partner-${p.id}`} style={{ display: p.onlinePay ? 'inline' : 'none' }}><Tooltip title="Покупка онлайн" arrow><PublicIcon className={`partner-${p.id}`}/></Tooltip></span>
+                        <span className={`partner-${p.id}`} style={{ display: p.pos ? 'inline' : 'none' }}><Tooltip title="Покупка в POS" arrow><StoreIcon className={`partner-${p.id}`}/></Tooltip></span>
                       </div>
                     </div>
                   })
