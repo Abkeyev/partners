@@ -1152,7 +1152,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Окна SOK – изготовит для Вас пластиковые окна высокого качества<br/>*Окна любого цвета, арочные окна <br/>*Входные группы, витражи <br/>*Балконные ограждения с крышей <br/>*Обшивка балконов под ключ Гарантийное обслуживание до 3 лет.",
     worktime: "Пн-Пт - 10:00 - 19:00<br/>обед 13:00 ч. до 14:00 ч.<br/>Сб - 10:00 - 13:00<br/>Вс - выходной",
-    homePhone: "8 (7152) 46-93-38",
+    homePhone: "8 (7152) 46 93 38",
     mobilePhone: "+7 777 619 80 29",
     wpPhone: "+7 777 619 80 29",
     email: "sputnikk@inbox.ru",
@@ -1242,7 +1242,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Клиника 'Sunkar-Premium' лучшая в своей сфере. У нас десятки квалифицированных врачей от терапевта до гинеколога и огромный спектр услуг",
     worktime: "Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 11:00 (График работы врачей) <br> Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 15:00 (График работы лаборатории)",
-    homePhone: "8 (7252) 53-03-83",
+    homePhone: "8 (7252) 53 03 83",
     mobilePhone: "+7 702 906 35 87",
     wpPhone: "+7 702 906 35 87",
     email: "help@sunkar-premium.kz",
@@ -1272,7 +1272,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Специалисты Мастерской 'Артель' изготавливают столярные изделия высочайшего уровня, а также выполняют художественную ковку, успешно сочетая кованые элементы с изделиями из дерева. Наши мастера обладают соответствующей компетентностью, постоянно прилагая усилия для совершенствования своих знаний и навыков. Мы понимаем, как делать красивые вещи, придаем большое значение созданию нетривиальной продукции и уверены, что Вам тоже понравятся наши изделия. Вот лишь небольшой перечень изделий, изготавливаемых специалистами Мастерской «Артель»: - Изделия для декора интерьеров и ландшафтного дизайна - Мебель под старину и корпусная мебель из натурального дерева - Малые архитектурные формы - Лестницы из массива и кованые ограждения лестниц - резные панно и иконы… И еще многое другое Вы сможете увидеть в разделах нашего сайта.",
     worktime: "Пн-Пт - 09:00 - 18:00 <br/> Сб-Вс - Выходной",
-    homePhone: "8 (7152) 39-84-46",
+    homePhone: "8 (7152) 39 84 46",
     mobilePhone: "+7 771 360 97 32",
     wpPhone: "+7 771 360 97 32",
     email: "info@artel-sk.kz",
@@ -1302,7 +1302,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Лучшая курочка по рецепту от KFC!",
     worktime: "Пн-Вс - 10:00 - 01:00",
-    homePhone: "8 (7152) 39-84-46",
+    homePhone: "8 (7152) 39 84 46",
     mobilePhone: "+7 776 766 79 99",
     wpPhone: "+7 776 727 79 99",
     email: "rada76@inbox.ru",
@@ -1366,7 +1366,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Цель создания центра: Оказание офтальмологической помощи населению РК на высочайшем современном уровне, отвечающем требованиям лучших европейских клиник с внедрением самых передовых методов диагностики и хирургического лечения. Центр оснащен самым современным оборудованием для диагностики и хирургического лечения больных с различной офтальмопатологией переднего и заднего отрезка глаза: патологии роговицы, катаракты возрастной и осложнённой и с патологией связочного аппарата хрусталика.",
     worktime: "Пн-Пт - 08:00 - 17:00 <br/>Сб - 08:00 - 13:00",
-    homePhone: "8 (727) 337-70-80",
+    homePhone: "8 (7273) 37 70 80",
     mobilePhone: "+7 702 337 70 80",
     wpPhone: "",
     email: "jandoskrb@mail.ru",
@@ -1396,7 +1396,7 @@ const products: Product[] = [{
     onlinePay: false,
     description: "Вкуснейшие суши, роллы, пицца, удоны",
     worktime: "Пн-Вс - 11:00 - 23:00",
-    homePhone: "8 (727) 337-70-80",
+    homePhone: "",
     mobilePhone: "+7 775 506 60 20",
     wpPhone: "",
     email: "jandoskrb@mail.ru",
@@ -1436,6 +1436,278 @@ const products: Product[] = [{
     social_link_vk: "",
     social_link_yt: "",
     websiteLink: "",
+  }, {
+    id: 17,
+    title: "PLAYMATE",
+    city: [{
+      id: 2,
+      title: "Петропавловск"
+    }],
+    img: 'playmate.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 5,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Первый салон нижнего белья премиум класса, представитель мирового бренда Annebra в Казахстане. Комплекты нижнего и домашнего белья из европейских тканей. Трендовые модели мировых подиумов. Бесплатная доставка по Казахстану.",
+    worktime: "Пн-Вс - 15:00 - 20:00",
+    homePhone: "",
+    mobilePhone: "+7 777 084 30 00",
+    wpPhone: "+7 777 084 30 00",
+    email: "my.lingerie@mail.ru",
+    address: ["г. Петропавловск, ул. Тауфика Мухамед-Рахимова, 66"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/playmate_kz/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 18,
+    title: "Клиника болезней суставов AGAR",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }],
+    img: 'agar_sustav.png',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Клиника болезней суставов AGAR является ведущей клиникой в области ревматологии и лечения опорно-двигательного аппарата. Врачи клиники входят в ТОП 5 ревматологов г. Рекомендации к заполнению информации по партнерам Алматы. Достоверный диагноз, эффективные и инновационные методы лечения без операций, индивидуальный подход к каждому пациенту.",
+    worktime: "Пн-Пт - 08:00 - 20:00 <br/>Сб - 08:00 - 14:00<br/>Вс - выходной",
+    homePhone: "8 (7273) 27 01 67",
+    mobilePhone: "+7 702 839 40 09",
+    wpPhone: "+7 702 839 40 09",
+    email: "sustav.kz@mail.ru",
+    address: ["г. Алматы, ул. Байтурсынова 132б"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/playmate_kz/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://www.sustav.kz/",
+  }, {
+    id: 19,
+    title: "Red Room Bar",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }],
+    img: 'redroom.png',
+    category: {
+      id: 5,
+      title: "Кафе и рестораны"
+    },
+    date: '',
+    payment: '',
+    cashback: 15,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Red Room Bar – атмосферное место для модной, прогрессивной молодежи Алматы. Бар с неординарным дизайном и еженедельными тематическими вечеринками. В Red Room можно вкусно поужинать, насладиться шикарными авторскими коктейлями, покурить дымный кальян и потанцевать.",
+    worktime: "Пн-Вт - выходной <br/>Ср,Чт, Вс - 20:00 - 03:00<br/>Пт - 20:00 - 05:00",
+    homePhone: "",
+    mobilePhone: "+7 701 945 45 55",
+    wpPhone: "+7 701 945 45 55",
+    email: "redroombar.almaty@gmail.com",
+    address: ["г. Алматы, ул. Наурызбай Батыра,85"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/redroom_bar_almaty/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 20,
+    title: "МИР ОДЕЖДЫ",
+    city: [{
+      id: 8,
+      title: "Сатпаев"
+    }],
+    img: 'clothes_world.png',
+    category: {
+      id: 11,
+      title: "Обувь и одежда"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "ИП «Мухамбеткалиева А.Ж.» Магазин «МИР ОДЕЖДЫ» розничная реализация женской одежды. Заключили Соглашение о предоставлении CashBack в размере 3% , а так же рассрочку сроком на 3 месяца, для держателей кредитных карт БЦК #картакарта",
+    worktime: "Пн-Сб - 11:00 - 19:00<br/>Вс - 11:00 - 17:00",
+    homePhone: "",
+    mobilePhone: "+7 707 486 33 50",
+    wpPhone: "+7 707 486 33 50",
+    email: "mukanova_akos@mail.ru",
+    address: ["г. Сатпаев, ул.Абая 26А (ТД «GRAND»)"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/mir_odezhdy_satpaev/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 21,
+    title: "On Clinic",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'on_clinic.png',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Медицинский центр «On Clinic» Астана является филиалом международной корпорации «On Clinic International» – безусловного лидера по восстановлению мужской потенции. Методики «On Clinic» успешно внедрены по всему миру. «On Clinic» Астана – это многопрофильный лечебно-диагностический и консультационный центр. Ведущие направления – урология, проктология, гинекология и дерматология, занимающиеся решением деликатных и очень значимых для каждого человека проблем. В дополнение к ведущим направлениям функционируют следующие высокоспециализированные отделения: трихологии, маммологии, амбулаторной хирургии, гастроэнтерологии.",
+    worktime: "Пн-Пт - 08:00 - 20:00<br/>Сб - 08:00 - 17:00<br/>Вс - выходной",
+    homePhone: "8 (7172) 66 03 03",
+    mobilePhone: "+7 707 366 03 03",
+    wpPhone: "+7 705 536 03 03",
+    email: "onclinic@mail.ru",
+    address: ["г. Нур-Султан, ул. Валиханова 1, угол ул. Иманова"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/mir_odezhdy_satpaev/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "https://astana.onclinic.kz/",
+  }, {
+    id: 22,
+    title: "HONEY",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'honey.png',
+    category: {
+      id: 14,
+      title: "Акссесуары"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "HONEY - cеть магазинов бижутерии и аксессуаров. Здесь найдутся самые красивые и доступные аксессуары для женщин всех возрастов. Отличительной чертой можно назвать разнообразие и ассортимент, сопровождающиеся качественным обслуживанием и красивой упаковкой.",
+    worktime: "Пн-Вс - 10:00 - 22:00 (ТРЦ «Керуен»)<br/>Пн-Вс - 10:00 - 21:00 (ТЦ «Евразия 2»)",
+    homePhone: "8 (7172) 79 53 88",
+    mobilePhone: "+7 701 550 33 77",
+    wpPhone: "+7 701 554 56 70",
+    email: "boutique.honey@mail.ru",
+    address: ["г. Нур-Султан, ул. Валиханова 1, угол ул. Иманова"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/honey_boutique001/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 23,
+    title: "ЗарДан",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'zardan.png',
+    category: {
+      id: 4,
+      title: "Красота и здоровье"
+    },
+    date: '',
+    payment: 'Расcрочка 12 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Стоматология ЗарДан на рынке более 20 лет. Опытные врачи стоматологи и дерматокосмето́логи. Клиника известна как высоким качеством работы и профессионализмом врачей.",
+    worktime: "Пн-Вс - 08:00 - 21:00",
+    homePhone: "8 (7172) 95 14 56",
+    mobilePhone: "+7 777 572 28 74",
+    wpPhone: "+7 701 451 99 46",
+    email: "zardan_2018@mail.ru",
+    address: ["г. Нур-Султан, ул. Сабыр Рахимова, 36"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/zardan_astana/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://zardan.kz/",
+  }, {
+    id: 24,
+    title: "Loveliness",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'beauty_and_health.svg',
+    category: {
+      id: 4,
+      title: "Красота и здоровье"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Прямая поставка из Южной Кореи. На рынке более 5 лет.",
+    worktime: "Пн-Вс - 08:00 - 21:00",
+    homePhone: "",
+    mobilePhone: "+7 701 722 79 06",
+    wpPhone: "+7 701 722 79 06",
+    email: "gulnar1200@mail.ru",
+    address: ["г. Нур-Султан, Мангилик ел 17, 1-эт, бут-403"],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/Loveliness.cosmetics/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 25,
+    title: "Dilda",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'other.svg',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "На рынке более 11 лет. В сетях наших магазин Вы найдете качественные товары из Италии, Китая, Дубай и Кореи.",
+    worktime: "Пн-Вс - 09:00 - 20:00",
+    homePhone: "8 (7172) 54 67 00",
+    mobilePhone: "+7 775 603 57 62",
+    wpPhone: "+7 778 081 98 18",
+    email: "87016666994@mail.ru",
+    address: ["г. Нур-Султан, ул. Б.Момышулы 12",
+    "г. Нур-Султан, ул. Туркестан 8/2"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/dilda_flower/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
   }];
 const categoriesList:Category[] = [{
   id: 1,
@@ -1448,7 +1720,7 @@ const categoriesList:Category[] = [{
   title: "Детские товары"
 }, {
   id: 4,
-  title: "Здоровье и красота"
+  title: "Красота и здоровье"
 }, {
   id: 5,
   title: "Кафе и рестораны"
@@ -1476,6 +1748,9 @@ const categoriesList:Category[] = [{
 }, {
   id: 13,
   title: "Прочее"
+}, {
+  id: 14,
+  title: "Акссесуары"
 }];
 
 const cities: City[] = [{
@@ -1502,6 +1777,9 @@ const cities: City[] = [{
 }, {
   id: 7,
   title: "Нур-Султан"
+}, {
+  id: 8,
+  title: "Сатпаев"
 }];
 
 const phoneNumber = {
