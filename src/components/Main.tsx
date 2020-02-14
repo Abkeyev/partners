@@ -1610,7 +1610,7 @@ const products: Product[] = [{
     mobilePhone: "+7 701 550 33 77",
     wpPhone: "+7 701 554 56 70",
     email: "boutique.honey@mail.ru",
-    address: ["г. Нур-Султан, ул. Валиханова 1, угол ул. Иманова"],
+    address: ["г. Нур-Султан, ул. Достық 9, ТРЦ «Керуен»", "г. Нур-Султан, ул. Петрова 24Б, ТЦ «Евразия 2»"],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/honey_boutique001/",
     social_link_vk: "",
