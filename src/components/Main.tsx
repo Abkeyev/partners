@@ -1370,7 +1370,7 @@ const products: Product[] = [{
     mobilePhone: "+7 702 337 70 80",
     wpPhone: "+7 702 337 70 80",
     email: "eyecenterfocus@gmail.com",
-    address: ["пр. Сейфуллина, д. 450, уг. ул. Жибек жолы, +7 (727) 337-70-81"],
+    address: ["пр. Сейфуллина, д. 450, уг. ул. Жибек жолы. +7 (727) 337-70-81"],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/eye_center_focus/",
     social_link_vk: "",
