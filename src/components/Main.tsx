@@ -1353,7 +1353,7 @@ const products: Product[] = [{
       id: 0,
       title: "Алматы"
     }],
-    img: 'loveliness.png',
+    img: 'focus-clinic.png',
     category: {
       id: 13,
       title: "Прочее"
@@ -1653,7 +1653,7 @@ const products: Product[] = [{
       id: 7,
       title: "Нур-Султан"
     }],
-    img: 'beauty_and_health.svg',
+    img: 'loveliness.png',
     category: {
       id: 4,
       title: "Красота и здоровье"
