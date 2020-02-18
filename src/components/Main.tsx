@@ -1353,7 +1353,7 @@ const products: Product[] = [{
       id: 0,
       title: "Алматы"
     }],
-    img: 'focus-clinic.svg',
+    img: 'loveliness.png',
     category: {
       id: 13,
       title: "Прочее"
@@ -1370,7 +1370,7 @@ const products: Product[] = [{
     mobilePhone: "+7 702 337 70 80",
     wpPhone: "77023377080",
     email: "eyecenterfocus@gmail.com",
-    address: ["пр. Сейфуллина, д. 450, уг. ул. Жибек жолы. +7 (727) 337-70-81"],
+    address: ["г. Алматы, ул. Сейфуллина, д. 450, уг. ул. Жибек жолы. +7 (727) 337-70-81"],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/eye_center_focus/",
     social_link_vk: "",
@@ -1460,7 +1460,7 @@ const products: Product[] = [{
     mobilePhone: "+7 777 084 30 00",
     wpPhone: "77770843000",
     email: "my.lingerie@mail.ru",
-    address: ["г. Петропавловск, ул. Тауфика Мухамед-Рахимова, 66"],
+    address: ["г. Петропавловск, ул. Тауфика Мухамед-Рахимова,  66"],
     social_link_fb: "",
     social_link_inst: "https://www.instagram.com/playmate_kz/",
     social_link_vk: "",
@@ -1531,7 +1531,7 @@ const products: Product[] = [{
     title: "МИР ОДЕЖДЫ",
     city: [{
       id: 8,
-      title: "Сатпаев"
+      title: "Жезказган"
     }],
     img: 'clothes_world.png',
     category: {
@@ -1779,7 +1779,7 @@ const cities: City[] = [{
   title: "Нур-Султан"
 }, {
   id: 8,
-  title: "Сатпаев"
+  title: "Жезказган"
 }];
 
 const phoneNumber = {
