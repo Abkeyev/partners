@@ -901,7 +901,7 @@ const products: Product[] = [{
   worktime: "Пн-Вс - 08:00 - 24:00",
   homePhone: "",
   mobilePhone: "+7 707 000 3612",
-  wpPhone: "+7 707 000 3612",
+  wpPhone: "77070003612",
   email: "contact@thefroot.com",
   address: [
     "г. Алматы, Медеуский район, ул. Кунаева д. 119/47, кв. 30",
@@ -957,7 +957,7 @@ const products: Product[] = [{
   worktime: "Пн-Вс - 10:00 - 22:00",
   homePhone: "",
   mobilePhone: "+7 747 094 80 98",
-  wpPhone: "+7 776 650 61 11",
+  wpPhone: "77766506111",
   email: "keddo1kaz@yandex.kz",
   address: [
     "г. Тараз, ул. Толе би, д. 27, ТЦ MART",
@@ -971,7 +971,7 @@ const products: Product[] = [{
   social_link_inst: "https://www.instagram.com/keddo_kazakhstan/",
   social_link_vk: "",
   social_link_yt: "",
-  websiteLink: "http://focuseyecenter.kz/",
+  websiteLink: "",
 }, {
   id: 1,
   title: "СТРОЙКОМПЛЕКТ",
@@ -994,7 +994,7 @@ const products: Product[] = [{
   worktime: "Пн-Пт - 09:00 - 18:00<br/>Сб - 09:00-17:00<br/>Вс - 09:00-15:00",
   homePhone: "+8 (7252) 57-48-70",
   mobilePhone: "+7 707 553 97 43",
-  wpPhone: "+7 707 553 97 43",
+  wpPhone: "77075539743",
   email: "info@stkt.kz",
   address: [
     "г.Шымкент, ул. Желтоксан, 163"
@@ -1026,7 +1026,7 @@ const products: Product[] = [{
   worktime: "Пн-Пт - 9:00 – 19:00<br/>Сб-Вс - выходной",
   homePhone: "8 (7252) 92 15 30",
   mobilePhone: "+7 707 278 98 79",
-  wpPhone: "+7 707 278 98 79",
+  wpPhone: "77072789879",
   email: "sales1@agf.kz",
   address: [
     "г.Шымкент, площадь Аль-Фараби, ТРЦ 'Shymkent Plaza' 1 этаж",
@@ -1059,7 +1059,7 @@ const products: Product[] = [{
   worktime: "c 10:00 до 18:00",
   homePhone: "",
   mobilePhone: "+7 701 366 07 94",
-  wpPhone: "+7 701 366 07 94",
+  wpPhone: "77013660794",
   email: "",
   address: [
     "г.Шымкент, ул.Аскарова 13/1, ТД 'ЮГ-Сити', 1 этаж"
@@ -1120,7 +1120,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 10:00 - 20:00",
     homePhone: "",
     mobilePhone: "+7 705 119 88 55",
-    wpPhone: "+7 705 119 88 55",
+    wpPhone: "77051198855",
     email: "andrei-dyakin@mail.ru",
     address: [
       "г. Петропавловск, ул. Муканова, 53 (ТРЦ 'Семейный' (2 этаж)) – 10:00 до 20:00",
@@ -1154,7 +1154,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 10:00 - 19:00<br/>обед 13:00 ч. до 14:00 ч.<br/>Сб - 10:00 - 13:00<br/>Вс - выходной",
     homePhone: "8 (7152) 46 93 38",
     mobilePhone: "+7 777 619 80 29",
-    wpPhone: "+7 777 619 80 29",
+    wpPhone: "77776198029",
     email: "sputnikk@inbox.ru",
     address: ["г. Петропавловск, ул. Букетова, 44"],
     social_link_fb: "",
@@ -1184,7 +1184,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 10:00 - 21:00",
     homePhone: "",
     mobilePhone: "+ 7 702 292 23 88",
-    wpPhone: "+7 701 366 07 94",
+    wpPhone: "77013660794",
     email: "Galatex2015@mail.ru",
     address: ["г. Кокшетау ул. Осипенко 1 ТРЦ 'РИО', 1 этаж"],
     social_link_fb: "",
@@ -1214,7 +1214,7 @@ const products: Product[] = [{
     worktime: "Вс-Чт - 11:00 - 00:00<br> Пт-Сб - 11:00 - 01:00",
     homePhone: "",
     mobilePhone: "+7 747 555 15 10",
-    wpPhone: "+7 747 555 15 10",
+    wpPhone: "77475551510",
     email: "prostokatya1984@mail.ru",
     address: ["г. Петропавловск, ул. Васильева. 61"],
     social_link_fb: "",
@@ -1244,7 +1244,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 11:00 (График работы врачей) <br> Пн-Пт - 09:00 - 18:00 / Сб - 09:00 - 15:00 (График работы лаборатории)",
     homePhone: "8 (7252) 53 03 83",
     mobilePhone: "+7 702 906 35 87",
-    wpPhone: "+7 702 906 35 87",
+    wpPhone: "77029063587",
     email: "help@sunkar-premium.kz",
     address: ["г.Шымкент, ул.Дулати 57/57 (К.Маркса)"],
     social_link_fb: "",
@@ -1274,7 +1274,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 09:00 - 18:00 <br/> Сб-Вс - Выходной",
     homePhone: "8 (7152) 39 84 46",
     mobilePhone: "+7 771 360 97 32",
-    wpPhone: "+7 771 360 97 32",
+    wpPhone: "77713609732",
     email: "info@artel-sk.kz",
     address: ["г.Петропавловск, ул. Гуденко, 21"],
     social_link_fb: "",
@@ -1304,7 +1304,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 10:00 - 01:00",
     homePhone: "8 (7152) 39 84 46",
     mobilePhone: "+7 776 766 79 99",
-    wpPhone: "+7 776 727 79 99",
+    wpPhone: "77767277999",
     email: "rada76@inbox.ru",
     address: ["г.Кызылорда, ул. Желтоксан 6"],
     social_link_fb: "",
@@ -1334,7 +1334,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 08:00 - 20:00",
     homePhone: "",
     mobilePhone: "+7 701 735 28 88",
-    wpPhone: "+7 777 453 02 00",
+    wpPhone: "77774530200",
     email: "chingys@mail.ru",
     address: [
       "г. Кызылорда, ул. Женис 98/31 (район Автовокзала)",
@@ -1368,7 +1368,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 08:00 - 17:00 <br/>Сб - 08:00 - 13:00",
     homePhone: "+7 (727) 337-70-80",
     mobilePhone: "+7 702 337 70 80",
-    wpPhone: "+7 702 337 70 80",
+    wpPhone: "77023377080",
     email: "eyecenterfocus@gmail.com",
     address: ["пр. Сейфуллина, д. 450, уг. ул. Жибек жолы. +7 (727) 337-70-81"],
     social_link_fb: "",
@@ -1428,7 +1428,7 @@ const products: Product[] = [{
     worktime: "Пн-Сб - 09:00 - 18:00<br>Вс - Выходной",
     homePhone: "",
     mobilePhone: "+7 705 952 22 33",
-    wpPhone: "+7 705 952 22 33",
+    wpPhone: "77059522233",
     email: "kia_hyundai@list.ru",
     address: ["г. Кызылорда, ул. Шымбая 37"],
     social_link_fb: "",
@@ -1458,7 +1458,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 15:00 - 20:00",
     homePhone: "",
     mobilePhone: "+7 777 084 30 00",
-    wpPhone: "+7 777 084 30 00",
+    wpPhone: "77770843000",
     email: "my.lingerie@mail.ru",
     address: ["г. Петропавловск, ул. Тауфика Мухамед-Рахимова, 66"],
     social_link_fb: "",
@@ -1488,7 +1488,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 08:00 - 20:00 <br/>Сб - 08:00 - 14:00<br/>Вс - выходной",
     homePhone: "8 (7273) 27 01 67",
     mobilePhone: "+7 702 839 40 09",
-    wpPhone: "+7 702 839 40 09",
+    wpPhone: "77028394009",
     email: "sustav.kz@mail.ru",
     address: ["г. Алматы, ул. Байтурсынова 132б"],
     social_link_fb: "",
@@ -1518,7 +1518,7 @@ const products: Product[] = [{
     worktime: "Пн-Вт - выходной <br/>Ср,Чт, Вс - 20:00 - 03:00<br/>Пт - 20:00 - 05:00",
     homePhone: "",
     mobilePhone: "+7 701 945 45 55",
-    wpPhone: "+7 701 945 45 55",
+    wpPhone: "77019454555",
     email: "redroombar.almaty@gmail.com",
     address: ["г. Алматы, ул. Наурызбай Батыра,85"],
     social_link_fb: "",
@@ -1548,7 +1548,7 @@ const products: Product[] = [{
     worktime: "Пн-Сб - 11:00 - 19:00<br/>Вс - 11:00 - 17:00",
     homePhone: "",
     mobilePhone: "+7 707 486 33 50",
-    wpPhone: "+7 707 486 33 50",
+    wpPhone: "77074863350",
     email: "mukanova_akos@mail.ru",
     address: ["г. Сатпаев, ул.Абая 26А (ТД «GRAND»)"],
     social_link_fb: "",
@@ -1578,7 +1578,7 @@ const products: Product[] = [{
     worktime: "Пн-Пт - 08:00 - 20:00<br/>Сб - 08:00 - 17:00<br/>Вс - выходной",
     homePhone: "8 (7172) 66 03 03",
     mobilePhone: "+7 707 366 03 03",
-    wpPhone: "+7 705 536 03 03",
+    wpPhone: "77055360303",
     email: "onclinic@mail.ru",
     address: ["г. Нур-Султан, ул. Валиханова 1, угол ул. Иманова"],
     social_link_fb: "",
@@ -1608,7 +1608,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 10:00 - 22:00 (ТРЦ «Керуен»)<br/>Пн-Вс - 10:00 - 21:00 (ТЦ «Евразия 2»)",
     homePhone: "8 (7172) 79 53 88",
     mobilePhone: "+7 701 550 33 77",
-    wpPhone: "+7 701 554 56 70",
+    wpPhone: "77015545670",
     email: "boutique.honey@mail.ru",
     address: ["г. Нур-Султан, ул. Достық 9, ТРЦ «Керуен» 1 этаж, 12а", "г. Нур-Султан, ул. Петрова 24Б, ТЦ «Евразия 2» 1 этаж, 4 сектор, 7 бутик"],
     social_link_fb: "",
@@ -1638,7 +1638,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 08:00 - 21:00",
     homePhone: "8 (7172) 95 14 56",
     mobilePhone: "+7 777 572 28 74",
-    wpPhone: "+7 701 451 99 46",
+    wpPhone: "77014519946",
     email: "zardan_2018@mail.ru",
     address: ["г. Нур-Султан, ул. Сабыр Рахимова, 36"],
     social_link_fb: "",
@@ -1668,7 +1668,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 08:00 - 21:00",
     homePhone: "",
     mobilePhone: "+7 701 722 79 06",
-    wpPhone: "+7 701 722 79 06",
+    wpPhone: "77017227906",
     email: "gulnar1200@mail.ru",
     address: ["г. Нур-Султан, Мангилик ел 17, 1-эт, бут-403"],
     social_link_fb: "",
@@ -1698,7 +1698,7 @@ const products: Product[] = [{
     worktime: "Пн-Вс - 09:00 - 20:00",
     homePhone: "8 (7172) 54 67 00",
     mobilePhone: "+7 775 603 57 62",
-    wpPhone: "+7 778 081 98 18",
+    wpPhone: "77780819818",
     email: "87016666994@mail.ru",
     address: ["г. Нур-Султан, ул. Б.Момышулы 12",
     "г. Нур-Султан, ул. Туркестан 8/2"
@@ -2055,8 +2055,8 @@ const Main = (props: any) => {
                     <div className={classes.bodyContacts}>
                       <h3>Контакты</h3>
                       <a href={`tel:${product.homePhone}`} style={{ display: product.homePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.homePhone }&nbsp;<small> (тел.)</small></a>
-                      <a href={`tel:${product.mobilePhone}`} style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (тел.)</small></a>
-                      <a href={`tel:${product.wpPhone}`} style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></a>
+                      <a href={`tel:${product.mobilePhone}`} style={{ display: product.mobilePhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.mobilePhone }&nbsp;<small> (сот.)</small></a>
+                      <a href={`https://wa.me/${product.wpPhone}?text=Добрый день!`} style={{ display: product.wpPhone.length > 0 ? 'flex' : 'none' }}><PhoneIcon/>{ product.wpPhone } <small>&nbsp;(Whatsapp)</small></a>
                       <a href={`mailto:${product.email}`} style={{ display: product.email.length > 0 ? 'flex' : 'none' }}><EmailIcon/>{ product.email }</a>
                     </div>
                     <div className={classes.bodyTimework}>
