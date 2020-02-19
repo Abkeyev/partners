@@ -922,7 +922,7 @@ const products: Product[] = [{
   social_link_inst: "https://www.instagram.com/thefrootmarket/",
   social_link_vk: "",
   social_link_yt: "https://www.youtube.com/channel/UC5oj3FmSgwrbXcvWz1dgpqQ",
-  websiteLink: "https://froot.kz",
+  websiteLink: "https://thefroot.com/ru/shop",
 }, {
   id: 15,
   title: "Keddo",
@@ -1353,7 +1353,7 @@ const products: Product[] = [{
       id: 0,
       title: "Алматы"
     }],
-    img: 'focus-clinic.png',
+    img: 'focus-clinic.svg',
     category: {
       id: 13,
       title: "Прочее"
@@ -1708,6 +1708,384 @@ const products: Product[] = [{
     social_link_vk: "",
     social_link_yt: "",
     websiteLink: "",
+  }, {
+    id: 26,
+    title: "Green Market Group",
+    city: [{
+      id: 3,
+      title: "Шымкент"
+    }],
+    img: 'green_market.png',
+    category: {
+      id: 13,
+      title: "Прочее"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 8,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Фирма Green Market начала свою деятельность в 2003 году с открытия розничного магазина по торговле цветами, горшками и товарами для сада и огорода. За десять лет успешной работы, небольшой магазин вырос до одного из самых крупных оптово- розничных центров в Казахстане по торговле товарами из области растениеводства, цветоводства и садового инвентаря. Благодаря внимательному, квалифицированному персоналу, компания приобрела определенное уважение и доверие потребителей на рынке садоводческих товаров. Многие успели стать её постоянными клиентами.",
+    worktime: "Пн-Вс - 09:00 - 19:00",
+    homePhone: "",
+    mobilePhone: "+ 7 705 885 92 23",
+    wpPhone: "77058859223",
+    email: "",
+    address: ["г.Шымкент, Туркестанская 16, магазин «Садовод»",
+    "г.Шымкент, Казыбек Би 78, магазин 'Green Market'"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/green_market_group/",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 27,
+    title: "TOO «ШИНА KZ»",
+    city: [{
+      id: 8,
+      title: "Жезказган"
+    }],
+    img: 'auto_and_moto.svg',
+    category: {
+      id: 1,
+      title: "Авто и мото"
+    },
+    date: '',
+    payment: '',
+    cashback: 3,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Компания ТОО «ШИНА KZ», адрес: г.Жезказган, ул.Сары-Арка, 7. Магазин «ШИНА KZ», Вид деятельности: оптово-розничная реализация автозапчастей широкого спектра.",
+    worktime: "Пн-Вс - 08:00 - 23:00",
+    homePhone: "",
+    mobilePhone: "7 777 135 78 35",
+    wpPhone: "77770487775",
+    email: "avto2016mir@mail.ru",
+    address: ["г.Жезказган ул.Сары-Арка , 7"
+  ],
+    social_link_fb: "",
+    social_link_inst: "",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 28,
+    title: "Гостиница «Van Gogh»",
+    city: [{
+      id: 4,
+      title: "Кызылорда"
+    }],
+    img: 'vangoh.png',
+    category: {
+      id: 15,
+      title: "Туризм"
+    },
+    date: '',
+    payment: '',
+    cashback: 5,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Гостиница «Ван Гог» в Кызылорде. К услугам гостей бар и общий лаундж. В распоряжении гостей ресторан, круглосуточная стойка регистрации и бесплатный Wi-Fi на всей территории. Осуществляется доставка еды и напитков в номер. Из окон открывается вид на город.  Номера оснащены телевизором с плоским экраном и спутниковыми каналами. Все номера отеля «Ван Гог» оснащены кондиционером и письменным столом.  Ближайший аэропорт Кызыл-Орда находится в 19 км от отеля Vangogh. За дополнительную плату организуется трансфер от/до аэропорта.",
+    worktime: "Круглосуточно",
+    homePhone: "8 7242 23 46 84",
+    mobilePhone: "",
+    wpPhone: "",
+    email: "",
+    address: ["г. Кызылорда, ул. Жалантос бахадура 1."
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/vangoghkzo",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 29,
+    title: "Top Dentist",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'top_dentis.png',
+    category: {
+      id: 4,
+      title: "Красота и здоровье"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "В нашей клинике объединились лучшие специалисты в следующих областях <br>✔ Пародонтология <br>✔ Хирургия, Имплантация <br>✔ Ортопедия <br>✔ Эндодонтия <br>✔ Реставраци<br> Каждый доктор - профессионал своего дела, на счету которого сотни довольных пациентов. Клиника Топ Дентист - это <br>✔ Многолетняя слаженная работа ведущих специалистов во всех областях стоматологии <br>✔ Индивидуальный подход к каждой клинической ситуации <br>✔ Лечение высококачественными материалами, рекомендуемыми ведущими стоматологическими ассоциациями.",
+    worktime: "Пн-Пт - 09:00 - 20:00<br/>Сб - 10:00 - 16:00",
+    homePhone: "8 7172 45 17 45",
+    mobilePhone: "+7 777 614 62 35",
+    wpPhone: "77776146235,",
+    email: "topdentist@mail.ru",
+    address: ["г. Нур-Султан, пр. Кабанбай-батыра, 40. ЖК 'Инфинити 1'"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/topdentist.kz",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 30,
+    title: "USABABYSTORE",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }, {
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'usababystore.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "USABABYSTORE – сеть магазинов детской одежды и интернет магазин usababystore.kz на рынке с 2013г. Основной ассортимент, представленный в нашем магазине детской одежды, являются товары для новорожденных и детей до 8 лет. У нас вы легко найдете одежду, аксессуары для Ваших малышей таких брендов как Luvable Friends, Carter's (США), Minoti, Rock a bye baby, Luvena Fortune (Великобритания),SOZZY, SKIP&HOP, Mamas&Papas. Большой выбор школьной формы и верхней сезонной одежды.",
+    worktime: "Пн-Вс - 10:00 - 22:00",
+    homePhone: "8 7172 45 17 45",
+    mobilePhone: "+7 707 134 23 98",
+    wpPhone: "77071342399,",
+    email: "salmurat.bbk@gmail.com",
+    address: ["г.Нур-Султан: ТРЦ АЗИЯ ПАРК, 3 этаж",
+    "г.Алматы: ТРЦ ДОСТЫК ПЛАЗА, 3 этаж",
+    "г.Алматы: ТРЦ АДК, 2 этаж"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/usababystore.kz",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://usababystore.kz/",
+  }, {
+    id: 31,
+    title: "Man Brand shop",
+    city: [{
+      id: 4,
+      title: "Кызылорда"
+    }],
+    img: 'man_brand_shop.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Магазин модной мужской одежды и аксессуаров",
+    worktime: "Пн-Вс - 10:00 - 18:00",
+    homePhone: "",
+    mobilePhone: "",
+    wpPhone: "77770025035,",
+    email: "arman88kunduz@mail.ru",
+    address: ["г. Кызылорда, ул. Токтыбаева б/н. ТД Айтбек. Бутик № 112 «Man Brand shop»"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/man_brand_kzo",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 32,
+    title: "PICARD",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }],
+    img: 'picard.png',
+    category: {
+      id: 14,
+      title: "Аксессуары"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Picard – немецкий бренд, специализирующийся на производстве сумок и аксессуаров премиум-качества. История бренда берет свое начало в 1928 году, когда немецким ремесленником Мартином Пикардом и его сыновьями была основана фирма по пошиву сумок, названная фамилией основателя. Идея Picard заключается в современном дизайне, разумных ценах и немецком качестве.",
+    worktime: "Пн-Вс - 10:00 - 22:00",
+    homePhone: " 8 7273 44 21 74",
+    mobilePhone: "",
+    wpPhone: "",
+    email: "",
+    address: ["г. Алматы, ул. Розыбакиева, 263. ТРЦ 'Mega Center'"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/picard_almaty",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 33,
+    title: "Ремонт и техническое обслуживание автотранспорта",
+    city: [{
+      id: 0,
+      title: "Алматы"
+    }],
+    img: 'techcenter.png',
+    category: {
+      id: 1,
+      title: "Авто и мото"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Техцентр VALVOLINE – Это современный автосервис по ремонту и обслуживанию Вашего автотранспорта, специалистами высокой квалификации на профессиональном уровне. Наша компания тщательно подходит к обслуживанию транспорта. Многолетний стаж работы дает нашим специалистам выполнять ремонт любой сложности, и давать ответы на все вопросы по техническому обслуживанию и эксплуатации транспортного средства.",
+    worktime: "Пн-Вс - 09:00 - 20:00",
+    homePhone: "8 7272 71 95 30",
+    mobilePhone: "+7 777 552 76 83",
+    wpPhone: "77775527683",
+    email: "",
+    address: ["г. Алматы, мк-н Аксай-4 ул. Маргулана 17б | 8 7272 226-84-73"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/auto_service_valvoline/?hl=ru",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "http://stovalvoline.kz/",
+  }, {
+    id: 34,
+    title: "AJK",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'ajk.png',
+    category: {
+      id: 7,
+      title: "Товары для дома"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Если Вам нужна красивая и качественная мебель и техника премиум класса итальянского производства «SMEG» приходите в мебельный салон ТОО «АЖК». Наши дизайнеры спроектируют мебель по Вашим пожеланиям. Лояльные цены, огромный выбор и внимательное обслуживание приятно удивят Вас.",
+    worktime: "Пн-Вс - 09:00 - 20:00",
+    homePhone: "8 7272 71 95 30",
+    mobilePhone: "+7 747 111 77 02",
+    wpPhone: "77471117702",
+    email: "",
+    address: ["г. Нур-Султан, ул. Валиханова, 24.Бутик 323,348 ТД Тулпар", "г. Нур-Султан, пр. Улы Дала 8"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/ajk_mebel",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 35,
+    title: "TA beauty studio",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'ta_beauty.png',
+    category: {
+      id: 4,
+      title: "Красота и здоровье"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Салон красоты «TA Beauty Studio» - это место, где Вас ждут настоящие специалисты в сфере красоты. Мы не создаем искусственных образов, а лишь дополняем и подчеркиваем то, что дала природа. Мы знаем, каждая девушка уже красива, и наша главная цель-превратить красоту в совершенство. В нашем уютном салоне, каждый наш гость получит целый комплекс процедур, который поможет сохранить и подчеркнуть именно Вашу красоту. Стильные окрашивания, стрижки, эффектный маникюр, макияж, массаж и уход за кожей-это и многое другое Вы можете получить именно у нас!",
+    worktime: "Пн-Вс - 09:00 - 21:00",
+    homePhone: "",
+    mobilePhone: "+7 707 200 32 30",
+    wpPhone: "77072003230",
+    email: "",
+    address: ["г. Нур-Султан, ул. Калдаякова, 1", "г. Нур-Султан, ул. Туркестан 8/1 | +7 700 200 32 30"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/ta_beauty_",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 36,
+    title: "Прикосновение",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'prikosnovenie.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 3 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "«Прикосновение» –это магазин нижнего элитного белья и домашнего трикотажа. В ассортименте нашего бутика, Вы найдете для себя удобную и мягкую одежду для дома и отдыха любого размера (42 по 66). Вся продукция от качественных производителей Турции и России. Ждем Вас в магазине «Прикосновение»",
+    worktime: "Пн-Вс - 10:00 - 20:00 <br/> Перерыв на обед с 14-00 до 14-30",
+    homePhone: "",
+    mobilePhone: "+7 707 550 31 33",
+    wpPhone: "77075503133",
+    email: "vgn1969@mail.ru",
+    address: ["г. Нур-Султан, ул. Сейфуллина 45/1, Торговый центр «АйМак Тау», бутик № 218. | +7 777 149 82 99"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/zhe_touch_shop",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
+  }, {
+    id: 37,
+    title: "Sandeya",
+    city: [{
+      id: 7,
+      title: "Нур-Султан"
+    }],
+    img: 'sandeya.png',
+    category: {
+      id: 11,
+      title: "Одежда и обувь"
+    },
+    date: '',
+    payment: 'Расcрочка 6 мес.',
+    cashback: 0,
+    special_best: false,
+    pos: true,
+    onlinePay: false,
+    description: "Качественная женская одежда по доступным ценам. Производство Турция, Польша, Корея.",
+    worktime: "Пн-Вс - 10:00 - 18:00",
+    homePhone: "",
+    mobilePhone: "+7 705 611 70 02",
+    wpPhone: "77056117002",
+    email: "",
+    address: ["г. Кызылорда, ул. Токтыбаева б/н. ТД Айтбек. Бутик № 310 «Sandeya»"
+  ],
+    social_link_fb: "",
+    social_link_inst: "https://www.instagram.com/sandeya_womens_shop",
+    social_link_vk: "",
+    social_link_yt: "",
+    websiteLink: "",
   }];
 const categoriesList:Category[] = [{
   id: 1,
@@ -1751,6 +2129,9 @@ const categoriesList:Category[] = [{
 }, {
   id: 14,
   title: "Акссесуары"
+}, {
+  id: 15,
+  title: "Туризм"
 }];
 
 const cities: City[] = [{
