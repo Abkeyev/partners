@@ -1933,7 +1933,7 @@ const products: Product[] = [{
     websiteLink: "",
   }, {
     id: 33,
-    title: "Ремонт и техническое обслуживание автотранспорта",
+    title: "Техцентр VALVOLINE",
     city: [{
       id: 0,
       title: "Алматы"
@@ -2059,8 +2059,8 @@ const products: Product[] = [{
     id: 37,
     title: "Sandeya",
     city: [{
-      id: 7,
-      title: "Нур-Султан"
+      id: 4,
+      title: "Кызылорда"
     }],
     img: 'sandeya.png',
     category: {
