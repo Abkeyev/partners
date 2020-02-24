@@ -866,11 +866,17 @@ const useStyles = makeStyles((theme: Theme) =>
         height: 16
       }
     },
+    pageCount: {
+      verticalAlign: 'top',
+      color: 'rgba(0,0,0,0.5)',
+      fontSize: 14,
+      marginRight: 10
+    },
     disabled: {
-      color: '#F3F3F3',
+      color: '#E8E8E8',
       cursor: 'default',
       '&:hover': {
-        color: '#F3F3F3'
+        color: '#E8E8E8'
       }
     },
     active: {
@@ -1399,6 +1405,7 @@ const Main = (props: any) => {
               products.length > 0 && products.length > 16 && (
                 <Grid item alignContent="center">
                   <div className={classes.pagination}>
+                    <span className={classes.pageCount}>{ `${page * 16 + 1}-${(page + 1) * 16 > products.length ? products.length : (page + 1) * 16} от ${products.length}` }</span>
                     <span className={`${classes.page} ${page === 0 ? classes.disabled : ''}`} onClick={() => changePage(false)}><ArrowBackIosIcon/></span>
                     {
                       generatePages().map(p => {
