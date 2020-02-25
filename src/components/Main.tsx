@@ -989,8 +989,6 @@ const Main = (props: any) => {
   const [openModal, setOpenModal] = React.useState(false);
   const [page, setPage] = React.useState(0);
   const [scroll, setScroll] = React.useState(0);
-
-  const maxPage = Math.ceil(products.length / 16)
   
   const handleClearFilter = () => {
       setCategory([])
@@ -1139,15 +1137,17 @@ const Main = (props: any) => {
             ((category.findIndex(c => c === p.category.id) >= 0) || showAll) &&
             (p.title.toLowerCase().includes(search.toLowerCase()) || search == '') &&
             (!best || p.special_best) && (!pos || p.pos) && (!online || p.onlinePay) &&
-            (!cashback || p.cashback > 0) && (!payment || p.payment.length > 0)).splice(page * 16, 16)
+            (!cashback || p.cashback > 0) && (!payment || p.payment.length > 0))
   }
+
+  const maxPage = Math.ceil(filteredProducts().length / 16)
 
   const isValid = () => {
     return fio.length > 0 && phoneNumber.phone.length > 0 && kala.length > 0 && service.length > 0
   }
 
   const generatePages = () => {
-    let productsCount = products.length,
+    let productsCount = filteredProducts().length,
         pages: number[] = [],
         it = 1
     for(let i=0; i<productsCount; i+=16, it++)
@@ -1383,7 +1383,7 @@ const Main = (props: any) => {
                     </div>
                   : <Grid item className={classes.blockGrids}>
                   {
-                    filteredProducts().map((p: Product, index: number) => {
+                    filteredProducts().splice(page * 16, 16).map((p: Product, index: number) => {
                       return <div onClick={() => handleSetProduct(p)} className={`${classes.contentItem} par${p.id}tner`}>
                         <div className={`${classes.itemGrided} par${p.id}tner`}>
                           <div className={`${classes.partnerLogo_list} par${p.id}tner`} style={{ backgroundImage: `url(${p.img})`}}></div>
@@ -1402,10 +1402,10 @@ const Main = (props: any) => {
               </Grid>
             }
             {
-              products.length > 0 && products.length > 16 && (
+              filteredProducts().length > 0 && filteredProducts().length > 16 && (
                 <Grid item alignContent="center">
                   <div className={classes.pagination}>
-                    <span className={classes.pageCount}>{ `${page * 16 + 1}-${(page + 1) * 16 > products.length ? products.length : (page + 1) * 16} от ${products.length}` }</span>
+                    <span className={classes.pageCount}>{ `${page * 16 + 1}-${(page + 1) * 16 > filteredProducts().length ? filteredProducts().length : (page + 1) * 16} от ${filteredProducts().length}` }</span>
                     <span className={`${classes.page} ${page === 0 ? classes.disabled : ''}`} onClick={() => changePage(false)}><ArrowBackIosIcon/></span>
                     {
                       generatePages().map(p => {
