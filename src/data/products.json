@@ -1377,5 +1377,324 @@
      "social_link_vk":"",
      "social_link_yt":"",
      "websiteLink":""
-  }
+  },
+  {
+   "id":38,
+   "title":"Fashion look",
+   "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "img":"fashion_look.jpg",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 6 мес.",
+   "cashback":10,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Fashion look – Брендовая женская одежда из Италии.",
+   "worktime":"Пн-Вс - 11:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 989 13 85",
+   "wpPhone":"77019891385",
+   "email":"",
+   "address":[
+      "г. Кокшетау, ул.Акана Серы, дом 40"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/fashion_look_kokshe",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+ "id":39,
+ "title":"STELLA",
+ "city":[
+    {
+       "id":7,
+       "title":"Нур-Султан"
+    }
+ ],
+ "img":"stella_bar.jpg",
+ "category":{
+    "id":5,
+    "title":"Кафе и рестораны"
+ },
+ "date":"",
+ "payment":"",
+ "cashback":10,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Изысканная европейская кухня, сочные стейки, бизнес ланчи, кондитерские изделия на заказ.",
+ "worktime":"Пн-Вс - 09:00 - 02:00",
+ "homePhone":"",
+ "mobilePhone":"+7 747 312 39 32",
+ "wpPhone":"77473123932",
+ "email":"adastenova@mail.ru",
+ "address":[
+    "г. Нур-Султан, ул.Чингиз Айтматова 46/1."
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/stella_restobar",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":""
+},
+{
+ "id":40,
+ "title":"Denta Sever",
+ "city":[
+    {
+       "id":2,
+       "title":"Петропавловск"
+    }
+ ],
+ "img":"denta-sever.png",
+ "category":{
+    "id":4,
+    "title":"Красота и здоровье"
+ },
+ "date":"",
+ "payment":"",
+ "cashback":5,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Стоматологический центр Denta-Sever предоставляет следующий вид услуг: <br> ✔ Лечение зубов любой сложности <br> ✔ эстетическая реставрация зубов, отбеливание <br> ✔ удаление зубов любой сложности <br> ✔ лазерное и хирургические лечение заболеваний пародонта <br> ✔ рентгенодиагностика, <br> ✔ имплантация и все виды протезирования зубов  ✔ физиотерапевтическое лечение",
+ "worktime":"Пн-Пт - 08:00 - 20:00 <br>Сб - 09:00 - 17:00 <br>Вс - 09:00 - 15:00",
+ "homePhone":"7 7152 50 30 80",
+ "mobilePhone":"+7 707 140 20 02",
+ "wpPhone":"77071402002",
+ "email":"aleksej.ambrazhuk@bk.ru",
+ "address":[
+    "г. Петропавловск, ул. Казахстанской правды, 73"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/dr_ambrazhuk",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":"https://dentasever.kz/"
+},
+{
+ "id":41,
+ "title":"Вет-Фарм",
+ "city":[
+    {
+       "id":3,
+       "title":"Шымкент"
+    }
+ ],
+ "img":"vet-farm.png",
+ "category":{
+    "id":12,
+    "title":"Аптеки"
+ },
+ "date":"",
+ "payment":"Расcрочка 3 мес.",
+ "cashback":4,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"ТОО «Вет-Фарм» оптовая компания предлагает большой ассортимент ветеринарных препаратов и осуществляет свою деятельность в сфере Ветеринарного бизнеса по всем позициям ветеринарных препаратов, как для домашних животных, так и для сельскохозяйственных животных. История нашей компании начинается в 1996 году. Ранее мы назывались ИП«Тастанов М». За более чем 20-ти летнюю историю ассортимент поставляемых товаров вырос в 20 раз,и на сегодняшний день насчитывает более 1500 различных ветеринарных препаратов и зоотоваров.",
+ "worktime":"Пн-Пт - 09:00 - 18:00 <br>Сб - 09:00 - 17:00 <br>Вс - 09:00 - 15:00",
+ "homePhone":"7 7253 12 06 29",
+ "mobilePhone":"+7 701 383 27 24,",
+ "wpPhone":"77016852991",
+ "email":"hayat_1982@mail.ru",
+ "address":[
+    "г. Шымкент, ул. Майлы-кожа 13а"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/vet.zoomuhtar_tovar",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":"https://vet-farm.kz"
+},
+{
+ "id":42,
+ "title":"Дипломат",
+ "city":[
+    {
+       "id":7,
+       "title":"Нур-Султан"
+    }
+ ],
+ "img":"beauty_and_health.svg",
+ "category":{
+    "id":4,
+    "title":"Красота и здоровье"
+ },
+ "date":"",
+ "payment":"Расcрочка 12 мес.",
+ "cashback":0,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Стоматологическая клиника Дипломат с 2008 года дарит красивые улыбки и здоровые зубы нашим клиентам! Наша стоматология предлагает услуги стоматолога для взрослых в различных направлениях: Лечение зубов и десен, все виды протезирования, ортодонтия (исправление прикуса), эстетическая стоматология, отбеливание зубов, удаление зубов, имплантация. Наши пациенты доверяют нам самое важное это - здоровье!",
+ "worktime":"Пн-Пт - 09:00 - 20:00 <br>Сб-Вс - 10:00 - 18:00",
+ "homePhone":"+7 7172 52 38 71",
+ "mobilePhone":"+7 701 751 98 61",
+ "wpPhone":"77017519861",
+ "email":"diplomatastanakz@gmail.com",
+ "address":[
+    "г. Нур-Султан,  Әлмұқан Сембинов, 7"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":""
+},
+{
+ "id":43,
+ "title":"PROFstyle",
+ "city":[
+    {
+       "id":7,
+       "title":"Нур-Султан"
+    }
+ ],
+ "img":"beauty_and_health.svg",
+ "category":{
+    "id":4,
+    "title":"Красота и здоровье"
+ },
+ "date":"",
+ "payment":"Расcрочка 6 мес.",
+ "cashback":0,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Сеть магазинов «Prof Style» появилась в 2015году, магазин парикмахерского инструмента и профессиональной косметики, который быстро завоевал уважение профессионалов, а также любителей брендовых косметических продуктов. Мы предлагаем своим клиентам: Качество – Мы предлагаем своим клиентам широкий ассортимент продукции, который насчитывает более 4000 наименований. Производство наших продуктов происходит на высокотехнологичных фабриках Южной Кореи и России под строгим контролем качества: от проработки составов в лаборатории до реализации. В результате мы получаем продукт высокого качества с явным ценовым преимуществом. Ассортимент – У нас самый большой выбор продукции для наращивания ресниц, моделирования и дизайна ногтей, маникюра и педикюра, депиляции, средства для парикмахерского искусства и многое другое. Цена – Бесспорное преимущество нашей продукции – доступная цена. Ассортимент ходовых средств стоит намного дешевле, чем аналогичные товары других известных брендов, а качество продукции одинаково отличное. Благодаря чему стоимость услуг доступна большинству городов страны.",
+ "worktime":"Пн-Вс - 10:00 - 20:00",
+ "homePhone":"",
+ "mobilePhone":"+7 702 077 75 50",
+ "wpPhone":"77785808151",
+ "email":"radj_number1@mail.ru",
+ "address":[
+    "г. Нур-Султан,  Әлмұқан Сембинов, 7",
+    "г. Нур-Султан, ул. Мангилик Ел, 19/2",
+      "г. Нур-Султан, ТД 'Артем' бутик 165. 2 этаж",
+      "г. Нур-Султан, ТРЦ 'Евразия-1', бутик 249",
+      "г.Нур-Султан, ТЦ 'Рахмет', бутик 115"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/profstyle_beauty_market",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":"http://profstyle.kz/"
+},
+{
+ "id":44,
+ "title":"Aygerimbeauty",
+ "city":[
+    {
+       "id":0,
+       "title":"Алматы"
+    }
+ ],
+ "img":"beauty_and_health.svg",
+ "category":{
+    "id":4,
+    "title":"Красота и здоровье"
+ },
+ "date":"",
+ "payment":"Расcрочка 6 мес.",
+ "cashback":0,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Салон красоты и учебный центр «Aygerimbeauty» это место, где вас ждут настоящие специалисты в сфере красоты. Наша главная цель-превратить красоту в совершенство!",
+ "worktime":"Пн-Пт - 10:00 - 20:00<br>Сб-Вс - 10:00 - 21:00",
+ "homePhone":"",
+ "mobilePhone":"+7 705 666 21 91",
+ "wpPhone":"77056662191",
+ "email":"wonderfulmoon@mail.ru",
+ "address":[
+    "г. Алматы, Панфилова 54"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/aygerimbeauty",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":""
+},
+{
+ "id":44,
+ "title":"JAPANESE MASSAGE and beauty Nazym Osaka",
+ "city":[
+    {
+       "id":0,
+       "title":"Алматы"
+    }
+ ],
+ "img":"Nazym_Osaka.png",
+ "category":{
+    "id":13,
+    "title":"Прочее"
+ },
+ "date":"",
+ "payment":"Расcрочка 6 мес.",
+ "cashback":0,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"Услуги массаж лица, Массаж тела, Массаж стоп, Массаж головы, Массаж рук. Так же обучение на массаж",
+ "worktime":"Пн-Вс - 09:00 - 20:00",
+ "homePhone":"",
+ "mobilePhone":"+7 747 321 62 02",
+ "wpPhone":"77478616990",
+ "email":"nazym.unite@gmail.com",
+ "address":[
+    "г. Алматы, ул. Шалом Алейхема 8/1"
+ ],
+ "social_link_fb":"https://ru-ru.facebook.com/nazym.kerimkulova",
+ "social_link_inst":"https://www.instagram.com/JAPANESE_SALON_NAZYM_OSAKA",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":""
+},
+{
+ "id":45,
+ "title":"Беназир Тур",
+ "city":[
+    {
+       "id":7,
+       "title":"Нур-Султан"
+    }
+ ],
+ "img":"benazir_travel.png",
+ "category":{
+    "id":15,
+    "title":"Туризм"
+ },
+ "date":"",
+ "payment":"Расcрочка 6 мес.",
+ "cashback":0,
+ "special_best":false,
+ "pos":true,
+ "onlinePay":false,
+ "description":"ТОО 'Беназир тур' - турагентство по бронированию авиабилетов, туров заграницу по всем направлениям и оказывает визовые услуги.",
+ "worktime":"Пн-Пт - 10:00 - 19:00 <br> Сб- 11:00 - 15:00 <br> Вс - Выходной",
+ "homePhone":"+7 7172 54 04 24",
+ "mobilePhone":"+7 701 221 43 31",
+ "wpPhone":"77754639640",
+ "email":"benazirmag_@mail.ru",
+ "address":[
+    "г. Нур-Султан, ул. Кунаева 29/1, отель 'Diplomat'"
+ ],
+ "social_link_fb":"",
+ "social_link_inst":"https://www.instagram.com/benazir_travel",
+ "social_link_vk":"",
+ "social_link_yt":"",
+ "websiteLink":""
+}
 ]
