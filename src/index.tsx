@@ -7,7 +7,7 @@ import ReactGA from "react-ga";
 import './i18next';
 import Loading from './components/Loading';
 
-ReactGA.initialize("UA-22343418-3");
+ReactGA.initialize("UA-22343418-6");
 ReactGA.pageview(window.location.pathname + window.location.search);
 
 ReactDOM.render(<Suspense fallback={(<Loading />)}>
