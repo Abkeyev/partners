@@ -10,7 +10,7 @@
      ],
      "img":"froot.svg",
      "category":{
-        "id":9,
+        "id":6,
         "title":"FMCG"
      },
      "date":"Действует до 1 апреля",
@@ -802,7 +802,7 @@
         "г. Нур-Султан, ул. Валиханова 1, угол ул. Иманова"
      ],
      "social_link_fb":"",
-     "social_link_inst":"https://www.instagram.com/mir_odezhdy_satpaev/",
+     "social_link_inst":"",
      "social_link_vk":"",
      "social_link_yt":"",
      "websiteLink":"https://astana.onclinic.kz/"
@@ -1299,7 +1299,7 @@
      "wpPhone":"77072003230",
      "email":"",
      "address":[
-        "г. Нур-Султан, ул. Калдаякова, 1",
+        "г. Нур-Султан, ул. Калдаякова, 1 +7 707 200 32 30",
         "г. Нур-Султан, ул. Туркестан 8/1 | +7 700 200 32 30"
      ],
      "social_link_fb":"",
@@ -2011,5 +2011,501 @@
    "social_link_vk":"",
    "social_link_yt":"",
    "websiteLink":""
+},
+{
+   "id":55,
+   "title":"В Тандыре",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"tandyr.png",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "date":"",
+   "payment":"Расcрочка 6 мес.",
+   "cashback":5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Кафе «В ТАНДЫРЕ» - Единственное кафе с уникальной концепцией в городе, в котором все готовят в тандыре. Мы взяли самое лучшее у предков, добавили современного подхода и получили сочный продукт. Также доставляем еду по всему городу через наше наше онлайн-кафе. Керамические тандыры для дома. Если вы гурман и любите вкусно покушать, то тандыр для вас! Приобрети тандыр и получи удовольствие от приготовления 50- ти блюд. Электрические и угольные самовары с доставкой по всему Казахстану. Тульские и Персидские самовары. К каждой покупке в подарок фартук.",
+   "worktime":"Пн-Пт - 09:00 - 18:00",
+   "homePhone":"",
+   "mobilePhone":"+7 707 333 80 90",
+   "wpPhone":"77073338090",
+   "email":"almatytandyr@mail.ru",
+   "address":[
+      "г. Алматы, ул. Жангельдина 3½ офис 305"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://1tandir.kz/"
+},
+{
+   "id":56,
+   "title":"Комплекс 'Бомба'",
+   "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "img":"bomba.png",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback":5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Кафе комплекс 'Бомба'. В комплекс входит футбольный бар, 2 летние площадки, охотничий домик, юрточный городок и фаст фуд возле дороги",
+   "worktime":"Пн-Вс - 12:00 - 02:00",
+   "homePhone":"",
+   "mobilePhone":"+7 707 778 78 01",
+   "wpPhone":"77077787801",
+   "email":"rysalam@mail.ru",
+   "address":[
+      "г. Актау, микрорайон 5А, д.5/9"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":57,
+   "title":"LANZHOU",
+   "city":[
+      {
+         "id":2,
+         "title":"Петропавловск"
+      }
+   ],
+   "img":"lanzhou.png",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "date":"",
+   "payment":"",
+   "cashback":10,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"LANZHOU - это теплый, дружелюбный и близкий всем бренд, в ресторанах которого вы всегда чувствуете себя комфортно. Мы вносим в меню новые блюда только если мы можем предложить нашим гостям что-то поистине вкусное и востребованное, отвечающее нашим стандартам. В основе работы компании LANZHOU блюда быстрого питания самого высокого качества. В ресторанах LANZHOU готовят вкуснейшие блюда из тянутой лапши для всей семьи. Мы стремимся к тому, чтобы наши гости получили удовольствие и насладились вкусной едой и великолепным обслуживание в наших ресторанах по конкурентоспособным ценам",
+   "worktime":"Пн-Вс - 10:00 - 22:00",
+   "homePhone":"",
+   "mobilePhone":"+7 707 778 78 01",
+   "wpPhone":"77077787801",
+   "email":"nkhamzin@mail.ru",
+   "address":[
+      "г. Петропавловск, ул. М. Жумабаева ТРЦ «Dostyq Mall», д.91",
+      "г. Петропавловск, ул. Ч. Валиханова ТРЦ «City Mall» д.56 "
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/lanzhou_kafe",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://lapsha.kz"
+},
+{
+   "id":58,
+   "title":"REBEL",
+   "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "img":"rebel.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"",
+   "cashback":5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Фирменный магазин уличной одежды",
+   "worktime":"Пн-Вс - 11:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 705 646 15 10",
+   "wpPhone":"77056461510",
+   "email":"Soyo125@mail.ru",
+   "address":[
+      "г. Кокшетау, ул.Пушкина 17а"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/rebel_kokshetau",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":59,
+   "title":"ЦЕНТР ДОКТОРА БУБНОВСКОГО",
+   "city":[
+      {
+         "id":2,
+         "title":"Петропавловск"
+      }
+   ],
+   "img":"bubnovski.png",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 10,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Центр Доктора Бубновского в Петропавловске входит в состав широкой сети действующих специализированных медицинских учреждений по лечению и профилактике различных заболеваний опорно-двигательного аппарата человека по методике известного профессора, доктора медицинских наук Бубновского Сергея Михайловича.<br/> Центр специализируется на безоперационном и безмедикаментозном лечении таких заболеваний как:<br/> •	грыжи и протрузии межпозвонковых дисков;<br/> •	нарушения осанки и сколиоз;<br/> •	артриты и артрозы крупных суставов;<br/> •	остеохондрозы и головные боли.<br/> Методика Доктора Бубновского нацелена как на лечение и профилактику заболеваний, так и на реабилитацию после травм и операций, подготовку к эндопротезированию и т.д.",
+   "worktime":"Пн-Вс - 09:00 - 15:00",
+   "homePhone":"8 7152 31 71 47",
+   "mobilePhone":"+7 707 181 71 47",
+   "wpPhone":"77071817147",
+   "email":"kinesis_uchet@mail.ru",
+   "address":[
+      "г. Петропавловск, ул. Парковая, д.51"
+   ],
+   "social_link_fb":"https://www.facebook.com/bubnovskyofficial",
+   "social_link_inst":"https://www.instagram.com/bubnovsky_official/",
+   "social_link_vk":"https://vk.com/bubnovskyofficial",
+   "social_link_yt":"https://www.youtube.com/БубновскийТВ",
+   "websiteLink":"http://www.bubnovsky.org/centers/petropavlovsk/"
+},
+{
+   "id":60,
+   "title":"Cherry Fashion Store",
+   "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "img":"cherry.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 8,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Мультибрендовый магазин - Одежда и обувь",
+   "worktime":"Пн-Вс - 10:00 - 20:00",
+   "homePhone":"",
+   "mobilePhone":"+7 702 804 58 08",
+   "wpPhone":"7702 804 58 08",
+   "email":"",
+   "address":[
+      "г. Шымкент, ТЦ ЮГ СИТИ, 0 эт,бут 001"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":60,
+   "title":"Комплекс 'Vanya Lux'",
+   "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "img":"VanyaLux.png",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"- две отдельно стоящие бани из сруба<br/> - летняя площадка<br/>  - кафе-бар<br/> - автомойка, парковка. ",
+   "worktime":"Пн-Вс - Круглосуточно",
+   "homePhone":"8 7252 42 60 69",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "email":"",
+   "address":[
+      "г. Шымкент, ул. Рыскулова 5 В"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":60,
+   "title":"КраSота",
+   "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "img":"krasota.png",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 3,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Сеть Магазинов люксовой парфюмерии и косметики",
+   "worktime":"Пн-Вс - 10:00 - 21:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 409 55 17",
+   "wpPhone":"77014095517",
+   "email":"",
+   "address":[
+      "- г.Шымкент, ТД Венеция, Жангельдина, 17/1",
+      "- г.Шымкент, проспект Республики 14",
+      "- г.Шымкент, проспект Бауыржан Момышулы, 7"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":61,
+   "title":"Гостиничный комплекс 'Султан Бейбарыс'",
+   "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "img":"beibarys.png",
+   "category":{
+      "id":15,
+      "title":"Туризм"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 2,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Отель 'Султан Бейбарыс' имеет успешный, многолетний опыт предоставления гостиничных услуг в Астане и сотрудничает со многими компаниями. Мы- это надежный бизнес партнер, с положительной репутацией в сфере гостиничного бизнеса.",
+   "worktime":"Пн-Вс - Круглосуточно",
+   "homePhone":"8 7172 56 21 80",
+   "mobilePhone":"+7 776 846 43 60",
+   "wpPhone":"77768464360",
+   "email":"sultan-bejjbars@rambler.ru",
+   "address":[
+      "г. Нур-Султан , Аблай хана 16"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/sultanbeibarys_hotel_astana/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"www.sultanbeibarys.com"
+},
+{
+   "id":62,
+   "title":"Sport City",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"SportCity.png",
+   "category":{
+      "id":8,
+      "title":"Спортинвые товары"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"«Sport City» - это находка для любителей активного отдыха, туризма и спорта! В магазине представлена спортивная одежда и обувь известных мировых брендов для детей и взрослых! Приятные цены и вежливый персонал также являются неотъемлимой визитной карточкой магазина «Sport City».",
+   "worktime":"В зимнее время с 10-00 до 20-00 ч.<br/>В летнее время с 10-00 до 21-00 ч.<br/> Без выходных.",
+   "homePhone":"8 7172 48 25 59",
+   "mobilePhone":"+7 707 163 16 17",
+   "wpPhone":"77071631617",
+   "email":"taha80.00@mail.ru",
+   "address":[
+      "г. Нур-Султан, ул. Коргальжинское шоссе, дом 25, район Есиль"
+   ],
+   "social_link_fb":"https://www.facebook.com/sportcity.kz7",
+   "social_link_inst":"https://www.instagram.com/sportcity_/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"www.sultanbeibarys.com"
+},
+{
+   "id":63,
+   "title":"«New Style»",
+   "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "img":"newstyle.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 12 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Женская и мужская одежда из Италии и Германии",
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 778 946 52 08",
+   "wpPhone":"77789465208",
+   "email":"",
+   "address":[
+      "г. Кокшетау, ул. Биржан Сал, 46, ТД «Арбат», бутик № 9"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/newstyle_kokschetau/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":64,
+   "title":"ЭЛЕКТРОКОМПЛЕКТ",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"electrokomplekt.png",
+   "category":{
+      "id":16,
+      "title":"Электроника"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"ГК Электрокомплект – крупнейший производитель и поставщик электротехнической продукции напряжением до 1кВ на рынке РК. Эффективно реализуется производство: кабельно-проводниковой продукции, труб ПНД и ПВХ, кабельного канала, производство и сборка щитового оборудования. ",
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+   "homePhone":"8 7172 67 77 80 ",
+   "mobilePhone":"+7 747 222 05 14",
+   "wpPhone":"77472220514",
+   "email":"astana@ekt.kz",
+   "address":[
+      "г. Нур-Султан,  р-н Байконыр,  пр. Јл-Фараби, зд. 29"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/ekt_astana/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://ekt.kz"
+},
+{
+   "id":65,
+   "title":"Орхидея",
+   "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "img":"orhideya.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Орхидея – Сеть магазинов для женщин, где предоставлено нижнее белье мировых производителей: Италии, Франции, Польши, Турции, России, Украины, Беларуссии. А так же ассортимент домашней одежды, Купальников и аксессуаров к ним. Мы всегда работаем для вас!",
+   "worktime":"г. Актау, 7мкр 5д 81кв - Пн-Сб - с 10:00 до 20:00<br/ Вс - 10:00 – 19:00 <br/>ТЦ Астана - с 10:00 до 21:00 Без выходных",
+   "homePhone":"8 7292 52 00 02",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "email":"Arhideya_Aktau@mail.ru",
+   "address":[
+      "г. Актау, 7мкр 5д 81кв _ПН-СБ: с 10:00 до 20:00  ВС: 10:00 – 19:00",
+      "г. Актау, ТЦ Астана, район 14, д.33/2, с 10:00 до 21:00 Без выходных"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/_Arhideya7292/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":66,
+   "title":"Дом Кафеля",
+   "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "img":"domkafelya.png",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "date":"",
+   "payment":"Расcрочка 12 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"«Дом Кафеля» был основан в 1995 году. Изначально основное направление предприятия - реализация керамической плитки и керамического гранита. «Дом Кафеля» - официальный представитель по Восточно-Казахстанской области торговой марки 'Kerama Marazzi', завоевавшей популярность во всем мире. Заботясь о своем покупателе, мы расширяли ассортимент нашей торговой сети и сегодня мы можем предложить огромный выбор санфаянса, ванн, мебели и аксессуаров для ванной комнаты от европейских и российских производителей.  Из года в год предприятие набирало обороты. Начинали с небольшого магазина площадью около 50 квадратных метров. В нем работал небольшой коллектив из 3 человек, сейчас предприятие представлено сетью салонов ""Дом Кафеля"" торговой площадью более 2000 кв. метров. В данный момент в компании работает более 40 квалифицированных сотрудников.",
+   "worktime":"Пн - Пт - 09:00 - 19:00",
+   "homePhone":"8 7232 54 13 61",
+   "mobilePhone":"+7 702 224 97 05",
+   "wpPhone":"77022249705",
+   "email":"dk_km4@mail.ru",
+   "address":[
+      "г. Усть-Каменогорск, ул. Потанина  д,25/3, Ульбинский район",
+      "г.Усть-Каменогорск ул.Бейбитшелик 35",
+      "г.Усть-Каменогорск,ул.имени М.И.Чистякова, 6а"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/domkafelya/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"www.domkafelya.kz"
 }
 ]
