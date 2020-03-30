@@ -2102,7 +2102,7 @@
    "special_best":false,
    "pos":true,
    "onlinePay":false,
-   "description":"LANZHOU - это теплый, дружелюбный и близкий всем бренд, в ресторанах которого вы всегда чувствуете себя комфортно. Мы вносим в меню новые блюда только если мы можем предложить нашим гостям что-то поистине вкусное и востребованное, отвечающее нашим стандартам. В основе работы компании LANZHOU блюда быстрого питания самого высокого качества. В ресторанах LANZHOU готовят вкуснейшие блюда из тянутой лапши для всей семьи. Мы стремимся к тому, чтобы наши гости получили удовольствие и насладились вкусной едой и великолепным обслуживание в наших ресторанах по конкурентоспособным ценам",
+   "description":"LANZHOU - это теплый, дружелюбный и близкий всем бренд, в ресторанах которого вы всегда чувствуете себя комфортно. Мы вносим в меню новые блюда только если мы можем предложить нашим гостям что-то поистине вкусное и востребованное, отвечающее нашим стандартам. В основе работы компании LANZHOU блюда быстрого питания самого высокого качества. В ресторанах LANZHOU готовят вкуснейшие блюда из тянутой лапши для всей семьи. Мы стремимся к тому, чтобы наши гости получили удовольствие и насладились вкусной едой и великолепным обслуживание в наших ресторанах по конкурентоспособным ценам<br/> Уважаемые друзья! <br/> Рады сообщить Вам о том, что ресторан быстрого питания 'LANZHOU' запускает доставку полюбившихся Вами блюд!<br/>Вы можете заказать любое блюдо из фирменного меню по телефону: +7 705 320 0640 <br/> Приём заявок с 11.00 до 20.00<br/> ыстро, вкусно и недорого!!!",
    "worktime":"Пн-Вс - 10:00 - 22:00",
    "homePhone":"",
    "mobilePhone":"+7 707 778 78 01",
@@ -2507,5 +2507,217 @@
    "social_link_vk":"",
    "social_link_yt":"",
    "websiteLink":"www.domkafelya.kz"
+},
+{
+   "id":67,
+   "title":"Pro Acoustic",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"repair.svg",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "date":"",
+   "payment":"Расcрочка 12 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Профессиональная шумоизоляция жилых и коммерческих помещений от компании ProAcoustic, одного из лидеров Казахстанского рынка!!! Мы - представители завода SoundGuard. Экологически чистый, безопасный, доступный по цене, а самое главное эффективный материал и добросовестный монтаж!",
+   "worktime":"Пн - Вс - 10:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 747 750 5052",
+   "wpPhone":"77477505052",
+   "email":"kusainov91@mail.ru",
+   "address":[
+      "г. Нурсултан, ул. Е30, дом 7, Бизнес Центр City Lake, офис 10"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/proacoustickz/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"soundguard.ru"
+},
+{
+   "id":68,
+   "title":"Туыскан бар",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"tuskynbar.png",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"«Туыскан бар» — алматинский проект с фирменными коктейлями и качественной музыкой. Бар, в котором танцуют. Работает только в пятницу и субботу.",
+   "worktime":"Пн - Сб - 22:00 - 05:00",
+   "homePhone":"",
+   "mobilePhone":"+7 778 422 43 33",
+   "wpPhone":"77784224333",
+   "email":"",
+   "address":[
+      "г. Нур-Султан, ул. Аскара Токпанова, 10, НП 7"
+   ],
+   "social_link_fb":"https://www.facebook.com/pg/tuyskanbar/",
+   "social_link_inst":"https://www.instagram.com/tuyskan.bar.astana/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":69,
+   "title":"Central Barbershop",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"central.png",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Central Barbershop – работает с 2016 года. Профессиональные мастера своего дело оказывают следующие виды услуг: Пилинг лица, Стрижки Top Stylist, Stylis, подростковая Top Stylist, детская Top Stylist, окрашивание волос,  детская стрижка, подростковая стрижка, укладка волос, окантовка волос, борода, королевское  бритье, стрижка + окантовка бороды, тонирование бороды, Black mask, скраб для лица, маска для лица, укладка волос, визажист, макияж, уход лица, озонотерапия Микромист, Тонирование волос, Камуфляж, Коррекция бровей, окрашивание корней, женская стрижка.",
+   "worktime":"Пн - Вс - 09:00 - 22:00",
+   "homePhone":"",
+   "mobilePhone":"+7 707 792 1010",
+   "wpPhone":"77077921010",
+   "email":"art-lines@bk.ru ",
+   "address":[
+      "г. Нур-Султан, ЖК Алматы, ул. Достык 10"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/barbershop.central/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":70,
+   "title":"АЗАТ",
+   "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "img":"FMCG.svg",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 10,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Продовольственный магазин «Азат». Большой ассортимент.",
+   "worktime":"Пн - Вс - 08:00 - 22:00",
+   "homePhone":"",
+   "mobilePhone":"+7 707 453 7098",
+   "wpPhone":"77074537098",
+   "email":"",
+   "address":[
+      "г. Кокшетау, район Юбилейный, д.39"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":71,
+   "title":"Royal",
+   "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "img":"royal.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Магазин «Royal» - реализация эксклюзивной женской одежды.",
+   "worktime":"Пн -Выходной<br/>Вт - Вс - 11:00 - 20:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 534 3974",
+   "wpPhone":"77015343974",
+   "email":"lidia_venz@mail.ru",
+   "address":[
+      "г. Жезказган, ул. Сатпаева 22-4"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/costumer_kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://costumer_kz"
+},
+{
+   "id":72,
+   "title":"Butcher`s Street",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "img":"butchers.png",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Butcher`s Street – сеть американских кафе. Создан в 2016 году. Имеет 3 кафе по г.Нур-Султан.<br/>Butcher`s Street предлагает сэндвичи, бургеры, хот-доги, супы, салаты, завтраки и десерты. ",
+   "worktime":"Пн - Вс - 08:00 - 02:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 777 1036",
+   "wpPhone":"77777771036",
+   "email":"info@butchersstreet.com",
+   "address":[
+      "г. Нур-Султан, проспект Мјѕгілік Ел 37;",
+      "г. Нур-Султан, Уоргалжын шоссе, 2в;",
+      "г. Нур-Султан, ул. Иманова 5/1;"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
 }
 ]
