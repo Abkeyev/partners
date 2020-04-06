@@ -257,9 +257,9 @@
         "id":3,
         "title":"Детские товары"
      },
-     "date":"Действует до 1 апреля",
+     "date":"",
      "payment":"",
-     "cashback":30,
+     "cashback":15,
      "special_best":true,
      "pos":true,
      "onlinePay":false,
@@ -2476,8 +2476,8 @@
    "title":"Дом Кафеля",
    "city":[
       {
-         "id":10,
-         "title":"Актау"
+         "id":11,
+         "title":"Усть-Каменогорск"
       }
    ],
    "img":"domkafelya.png",
@@ -2719,5 +2719,295 @@
    "social_link_vk":"",
    "social_link_yt":"",
    "websiteLink":""
+},
+{
+   "id":73,
+   "title":"Гастроном 1",
+   "city":[
+      {
+         "id":13,
+         "title":"Каскелен"
+      }
+   ],
+   "img":"FMCG.svg",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Гастроном №1 реализует качественные товары народного потребления",
+   "worktime":"Пн - Вс - 08:00 - 20:00",
+   "homePhone":"8 727 298 36 03",
+   "mobilePhone":"+7 778 4091163",
+   "wpPhone":"77784091163",
+   "email":"",
+   "address":[
+      "г. Каскелен, ул. Умиралиева д. 78"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":74,
+   "title":"Центр Обувь",
+   "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "img":"centerShoes.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Магазин «Центр Обувь» - магазин обуви с широким ассортиментом. У нас вы найдете мужскую и женскую обувь, женские сумки, домашние тапочки. Центр Обувь – доступно, удобно и модно!",
+   "worktime":"Пн - Вс - 09:00 - 19:00",
+   "homePhone":"8 722 263 64 56",
+   "mobilePhone":"+7 705 538 98 24",
+   "wpPhone":"77055389824",
+   "email":"centrobuvsemey@mail.ru",
+   "address":[
+      "г. Семей, ул. Мәнгілік елі (Бывшая ул. Ленина), д. 16"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":75,
+   "title":"Aquamarine Jewelry",
+   "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "img":"aquamarine.png",
+   "category":{
+      "id":17,
+      "title":"Часы и Ювелирные изделия"
+   },
+   "date":"",
+   "payment":"Расcрочка 6 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"«Аквамарин Jeverly» предлагает большой выбор ювелирных изделий на любой вкус.",
+   "worktime":"Пн - Вс - 09:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 255 14 16",
+   "wpPhone":"77772551416",
+   "email":"violetta602@mail.ru",
+   "address":[
+      "г. Семей, ул. Засядко, 80 (ТД Акшын)"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/aquamarine_jewerly/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":76,
+   "title":"Das Auto",
+   "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "img":"dasAuto.png",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 3,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Официальный дилер Hyundai, Subaru, а еще огромный ассортимент оригинальных запасных частей и аксессуаров. Автоцентр оказывает полный комплекс услуг: помимо продажи автомобилей и запасных частей, страхование, установка дополнительного оборудования, тюнинга, гарантийное и постгарантийное обслуживание.",
+   "worktime":"Пн - Пт - 09:00 - 19:00<br/>Сб - 10:00 - 18:00",
+   "homePhone":"8 7282 400 007",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "email":"info@das-auto.kz",
+   "address":[
+      "г. Талдыкорган, мкр. Восточный (9-я площадка), ул. Центральная, 46 «а»"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dasauto_kz/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":77,
+   "title":"Altyn",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "img":"AltynClothes.png",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Бутик женской стильной одежды «ALTYN» – это огромный выбор качественной, стильной, модной одежды от производителей Турции. В нашем бутике представлены: деловая и классическая одежда, элегантные, вечерние наряды, платья, стильная повседневная одежда и др. Будьте стильными, подчеркните свою индивидуальность!",
+   "worktime":"Пн - Вс - 10:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 778 177 10 76",
+   "wpPhone":"77781771076",
+   "email":"",
+   "address":[
+      "г. Актобе, ул. Кунаева, д. 208, ТД «Мега-Шыгыс», бутик № 59"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/butik_altyn/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":78,
+   "title":"Assorti",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "img":"Assorti.png",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "date":"",
+   "payment":"Расcрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Чайно-кондитерская лавка «Assorti» - это широкий ассортимент бакалеи – вкусного элитного чая, ароматного кофе, разнообразие сладостей от передовых производителей Европы, оригинальных подарков и упаковки, а также сырье и инструменты для кондитерской индустрии!",
+   "worktime":"Пн - Вс - 10:00 - 20:00",
+   "homePhone":"",
+   "mobilePhone":"+7 702 649 51 77",
+   "wpPhone":"77026495177",
+   "email":"",
+   "address":[
+      "г. Актобе, пр. Молдагуловой, д.30 А, ТЦ «Алия Center»"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/assorti_lavka/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":79,
+   "title":"Шарапат",
+   "city":[
+      {
+         "id":16,
+         "title":"Сатпаев"
+      }
+   ],
+   "img":"sharapat.png",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 3,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"",
+   "worktime":"Пн - Вс - 09:00 - 23:00",
+   "homePhone":"8 7106 334714",
+   "mobilePhone":"+7 705 251 88 92",
+   "wpPhone":"77052518892",
+   "email":"sharapat00@mail.ru",
+   "address":[
+      "г.Сатпаев, ул. Комарова 14-23, аптека ТОО «ШАРАПАТ-АРА» 40730059",
+      "г. Сатпаев, ул. Гурбы 82-1, аптека ТОО «ШАРАПАТ-АРА» 40730060",
+      "г. Сатпаев, пр.Сатпаева 98Б, аптека ТОО «ШАРАПАТ-АРА» 40730061",
+      "г. Сатпаев, ул. Абая 41-11, аптека ТОО «ШАРАПАТ-АРА» 40730062",
+      "г. Сатпаев, пр. Независимости 36-17, аптека ТОО «ШАРАПАТ-АРА»",
+      "г. Сатпаев, ул. Комарова 14-23, ул. Гурбы 82-1"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":80,
+   "title":"Строй Сити",
+   "city":[
+      {
+         "id":16,
+         "title":"Сатпаев"
+      },
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "img":"StroiCity.png",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 4,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"",
+   "worktime":"Пн - Вс - 09:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 705 829 48 81",
+   "wpPhone":"77058294881",
+   "email":"jezstroycity@yandex.kz",
+   "address":[
+      "г.Сатпаев, ул.Комарова 9В | +7 705 829 4881(WhatsApp)",
+      "г.Жезказган ул.М.Жалиля 11 | +7 705 829 4881(WhatsApp)"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/stroycityjez/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://stroycityjez"
 }
 ]
