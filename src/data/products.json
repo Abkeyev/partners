@@ -8,7 +8,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"froot.svg",
+     "img":"logotypes/froot.svg",
      "category":{
         "id":6,
         "title":"FMCG"
@@ -71,7 +71,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"keddo.png",
+     "img":"logotypes/keddo.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -111,7 +111,7 @@
            "title":"Шымкент"
         }
      ],
-     "img":"stroi.png",
+     "img":"logotypes/stroi.png",
      "category":{
         "id":10,
         "title":"Ремонт"
@@ -146,7 +146,7 @@
            "title":"Шымкент"
         }
      ],
-     "img":"arua.svg",
+     "img":"logotypes/arua.svg",
      "category":{
         "id":7,
         "title":"Товары для дома"
@@ -182,7 +182,7 @@
            "title":"Шымкент"
         }
      ],
-     "img":"clothes.svg",
+     "img":"logotypes/icons/clothes.svg",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -217,7 +217,7 @@
            "title":"Кокшетау"
         }
      ],
-     "img":"furniture.svg",
+     "img":"logotypes/icons/furniture.svg",
      "category":{
         "id":7,
         "title":"Мебель"
@@ -252,7 +252,7 @@
            "title":"Петропавловск"
         }
      ],
-     "img":"item2.png",
+     "img":"logotypes/item2.png",
      "category":{
         "id":3,
         "title":"Детские товары"
@@ -289,7 +289,7 @@
            "title":"Петропавловск"
         }
      ],
-     "img":"okna.png",
+     "img":"logotypes/okna.png",
      "category":{
         "id":10,
         "title":"Ремонт"
@@ -324,7 +324,7 @@
            "title":"Кокшетау"
         }
      ],
-     "img":"all_for_home.svg",
+     "img":"logotypes/icons/all_for_home.svg",
      "category":{
         "id":7,
         "title":"Товары для дома"
@@ -359,7 +359,7 @@
            "title":"Петропавловск"
         }
      ],
-     "img":"lafamilia.png",
+     "img":"logotypes/lafamilia.png",
      "category":{
         "id":5,
         "title":"Кафе и рестораны"
@@ -394,7 +394,7 @@
            "title":"Шымкент"
         }
      ],
-     "img":"sunkar-premium.png",
+     "img":"logotypes/sunkar-premium.png",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -429,7 +429,7 @@
            "title":"Петропавловск"
         }
      ],
-     "img":"artel.png",
+     "img":"logotypes/artel.png",
      "category":{
         "id":7,
         "title":"Товары для дома"
@@ -464,7 +464,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"tfs-chicken.png",
+     "img":"logotypes/tfs-chicken.png",
      "category":{
         "id":5,
         "title":"Кафе и рестораны"
@@ -499,7 +499,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"medicine.svg",
+     "img":"logotypes/icons/medicine.svg",
      "category":{
         "id":12,
         "title":"Аптеки"
@@ -536,7 +536,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"focus-clinic.svg",
+     "img":"logotypes/focus-clinic.svg",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -571,7 +571,7 @@
            "title":"Темиртау"
         }
      ],
-     "img":"cafe_and_restaraunt.svg",
+     "img":"logotypes/icons/cafe_and_restaraunt.svg",
      "category":{
         "id":5,
         "title":"Кафе и рестораны"
@@ -606,7 +606,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"zapchasti-auto.png",
+     "img":"logotypes/zapchasti-auto.png",
      "category":{
         "id":1,
         "title":"Авто и мото"
@@ -641,7 +641,7 @@
            "title":"Петропавловск"
         }
      ],
-     "img":"playmate.png",
+     "img":"logotypes/playmate.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -676,7 +676,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"agar_sustav.png",
+     "img":"logotypes/agar_sustav.png",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -711,7 +711,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"redroom.png",
+     "img":"logotypes/redroom.png",
      "category":{
         "id":5,
         "title":"Кафе и рестораны"
@@ -746,7 +746,7 @@
            "title":"Жезказган"
         }
      ],
-     "img":"clothes_world.png",
+     "img":"logotypes/clothes_world.png",
      "category":{
         "id":11,
         "title":"Обувь и одежда"
@@ -781,7 +781,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"on_clinic.png",
+     "img":"logotypes/on_clinic.png",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -816,7 +816,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"honey.png",
+     "img":"logotypes/honey.png",
      "category":{
         "id":14,
         "title":"Акссесуары"
@@ -852,7 +852,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"zardan.png",
+     "img":"logotypes/zardan.png",
      "category":{
         "id":4,
         "title":"Красота и здоровье"
@@ -887,7 +887,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"loveliness.png",
+     "img":"logotypes/loveliness.png",
      "category":{
         "id":4,
         "title":"Красота и здоровье"
@@ -922,7 +922,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"other.svg",
+     "img":"logotypes/icons/other.svg",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -958,7 +958,7 @@
            "title":"Шымкент"
         }
      ],
-     "img":"green_market.png",
+     "img":"logotypes/green_market.png",
      "category":{
         "id":13,
         "title":"Прочее"
@@ -994,7 +994,7 @@
            "title":"Жезказган"
         }
      ],
-     "img":"auto_and_moto.svg",
+     "img":"logotypes/icons/auto_and_moto.svg",
      "category":{
         "id":1,
         "title":"Авто и мото"
@@ -1029,7 +1029,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"vangoh.png",
+     "img":"logotypes/vangoh.png",
      "category":{
         "id":15,
         "title":"Туризм"
@@ -1064,7 +1064,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"top_dentis.png",
+     "img":"logotypes/top_dentis.png",
      "category":{
         "id":4,
         "title":"Красота и здоровье"
@@ -1103,7 +1103,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"usababystore.png",
+     "img":"logotypes/usababystore.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -1140,7 +1140,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"man_brand_shop.png",
+     "img":"logotypes/man_brand_shop.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -1175,7 +1175,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"picard.png",
+     "img":"logotypes/picard.png",
      "category":{
         "id":14,
         "title":"Аксессуары"
@@ -1210,7 +1210,7 @@
            "title":"Алматы"
         }
      ],
-     "img":"techcenter.png",
+     "img":"logotypes/techcenter.png",
      "category":{
         "id":1,
         "title":"Авто и мото"
@@ -1245,7 +1245,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"ajk.png",
+     "img":"logotypes/ajk.png",
      "category":{
         "id":7,
         "title":"Товары для дома"
@@ -1281,7 +1281,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"ta_beauty.png",
+     "img":"logotypes/ta_beauty.png",
      "category":{
         "id":4,
         "title":"Красота и здоровье"
@@ -1317,7 +1317,7 @@
            "title":"Нур-Султан"
         }
      ],
-     "img":"prikosnovenie.png",
+     "img":"logotypes/prikosnovenie.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -1352,7 +1352,7 @@
            "title":"Кызылорда"
         }
      ],
-     "img":"sandeya.png",
+     "img":"logotypes/sandeya.png",
      "category":{
         "id":11,
         "title":"Одежда и обувь"
@@ -1387,7 +1387,7 @@
          "title":"Кокшетау"
       }
    ],
-   "img":"fashion_look.jpg",
+   "img":"logotypes/fashion_look.jpg",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -1422,7 +1422,7 @@
        "title":"Нур-Султан"
     }
  ],
- "img":"stella_bar.jpg",
+ "img":"logotypes/stella_bar.jpg",
  "category":{
     "id":5,
     "title":"Кафе и рестораны"
@@ -1457,7 +1457,7 @@
        "title":"Петропавловск"
     }
  ],
- "img":"denta-sever.png",
+ "img":"logotypes/denta-sever.png",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1492,7 +1492,7 @@
        "title":"Шымкент"
     }
  ],
- "img":"vet-farm.png",
+ "img":"logotypes/vet-farm.png",
  "category":{
     "id":12,
     "title":"Аптеки"
@@ -1527,7 +1527,7 @@
        "title":"Нур-Султан"
     }
  ],
- "img":"beauty_and_health.svg",
+ "img":"logotypes/icons/beauty_and_health.svg",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1562,7 +1562,7 @@
        "title":"Нур-Султан"
     }
  ],
- "img":"beauty_and_health.svg",
+ "img":"logotypes/icons/beauty_and_health.svg",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1600,7 +1600,7 @@
        "title":"Алматы"
     }
  ],
- "img":"beauty_and_health.svg",
+ "img":"logotypes/icons/beauty_and_health.svg",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1635,7 +1635,7 @@
        "title":"Алматы"
     }
  ],
- "img":"Nazym_Osaka.png",
+ "img":"logotypes/Nazym_Osaka.png",
  "category":{
     "id":13,
     "title":"Прочее"
@@ -1670,7 +1670,7 @@
        "title":"Нур-Султан"
     }
  ],
- "img":"benazir_travel.png",
+ "img":"logotypes/benazir_travel.png",
  "category":{
     "id":15,
     "title":"Туризм"
@@ -1705,7 +1705,7 @@
        "title":"Нур-Султан"
     }
  ],
- "img":"art_smile.png",
+ "img":"logotypes/art_smile.png",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1740,7 +1740,7 @@
        "title":"Атырау"
     }
  ],
- "img":"melvana.png",
+ "img":"logotypes/melvana.png",
  "category":{
     "id":5,
     "title":"Кафе и рестораны"
@@ -1775,7 +1775,7 @@
        "title":"Кокшетау"
     }
  ],
- "img":"art_smile.png",
+ "img":"logotypes/art_smile.png",
  "category":{
     "id":4,
     "title":"Красота и здоровье"
@@ -1810,7 +1810,7 @@
          "title":"Петропавловск"
       }
    ],
-   "img":"bytovenok.png",
+   "img":"logotypes/bytovenok.png",
    "category":{
       "id":13,
       "title":"Прочее"
@@ -1846,7 +1846,7 @@
          "title":"Актау"
       }
    ],
-   "img":"shahar.png",
+   "img":"logotypes/shahar.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -1881,7 +1881,7 @@
          "title":"Кызылорда"
       }
    ],
-   "img":"mansur_dent.png",
+   "img":"logotypes/mansur_dent.png",
    "category":{
       "id":4,
       "title":"Красота и здоровье"
@@ -1916,7 +1916,7 @@
          "title":"Алматы"
       }
    ],
-   "img":"hi_fi.png",
+   "img":"logotypes/hi_fi.png",
    "category":{
       "id":16,
       "title":"Электроника"
@@ -1951,7 +1951,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"triwood.png",
+   "img":"logotypes/triwood.png",
    "category":{
       "id":10,
       "title":"Ремонт"
@@ -1986,7 +1986,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"FMCG.svg",
+   "img":"logotypes/icons/FMCG.svg",
    "category":{
       "id":6,
       "title":"FMCG"
@@ -2021,7 +2021,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"tandyr.png",
+   "img":"logotypes/tandyr.png",
    "category":{
       "id":13,
       "title":"Прочее"
@@ -2056,7 +2056,7 @@
          "title":"Актау"
       }
    ],
-   "img":"bomba.png",
+   "img":"logotypes/bomba.png",
    "category":{
       "id":5,
       "title":"Кафе и рестораны"
@@ -2091,7 +2091,7 @@
          "title":"Петропавловск"
       }
    ],
-   "img":"lanzhou.png",
+   "img":"logotypes/lanzhou.png",
    "category":{
       "id":5,
       "title":"Кафе и рестораны"
@@ -2127,7 +2127,7 @@
          "title":"Кокшетау"
       }
    ],
-   "img":"rebel.png",
+   "img":"logotypes/rebel.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2162,7 +2162,7 @@
          "title":"Петропавловск"
       }
    ],
-   "img":"bubnovski.png",
+   "img":"logotypes/bubnovski.png",
    "category":{
       "id":13,
       "title":"Прочее"
@@ -2197,7 +2197,7 @@
          "title":"Шымкент"
       }
    ],
-   "img":"cherry.png",
+   "img":"logotypes/cherry.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2232,7 +2232,7 @@
          "title":"Шымкент"
       }
    ],
-   "img":"VanyaLux.png",
+   "img":"logotypes/VanyaLux.png",
    "category":{
       "id":13,
       "title":"Прочее"
@@ -2267,7 +2267,7 @@
          "title":"Шымкент"
       }
    ],
-   "img":"krasota.png",
+   "img":"logotypes/krasota.png",
    "category":{
       "id":4,
       "title":"Красота и здоровье"
@@ -2304,7 +2304,7 @@
          "title":"Шымкент"
       }
    ],
-   "img":"beibarys.png",
+   "img":"logotypes/beibarys.png",
    "category":{
       "id":15,
       "title":"Туризм"
@@ -2339,7 +2339,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"SportCity.png",
+   "img":"logotypes/SportCity.png",
    "category":{
       "id":8,
       "title":"Спортинвые товары"
@@ -2374,7 +2374,7 @@
          "title":"Кокшетау"
       }
    ],
-   "img":"newstyle.png",
+   "img":"logotypes/newstyle.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2409,7 +2409,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"electrokomplekt.png",
+   "img":"logotypes/electrokomplekt.png",
    "category":{
       "id":16,
       "title":"Электроника"
@@ -2444,7 +2444,7 @@
          "title":"Актау"
       }
    ],
-   "img":"orhideya.png",
+   "img":"logotypes/orhideya.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2480,7 +2480,7 @@
          "title":"Усть-Каменогорск"
       }
    ],
-   "img":"domkafelya.png",
+   "img":"logotypes/domkafelya.png",
    "category":{
       "id":10,
       "title":"Ремонт"
@@ -2517,7 +2517,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"repair.svg",
+   "img":"logotypes/icons/repair.svg",
    "category":{
       "id":10,
       "title":"Ремонт"
@@ -2552,7 +2552,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"tuskynbar.png",
+   "img":"logotypes/tuskynbar.png",
    "category":{
       "id":5,
       "title":"Кафе и рестораны"
@@ -2587,7 +2587,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"central.png",
+   "img":"logotypes/central.png",
    "category":{
       "id":4,
       "title":"Красота и здоровье"
@@ -2622,7 +2622,7 @@
          "title":"Кокшетау"
       }
    ],
-   "img":"FMCG.svg",
+   "img":"logotypes/icons/FMCG.svg",
    "category":{
       "id":6,
       "title":"FMCG"
@@ -2657,7 +2657,7 @@
          "title":"Жезказган"
       }
    ],
-   "img":"royal.png",
+   "img":"logotypes/royal.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2692,7 +2692,7 @@
          "title":"Нур-Султан"
       }
    ],
-   "img":"butchers.png",
+   "img":"logotypes/butchers.png",
    "category":{
       "id":5,
       "title":"Кафе и рестораны"
@@ -2729,7 +2729,7 @@
          "title":"Каскелен"
       }
    ],
-   "img":"FMCG.svg",
+   "img":"logotypes/icons/FMCG.svg",
    "category":{
       "id":6,
       "title":"FMCG"
@@ -2764,7 +2764,7 @@
          "title":"Семей"
       }
    ],
-   "img":"centerShoes.png",
+   "img":"logotypes/centerShoes.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2799,7 +2799,7 @@
          "title":"Семей"
       }
    ],
-   "img":"aquamarine.png",
+   "img":"logotypes/aquamarine.png",
    "category":{
       "id":17,
       "title":"Часы и Ювелирные изделия"
@@ -2834,7 +2834,7 @@
          "title":"Талдыкорган"
       }
    ],
-   "img":"dasAuto.png",
+   "img":"logotypes/dasAuto.png",
    "category":{
       "id":1,
       "title":"Авто и мото"
@@ -2869,7 +2869,7 @@
          "title":"Актобе"
       }
    ],
-   "img":"AltynClothes.png",
+   "img":"logotypes/AltynClothes.png",
    "category":{
       "id":11,
       "title":"Одежда и обувь"
@@ -2904,7 +2904,7 @@
          "title":"Актобе"
       }
    ],
-   "img":"Assorti.png",
+   "img":"logotypes/Assorti.png",
    "category":{
       "id":13,
       "title":"Прочее"
@@ -2939,7 +2939,7 @@
          "title":"Сатпаев"
       }
    ],
-   "img":"sharapat.png",
+   "img":"logotypes/sharapat.png",
    "category":{
       "id":12,
       "title":"Аптеки"
@@ -2983,7 +2983,7 @@
          "title":"Жезказган"
       }
    ],
-   "img":"StroiCity.png",
+   "img":"logotypes/StroiCity.png",
    "category":{
       "id":10,
       "title":"Ремонт"
@@ -3019,7 +3019,7 @@
          "title":"Алматы"
       }
    ],
-   "img":"aClinic.png",
+   "img":"logotypes/aClinic.png",
    "category":{
       "id":4,
       "title":"Красота и здоровье"
@@ -3054,7 +3054,7 @@
          "title":"Костанай"
       }
    ],
-   "img":"all_for_home.svg",
+   "img":"logotypes/icons/all_for_home.svg",
    "category":{
       "id":7,
       "title":"Товары для дома"
@@ -3089,7 +3089,7 @@
          "title":"Алматы"
       }
    ],
-   "img":"5element.png",
+   "img":"logotypes/5element.png",
    "category":{
       "id":1,
       "title":"Авто и мото"
@@ -3124,7 +3124,7 @@
          "title":"Алматы"
       }
    ],
-   "img":"hot2be.png",
+   "img":"logotypes/hot2be.png",
    "category":{
       "id":5,
       "title":"Кафе и рестораны"
@@ -3159,7 +3159,7 @@
          "title":"Костанай"
       }
    ],
-   "img":"auto_and_moto.svg",
+   "img":"logotypes/icons/auto_and_moto.svg",
    "category":{
       "id":1,
       "title":"Авто и мото"
@@ -3194,7 +3194,7 @@
          "title":"Талдыкорган"
       }
    ],
-   "img":"medicine.svg",
+   "img":"logotypes/icons/medicine.svg",
    "category":{
       "id":12,
       "title":"Аптеки"
