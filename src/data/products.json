@@ -3001,13 +3001,223 @@
    "wpPhone":"77058294881",
    "email":"jezstroycity@yandex.kz",
    "address":[
-      "г.Сатпаев, ул.Комарова 9В | +7 705 829 4881(WhatsApp)",
-      "г.Жезказган ул.М.Жалиля 11 | +7 705 829 4881(WhatsApp)"
+      "г. Сатпаев, ул.Комарова 9В | +7 705 829 4881(WhatsApp)",
+      "г. Жезказган ул.М.Жалиля 11 | +7 705 829 4881(WhatsApp)"
    ],
    "social_link_fb":"",
    "social_link_inst":"https://www.instagram.com/stroycityjez/",
    "social_link_vk":"",
    "social_link_yt":"",
    "websiteLink":"https://stroycityjez"
+},
+{
+   "id":81,
+   "title":"А-Clinic",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "img":"aClinic.png",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":" Прием врача ВОП, семейного врача, педиатра, терапевта <br>Скрининговые осмотры целевых групп населения по возрасту <br>Профилактические осмотры детей до 1-го года жизни <br>Ведение программы беременности согласно протоколу МЗ РК <br>Осмотр узких специалистов по направлению врача ВОП, лабораторные исследования в рамках ГОБМП <br>УЗИ, электрокардиограмма, рентгеновские исследование <br>Бесплатное обеспечение лекарственными средствами, утвержденным уполномоченным органом <br>Выдача больничных листов <br>Профилактические прививки детям по возрасту",
+   "worktime":"Пн-Пт - 8:00 – 19:00 <br/>Сб - 8:00 - 14:00 <br/>Вс - Выходной",
+   "homePhone":"",
+   "mobilePhone":"+7 707 240 25 25",
+   "wpPhone":"77072402525",
+   "email":"info@aclinicalmaty.kz",
+   "address":[
+      "г. Алматы, ул. Розыбакиева д.247, корпус 1"
+   ],
+   "social_link_fb":"https://www.facebook.com/pg/aclinic.healthy.people/",
+   "social_link_inst":"https://www.instagram.com/aclinicalmaty/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":82,
+   "title":"Марс",
+   "city":[
+      {
+         "id":17,
+         "title":"Костанай"
+      }
+   ],
+   "img":"all_for_home.svg",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "date":"",
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"",
+   "worktime":"Пн-Пт - 10:00 – 19:00 <br/>Сб-Вс - 10:00 - 19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 248 54 00",
+   "wpPhone":"77059159660",
+   "email":"camri61099@mail.ru",
+   "address":[
+      "г. Костанай, ул. Алтынсарина 212/1 район Церкви"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":83,
+   "title":"Пятый элемент",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "img":"5element.png",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 3,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Магазин Пятый Элемент продает запчасти для корейских и японских автомобилей с 2000 года. Выбор товаров по брендам, ценам. Высокое качество и наличие гарантии. При заказе на сумму 10000 тг и более - бесплатная доставка до дверей или на СТО.",
+   "worktime":"Пн-Пт - 10:00 – 18:00 <br/>Сб-Вс - 10:00 - 16:00",
+   "homePhone":"",
+   "mobilePhone":"+7 771 218 11 02",
+   "wpPhone":"77712181102",
+   "email":"5element@fe.kz",
+   "address":[
+      "г. Алматы,  ул. Жамбыла 204"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://feparts.kz/"
+},
+{
+   "id":84,
+   "title":"Hot2be",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "img":"hot2be.png",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 4,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Караоке бар Hot2be отличное место для проведения праздников, караоке — вечеринок, девичников, банкетов, и закрытых мероприятий. Профессиональная звуковая аппаратура и Караоке система Studio Evolution. Общий зал - 40 мест и VIP комнаты от 6 до 25 персон.",
+   "worktime":"Пн-Сб - 19:00 – 06:00 <br/>Вс - 07:00 - 06:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 225 28 75",
+   "wpPhone":"77012252875",
+   "email":"info@karaokebar.kz",
+   "address":[
+      "г. Алматы, ул. Жамбыла 204"
+   ],
+   "social_link_fb":"https://www.facebook.com/hot2be/",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":85,
+   "title":"Запчасти для сельхозтехники",
+   "city":[
+      {
+         "id":17,
+         "title":"Костанай"
+      }
+   ],
+   "img":"auto_and_moto.svg",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 5,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"",
+   "worktime":"Пн-Пт - 09:00 – 18:00 <br/>Сб - 09:00 - 14:00",
+   "homePhone":"",
+   "mobilePhone":"+7 705 451 84 48",
+   "wpPhone":"77054518448",
+   "email":"ar.urazov@mail.ru",
+   "address":[
+      "г. Костанай, ул. Карбышева, 6 Г район Горгаз"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":86,
+   "title":"Центральная аптека",
+   "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "img":"medicine.svg",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "date":"",
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Центральная аптека Талдыкоргана. Большой ассортимент мединцинских препаратов. Готовые лекарственные формы. Парафармацевтика. Товары для детей.",
+   "worktime":"Круглосуточно",
+   "homePhone":"",
+   "mobilePhone":"+7 777 957 77 78",
+   "wpPhone":"77779577778",
+   "email":"taeken_farm@mail.ru",
+   "address":[
+      "г. Талдыкорган, ул.Жансугурова угол ул. Казахстанская район д._114/116"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/central.apteka.tdk/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
 }
 ]
