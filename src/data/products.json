@@ -3219,5 +3219,1649 @@
    "social_link_vk":"",
    "social_link_yt":"",
    "websiteLink":""
+},
+{
+   "id":87,
+   "title":"Минимаркет АСЕМ",
+   "city":[
+      {
+         "id":17,
+         "title":"Костанай"
+      }
+   ],
+   "img":"logotypes/icons/FMCG.svg",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "date":"",
+   "payment":"",
+   "cashback": 3,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Продукты питания, текстиль, быховая химия.",
+   "worktime":"Пн-Пт - 09:00-21:00<br>Сб-Вс - 09:00-21:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 123 4408",
+   "wpPhone":"77011234408",
+   "email":"sarsenova_marzhana@mail.ru",
+   "address":[
+      "г. Костанай, ул. Калабаева 2/12а, рядом лицей № 3"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/market_asem_zatobol",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":88,
+   "title":"Wint",
+   "city":[
+      {
+         "id":11,
+         "title":"Усть-Каменогорск"
+      }
+   ],
+   "img":"logotypes/wint.png",
+   "category":{
+      "id":16,
+      "title":"Электроника"
+   },
+   "date":"",
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false,
+   "description":"Фирма «Винт» специализируется на оптово-розничной продаже компьютеров и комплектующих к ним.",
+   "worktime":"Пн-Пт - 09:00-18:00<br>Сб - 10:00-16:00",
+   "homePhone":"8 7232 240 241",
+   "mobilePhone":"+7 705 522 7816",
+   "wpPhone":"77055227816",
+   "email":"sales@wint.kz",
+   "address":[
+      "г. Усть-Каменогорск, ул. ​Сагадат Нурмагамбетова, 4",
+      "г. Усть-Каменогорск, проспект Ауэзова, 39"
+   ],
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/wint.kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":""
+},
+{
+   "id":89,
+   "title":"Супермаркет «Берекет»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"«Берекет» - это сеть супермаркетов с широким ассортиментом высококачественных товаров: продуктов питания, напитков, хозяйственных товаров, игрушек, канцтоваров и мн.др. Всегда в наличии свежая выпечка собственного производства: торты, пироги, булочки, кексы и др. Действует услуга экспресс доставки.",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г. Актобе, мкр.Батыс-2, пр. Тауелсиздик, д.16",
+      "г. Актобе, мкр.Батыс-2, пр. Тауелсиздик, д.2",
+      "г. Актобе, мкр.Батыс-2, д.9/1"
+   ],
+   "worktime":"Круглосуточно",
+   "homePhone":"",
+   "mobilePhone":"+7 707 306 3093",
+   "wpPhone":"77073063093",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dostavka_produktov_aktobe04",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/bereke.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":90,
+   "title":"Магазин Нурбол",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Продуктовый магазин «Нурбол» розничная реализация продуктами питания.",
+   "city":[
+      {
+         "id":16,
+         "title":"Сатпаев"
+      }
+   ],
+   "address":[
+      "г. Сатпаев, ул.Абая 55-32"
+   ],
+   "worktime":"Пн-Пт - 09:00-22:00<br>Сб-Вс - 09:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"+7 771 336 8117",
+   "wpPhone":"77713368117",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/mapusay_ermekovna",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"isataeva88@inbox.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":91,
+   "title":"MEDHOUSE KAZAKHSTAN",
+   "category":{
+      "id":16,
+      "title":"Электроника 3 мес."
+   },
+   "payment":"Рассрочка",
+   "cashback": 0,
+   "description":"MedHouse Kazakhstan – была основана в 2010 году. MedHouse Kazakhstan - один из ведущих игроков на рынке медицинских изделий Казахстана. За 9 лет наша компания зарекомендовала себя в фармацевтическом рынке как надежный поставщик с качественным сертифицированным продуктом.",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Нур-Султан, ул.Брусиловского, д.5, ВП-6"
+   ],
+   "worktime":"Пн-Пт - 09:00-19:00<br>Сб-Вс - 09:00-19:00",
+   "homePhone":"8 7172 77 95 35",
+   "mobilePhone":"+7 771 772 97 98",
+   "wpPhone":"77717729798",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dr.house.kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/medhouse.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+}, 
+{
+   "id":92,
+   "title":"Dental Pro",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"«Dental PRO» –это единственная цифровая высокотехнологичная клиника г.Актобе, представляющая весь спектр стоматологических услуг: от диагностики до эстетичного протезирования и имплантации. С помощью новейшего сверхточного оборудования лучшие профессионалы помогут Вам обрести улыбку своей мечты!",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г. Актобе, ул.Марата Оспанова, д.54 Б"
+   ],
+   "worktime":"Пн-Пт - 09:00-19:00<br>Сб-Вс - 09:00-19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 747 474 7476",
+   "wpPhone":"77474747476",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dental.pro",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/dentalPro.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":93,
+   "title":"Dental Center",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"«Dental Centre» –это сеть стоматологических клиник, предоставляющая весь спектр стоматологических услуг: от рентген диагностики до сложных хирургических манипуляций. Оснащенные современным оборудованием 12 стоматологических кресел оказывают своевременную помощь по гарантии. Лечение согласно современному протоколу, как взрослых, так и детей.",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г. Актобе, ул. Бокенбай батыра, д.22, п.121"
+   ],
+   "worktime":"Пн-Пт - 09:00-00:00<br>Сб-Вс - 09:00-00:00",
+   "homePhone":"8 7132 909 272",
+   "mobilePhone":"+7 747 094 0433",
+   "wpPhone":"77470940433",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dental_centre_aktobe",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://dc-dental.kz",
+   "email":"",
+   "img":"logotypes/dentalCentre.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":94,
+   "title":"Damdes Food",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"«Damdes Food» – территория быстрой и вкусной еды! Только у нас самые сочные, вкусные бургеры, сэндвичи, донеры, свежая выпечка и др. Приходите насладиться изумительным вкусом наших блюд, зарядитесь энергией, выпив самый вкусный кофе. Damdes Food – вкуcно, сытно, качественно! Действует услуга экспресс доставки.",
+   "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г. Актобе, ул. 101 стрелковой бригады, д.6 г"
+   ],
+   "worktime":"Пн-Пт - 10:00-23:00<br>Сб-Вс - 10:00-01:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 244 7995",
+   "wpPhone":"77012447995",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/damdes_food",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/damdesFood.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":95,
+   "title":"Briliant",
+   "category":{
+      "id":17,
+      "title":"Часы и ювелирные изделия"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Большой выбор оригинальных ювелирных изделий по доступным ценам!",
+   "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г. Кызылорда, ул. Казыбек би 20. "
+   ],
+   "worktime":"Пн-Пт - 09:30-19:00<br>Сб-Вс - 09:30-19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 701 350 2560",
+   "wpPhone":"77013502560",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/magazin_brilliant_kizilorda",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/diamonds.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":96,
+   "title":"Boots",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"обувные бутики, предлагают широкий выбор обуви для всей семьи, от известных брендов. В каждой модели передовые модные тенденции сочетаются с демократичностью цен.",
+   "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г. Семей, ул. Засядко, 65"
+   ],
+   "worktime":"Пн-Пт - 10:00-19:00<br>Сб - 10:00-19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 850 6363",
+   "wpPhone":"77778506363",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/Boots_semey",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/bootsPattini.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":97,
+   "title":"Pattini",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"Обувные бутики, предлагают широкий выбор обуви для всей семьи, от известных брендов. В каждой модели передовые модные тенденции сочетаются с демократичностью цен.",
+   "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г. Семей, пр-т Шакарима, 60"
+   ],
+   "worktime":"Пн-Пт - 10:00-19:00<br>Сб-Вс - 10:00-19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 850 6363",
+   "wpPhone":"77778506363",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/pattini_triumf",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/bootsPattini.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":98,
+   "title":"Passo",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"Обувные бутики, предлагают широкий выбор обуви для всей семьи, от известных брендов. В каждой модели передовые модные тенденции сочетаются с демократичностью цен.",
+   "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г. Семей, ул. Шугаева, 28, ТД Казына"
+   ],
+   "worktime":"Пн-Пт - 10:00-19:00<br>Сб - 10:00-19:00",
+   "homePhone":"",
+   "mobilePhone":"+7 777 850 6363",
+   "wpPhone":"77778506363",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/passo_kazina.semey.",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/bootsPattini.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":99,
+   "title":"Торговые технологии",
+   "category":{
+      "id":16,
+      "title":"Электроника"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Продажа, сервисное обслуживание и ремонт кассовых аппаратов, весов. Автоматизация магазинов, бутиков, кафе, гостиниц.",
+   "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г. Кызылорда, ул. Байсеитова 140 б."
+   ],
+   "worktime":"Пн-Пт - 09:00-19:00<br>Сб-Вс - 09:00-19:00",
+   "homePhone":"7 7242 27 23 26",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://ttkkm.kz",
+   "email":"info@ttkkm.kz",
+   "img":"logotypes/torgovyeTechnologii.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":100,
+   "title":"Научно-клинический центр кардиохирургии и трансплантологии",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Научно-клинический центр кардиохирургии и трансплантологии начал функционировать в конце 2007 г. (ранее «Центр кардиохирургии»), арендуя в санатории им.Турара Рыскулова 2-х этажный корпус. Организация центра совпала с началом реализации программы правительства РК «Программа развития и совершенствования кардиологической и кардиохирургической службы на 2007-2009г».",
+   "city":[
+      {
+         "id":11,
+         "title":"Тараз"
+      }
+   ],
+   "address":[
+      "г. Тараз, проспект Абая 196",
+      "+7_(726)_254-28-04", 
+      "+7_(726)_254-28-09"
+   ],
+   "worktime":"Пн-Пт - 08:30-17:00<br>Сб-Вс - Выходной",
+   "homePhone":"8 726 254 28 00",
+   "mobilePhone":"+7 707 902 3545",
+   "wpPhone":"77079023545",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://tarazcardio.kz/",
+   "email":"",
+   "img":"logotypes/klinika-kardio.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":101,
+   "title":"Jo Malone London",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Британский парфюмерный нишевый бренд Jo Malone уже чуть более 20 лет радует своих поклонников изяществом и гармоничностью своей продукции. Бренду Jo Malone удалось создать один из самых узнаваемых имиджей в бьюти-индустрии благодаря уникальности каждого из ароматов, а также одному из самых узнаваемых дизайнов в мире – бежевой коробочки с перевязанной черной лентой. Jo Malone – для ценителей исполнения и содержания. В Казахстане марка Jo Malone представлена несколькими бутиками: в городе Алматы - ТРЦ Dostyk Plaza, в городе Нур-Султан - ТРЦ Керуен бутик Code de Vie и в ТРЦ Mega Silk Way, а также корнерами в департаменте красоты Saks Fifth Avenue Almaty.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, Мкр. Самал- 2, 111, Dostyk Plaza | 8 (727) 220-68-08",
+      "г. Нур-Султан, Достык 9, Keruen | 8 (7172) 795-560",
+      "г. Нур-Султан, Кабанбай батыра 62, Mega Silk Way | 8 (7172) 73‒89‒38"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/jomalonelondon",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://.jomalone.com",
+   "email":"",
+   "img":"logotypes/JoMalone.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":102,
+   "title":"Loro Piana ",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Loro Piana – итальянский бренд, основанный в 1924 году и славящийся изделиями из кашемира превосходного качества. Бутик марки в Алматы был открыт в 2012 году, наряду с Saks Fifth Avenue, а столичный монобренд, расположенный в Talan Gallery, распахнул двери во второй половине 2019 года.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | 8 (727) 346-92-90 ",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 643 2795"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/loropianaofficial",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/loroPiana.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":103,
+   "title":"Tiffany & Co.",
+   "category":{
+      "id":17,
+      "title":"Часы и ювелирные изделия"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Впервые распахнул двери для жителей южной столицы в 2007 году. Сегодня, помимо флагмана в Алматы, культовый бренд представлен корнером в Saks Fifth Avenue и новым бутиком в пространстве Talan Gallery в Нур-Султане.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, Самал – 2, 67 | 8 (727) 315 60 00",
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | +7 701 761 2229 (Whatsapp)",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 512 6439 (Whatsapp)"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"77017215805",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/viled_jewelry",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://viled.kz",
+   "email":"tiffany_samal@grouplux.kz",
+   "img":"logotypes/tiffany.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":104,
+   "title":"Brunello Cucinelli",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Объединяющий понятия casual и sartorial итальянский бренд Brunello Cucinelli представлен монобутиками в Алматы (Esentai Mall) и в Нур-Султане (пространство Talan Gallery).",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | 8 (727) 346-92-90 ",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 728 1116 (Whatsapp)"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/brunellocucinelli_brand",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://viled.kz",
+   "email":"",
+   "img":"logotypes/brunello.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":105,
+   "title":"Saint Laurent",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Французский Дом с богатейшей историей, ставший синонимом неустаревающего и дерзкого парижского шика, – все это Saint Laurent. Легендарное имя появилось на модном карте Алматы в 2019, когда одноименный бутик открыл двери для посетителей в Esentai Mall.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | 8 (727) 346-92-90"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"8 727 346 92 90",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/saks_almaty",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/saintLaurent.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":106,
+   "title":"Бутик Chopard",
+   "category":{
+      "id":17,
+      "title":"Часы и ювелирные изделия"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"В 2015 году состоялось открытие бутика швейцарского Дома Chopard в Алматы. Расположенный в Esentai Mall флагман предлагает широкий выбор исключительных ювелирных и часовых изделий, а также аксессуаров Chopard. Бутик «Дома с большим сердцем» в Нур-Султане находится в Talan Gallery: его открытие состоялось во второй половине 2019 года",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | +7 701 752 7315 (Whatsapp)",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 032 6148 (Whatsapp)"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/viled_jewelry",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"shop.astana@premiumlux.kz",
+   "img":"logotypes/chopard.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":107,
+   "title":"BOBBI BROWN",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Американский косметический бренд Bobbi Brown выбирают звёзды и эксперты индустрии красоты. Декоративные и уходовые средства марки сочетают в себе качество, современный подход и философию, согласно которой каждая женщина прекрасна внешне и внутренне, а задача косметики – лишь подчеркнуть естественную красоту. В Казахстане марка Bobbi Brown представлена несколькими бутиками – в ТРЦ Dostyk Plaza и Mega Alma-Ata в Алматы и в ТРЦ Mega Silk Way в Нур-Султане – а также корнерами в департаменте красоты Saks Fifth Avenue Almaty и в магазинах сети Code De Vie.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, Мкр. Самал- 2, 111, Dostyk Plaza | +7 (727) 344‒21‒86",
+      "г. Алматы, Розыбакиева 247 А, Mega Center | +7 (727) 220‒68‒08",
+      "г. Нур-Султан, ул. Достык, 9, Keruen | +7 (7172) 795-560",
+      "г. Нур-Султан, Кабанбай батыра 62, Mega Silk Way | +7 (7172) 73‒89‒38"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/bobbibrown_astana",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/bobbiBrown.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":108,
+   "title":"Dolce & Gabbana",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Ставший синонимом итальянского шика и исключительного внимания к деталям модный Дом родом из Италии представил первый бутик в Алматы в 2012 году: премьера состоялась наряду с открытием Saks Fifth Avenue. Для жителей и гостей столицы первый магазин Dolce & Gabbana открыл двери в 2019 году, расположившись в пространстве Talan Gallery.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | 8727-346-92-90 (вн.571)",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | + 7 701 301 79 09"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/dolcegabbana",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"ast.cs@viled.kz",
+   "img":"logotypes/dolceGabbana.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":109,
+   "title":"Saks Fifth Avenue",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка",
+   "cashback": 0,
+   "description":"Saks Fifth Avenue – знаменитый магазин дизайнерской моды. Легендарная премиальная сеть родом из Нью-Йорка, основанная в 1898 году и известная широким выбором коллекций и брендов со всего мира. Saks Fifth Avenue Almaty – единственный в Центральной Азии мультибрендовый магазин формата department store, предлагающий лучший ассортимент женской, мужской и детской одежды, обуви и аксессуаров, парфюмерии и косметики, а также подарков и товаров для дома. Многие бренды, включая крупнейшие модные Дома Европы и США, представлены в Saks Fifth Avenue на эксклюзивной основе.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | (вн.500)"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"8 727 346 92 90",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/saks_almaty",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"__cs@s5a.kz",
+   "img":"logotypes/saksFifthAvenue.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":110,
+   "title":"Cartier",
+   "category":{
+      "id":17,
+      "title":"Часы и ювелирные изделия"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Ювелирный и часовой бутик Cartier  впервые открылся в Алматы в 2005 году, став первым в регионе флагманом прославленного Дома. В 2011 году произошла масштабная реконструкция и расширение пространства бутика. ",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г. Алматы, Самал – 2, 67 | (вн.500)"
+   ],
+   "worktime":"Пн-Вс - 11:00-20:00",
+   "homePhone":"8 727 315 5454",
+   "mobilePhone":"+7 701 872 6890",
+   "wpPhone":"77018726890",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/viled_jewelry",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/Cartier.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":111,
+   "title":"CODE DE VIE",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Впервые представленный жителям столицы под брендом VILED Beauty в 2014 году магазин селективной парфюмерии и эксклюзивной косметики претерпел ребрендинг в 2016 году. Именно тогда началась история Code De Vie – сети парфюмерно-косметических бутиков с уникальным ассортиментом и особенной философией. В 2016 Code De Vie расширяет географию: к флагманскому бутику в Keruen и магазину в Keruen City в Нур-Султане присоединяются точки в городах Атырау (в ТРЦ Baizaar Mall) и Актобе (в ТРЦ Keruen City). В 2019 году состоялось открытие корнера Code De Vie в новом пространстве Talan Gallery в Нур-Султане. Ассортимент корнера на 100% состоит из брендов нишевой парфюмерии и косметики. ",
+   "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      },
+      {
+         "id":9,
+         "title":"Атырау"
+      },
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г. Нур-Султан, ул. Достык, 9, Keruen | +7 (7172) 795-560",
+      "г. Нур-Султан, Коргалжинское ш. 1, Keruen city | +7 (7172) 791-400",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 (701) 643 28 15; +7 7172 79 11 11",
+      "г. Атырау, Кулманова, 111 а, Baizaar | +7 (7122) 766-661",
+      "г. Актобе, ул. М.Маметовой 4, Keruen city | +7 (7132) 414-110"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/codevie.kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://codevie.kz",
+   "email":"",
+   "img":"logotypes/codeDeVie.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":112,
+   "title":"Gucci",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Первый и единственный на сегодняшний день монобутик Gucci в Казахстане открыл двери в 2012 году, расположившись на первом этаже Esentai Mall. В бутике представлены актуальные женские и мужские коллекции одежды, обуви и аксессуаров",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | (вн.568)"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"8 727 346 92 90 ",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/saks_almaty",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gucci@viled.kz",
+   "img":"logotypes/gucci.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":113,
+   "title":"Valentino",
+   "category":{
+      "id":14,
+      "title":"Аксессуары"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Бутик прославленного модного Дома в Алматы открылся в 2017 году. Спустя два года Valentino представлены и в столице: бутик марки в городе Нур-Султан расположился в пространстве Talan Gallery.",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      },
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г. Алматы, пр. Аль-Фараби, 77/8, Essentai Mall | 8727 346-92-90 (вн.589)",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 643 2803"
+   ],
+   "worktime":"Пн-Вс - 10:00-22:00",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/saks_almaty",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/valentino.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":114,
+   "title":"VILED",
+   "category":{
+      "id":17,
+      "title":"Часы и ювелирные изделия"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Ювелирный и часовой салон VILED предлагает уникальный выбор украшений и часов ведущих мировых Домов, представленных на эксклюзивной основе. В их число входят Boucheron, Roberto Coin, Jacob & Co., Pichiotti, Moraglione и т.д. С первого ювелирного бутика в Алматы началась история компании VILED, а спустя 20 лет новый салон VILED открыл двери в уникальном пространстве Talan Gallery, расположенном в сердце столицы Казахстана. Ассортимент ювелирных и часовых салонов VILED в Алматы и Нур-Султане не имеет аналогов в регионе: среди новых и уже ставших классикой коллекций каждый ценитель непременно найдёт своё уникальное изделие",
+   "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г. Алматы, Самал – 2, 67 |  8 (727) 315 00 50; +7 701 744 60 54",
+      "г. Нур-Султан, пр. Достык, 16, Talan Gallery | +7 701 524 2909"
+   ],
+   "worktime":"Пн-Вс - 11:00-20:00 | Алматы<br>Сб-Вс - 10:00-22:00 | Нур-Султан",
+   "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/viled_jewelry",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/viled.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":115,
+   "title":"ТАРАЗ VIP СЕРВИС",
+   "category":{
+      "id":2,
+      "title":"АЗС"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Описание",
+   "city":[
+      {
+         "id":6,
+         "title":"Тараз"
+      }
+   ],
+   "address":[
+      "г. Тараз, АЙЗАКСКИЙ р-н, КОСТОБЕ ",
+      "г. Тараз, ул. КОШЕНЕЙ ул, дом 139A,",
+      "г. Тараз, ул. ДЕМЬЯНА  БЕДНОГО ул, дом 120",
+      "г. Тараз, ул. КОКТОБЕ  дом 6Б,",
+      "г. Тараз, ул. Санырак батыра 67в",
+      "г. Тараз, р-н, КОСТОБЕ станция Ушбулак",
+      "г. Тараз, ",
+      "г. Тараз, "
+   ],
+   "worktime":"Круглосуточно",
+   "homePhone":"",
+   "mobilePhone":"+7 776 438 3337",
+   "wpPhone":"77764383337",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"vip.services@mail.ru",
+   "img":"logotypes/icons/azs.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":116,
+   "title":"Дамское счастье",
+    "category":{
+      "id":16,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Верхняя одежда: Шубы, Пальто Дубленки Куртки Плащи и Ветровки Платья вечерние и повседневные, Юбки Брюки Блузки Кофты.",
+      "city":[
+      {
+         "id":11,
+         "title":"Тараз"
+      }
+   ],
+   "address":[
+      "г.Тараз, проспект Жамбыла 186д"
+   ],
+   "worktime": "Пн-Пт - 10:00-22:00 <br/> Сб-Вс - 10:00-19:00 ",  
+   "homePhone":"",
+   "mobilePhone":"+7 777 464 5330",
+   "wpPhone":"77004092232",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/magazine_damskoe_shastie_taraz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/clothes.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":117,
+   "title":"Супермаркет Айгерим",
+      "category":{
+      "id":16,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Нур-Султан"
+      }
+   ],
+      "address":[
+      "г.Нур-Султан, село Косшы, ул. Республики, дом 3"
+   ],
+   "worktime":"Пн-Пт - 08:00-24:00<br>Сб-Вс - 08:00-24:00",
+   "homePhone":"",
+   "mobilePhone":"+7-701-162-75-75",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"alkoteka.kosshy@yandex.kz",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":118,
+   "title":"Мир Sanario",
+      "category":{
+      "id":16,
+      "title":"Аптека"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Аптека ТОО «Мир Sanario» действует с 2011 года. В наличии имеется большой ассортимент лекарственных препаратов, изделий медицинского назначения, детское питание, товары для гигиены, косметика различных брендов и многое другое.",
+   "city":[
+      {
+         "id":11,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул.Алматы, д.13"
+   ],
+   "worktime":"Пн-Пт - 09:00-24:00<br>Сб-Вс - 09:00-24:00",
+   "homePhone":" +7 (7172) 56 26 62",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":119,
+   "title":"Fresh",
+    "category":{
+      "id":16,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. Желтоксан 6"
+   ],
+   "worktime":"Пн-Пт - 08:00-24:00<br>Сб-Вс - 08:00-24:00",
+      "homePhone":"",
+   "mobilePhone":"8-777-165-70-63",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/fresh.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":120,
+   "title":"Ансар",
+     "category":{
+      "id":16,
+      "title":"Аптека"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Реализация фармацевтической и медицинской продукции через сеть аптек «Ансар».",
+           "city":[
+      {
+         "id":11,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. М.Шокая бн. Новый базар."
+   ],
+   "worktime":"Пн-Вс - Круглосуточно",
+      "homePhone":"",
+   "mobilePhone":"8-724-227-00-91",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/aptekaGreenLogo.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":121,
+   "title":"Классик центр дент",
+    "category":{
+      "id":16,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 15,
+   "description":"Стоматологическая клиника оказывает весь спектр стоматологических услуг: лечение, протезирование, хирургия, имплантация, ортодонтия, реставрация, эстетическая стоматология.",
+     "city":[
+      {
+         "id":11,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г.Алматы, проспект Абая, 34"
+   ],
+   "worktime":"Пн-Пт - ПН-ПТ 09:00-19:00<br>СБ - 09:00-14:00<br>ВС - Выходной",
+      "homePhone":"",
+   "mobilePhone":"8-701-766-41-00",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"Klassikdent.stom",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://classic-dent.kz",
+   "email":"",
+   "img":"logotypes/klassikCenter.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":122,
+   "title":"«BATYS» monshasy",
+    "category":{
+      "id":16,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"BATYS monshasy – новейший банно-оздоровительный комплекс площадью 1200 кв.м, с самым большим бассейном в Актобе – 50 кв.м. Комплекс включает в себя: женский и мужской залы, парные, бассейн, комнаты отдыха, кафе-бар. Предоставляются услуги всех видов массажей и пилинга. Приходите отдохнуть душой и телом!",
+        "city":[
+      {
+         "id":11,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, мкр. Батыс -2, уч. 20 А"
+   ],
+   "worktime":"Пн-Пт - 10:00-23:00<br>Сб-Вс - 10:00-23:00",
+      "homePhone":"",
+   "mobilePhone":"8-775-445-57-87",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"batys_monshasy",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/batysMonsha.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":123,
+   "title":"Moda Lux",
+    "category":{
+      "id":16,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г.Семей, ул. Б.Момышулы, 20 А,"
+   ],
+   "worktime":"Пн-Пт - 10:00-19:00<br>Сб-Вс - 10:00-19:00",
+      "homePhone":"",
+   "mobilePhone":"8-778-124-94-88",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/emilia_angel_semey",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/1231231.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":124,
+   "title":"Эмилия Angels",
+    "category":{
+      "id":16,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г.Семей, ул. Засядко, 65,"
+   ],
+   "worktime":"Пн-Пт - 09:00-18:00<br>Сб-Вс - 09:00-18:00",
+      "homePhone":"",
+   "mobilePhone":"8-778-124-94-88",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/emilia_angel_semey",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/emiliyaAngels.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":125,
+   "title":"MIMITOYS",
+    "category":{
+      "id":16,
+      "title":"Детские товары"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«Mimitoys» –магазин развивающих и настольных игр, игрушек, книг, пособий на любой возраст. В «Mimitoys» представлены более 3000 видов игрушек, игр для развития Вашего малыша и раскрытия его способностей и талантов. Выбирая сегодня игру для ребенка, Вы формируете его будущие способности: логику, эрудицию, творчество!",
+     "city":[
+      {
+         "id":11,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, пр. Молдагуловой, д.30 А,"
+   ],
+   "worktime":"Пн-Пт - 10:00-20:00<br>Сб-Вс - 10:00-20:00",
+      "homePhone":"",
+   "mobilePhone":"8-777-928-10-47",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"mimitoys.kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/mimitoys.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":126,
+   "title":"Ай Фармация",
+     "category":{
+      "id":16,
+      "title":"Аптека"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Аптека осуществляет розничную реализацию лекарственных средств предметов сан гигиены, ухода, изделия мед. назначения и медицинской техники, БАДЫ, лечебная косметика, детские товары, детское питание.",
+     "city":[
+      {
+         "id":11,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул.Иманова, д.19"
+   ],
+   "worktime":"Пн-Пт - 08:00-24:00<br>Сб-Вс - 08:00-24:00",
+      "homePhone":"8 (7172) 25 00 63",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":127,
+   "title":"Romano Botta",
+    "category":{
+      "id":16,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"ROMANO BOTTA – сеть магазинов классической одежды одноименной европейской марки.В магазинах предоставлены мужская коллекция одежды, в том числе и верхней, а также сумки и аксессуары",
+     "city":[
+      {
+         "id":11,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, ул. 16"
+   ],
+   "worktime":"Пн-Пт - 10:00-22:00<br>Сб-Вс - 10:00-22:00",
+      "homePhone":"8 (7292)_34-10-91",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/romanoBotta.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":128,
+   "title":"Дари Дармек",
+    "category":{
+      "id":16,
+      "title":"Аптека"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, ул27, район _65 д"
+   ],
+   "worktime":"Пн-Пт - 08:00-00:00<br>Сб-Вс - 08:00-00:00",
+      "homePhone":"8 (7292)30-33-01",
+   "mobilePhone":"",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":129,
+   "title":"Lados Auto",
+    "category":{
+      "id":16,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"LADOS AUTO – шикрокий ассортимент оптовой и розничной продажи автозапчастей для автомобилей марки Lada.",
+        "city":[
+      {
+         "id":11,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, рынок Алем"
+   ],
+   "worktime":"Пн-Пт - 09:00-19:00<br>Сб-Вс - 09:00-19:00",
+      "homePhone":"",
+   "mobilePhone":"8-701-227-68-08",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/lados.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":130,
+   "title":"Каблучок",
+   "category":{
+      "id":16,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, Мкр 27"
+   ],
+   "worktime":"Пн-Пт - 09:00-19:30<br>Сб-Вс - 09:00-19:30",
+      "homePhone":"",
+   "mobilePhone":"+7-777-912-83-09",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/kabluchok.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":131,
+   "title":"Элем+",
+   "category":{
+      "id":16,
+      "title":"Аптека"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Аптека осуществляет розничную реализацию лекарственных средств предметов сан гигиены, ухода, изделия мед. назначения и медицинской техники, БАДЫ, лечебная косметика, детские товары, детское питание. Осуществляем доставку на дом, при сумме заявки от 150 000 тенге бесплатная.",
+        "city":[
+      {
+         "id":11,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул.Ш.Уалиханова, 27 НП 3"
+   ],
+   "worktime":"Пн-Пт - 09:00-22:00<br>Сб-Вс - 09:00-22:00",
+      "homePhone":"+7 (7172) 22-73-90",
+   "mobilePhone":"+7-701-220-94-26",
+   "wpPhone":"",
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/aptekaalem",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/AlemPlus.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
 }
 ]
