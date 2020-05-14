@@ -1835,7 +1835,7 @@
    "social_link_inst":"https://www.instagram.com/bitovenok.kz/",
    "social_link_vk":"",
    "social_link_yt":"",
-   "websiteLink":"https://sunkarpremium.kz/"
+   "websiteLink":""
 },
 {
    "id":50,
@@ -4041,8 +4041,8 @@
       "id":11,
       "title":"Одежда и обувь"
    },
-   "payment":"Рассрочка",
-   "cashback": 0,
+   "payment":"",
+   "cashback": 5,
    "description":"Saks Fifth Avenue – знаменитый магазин дизайнерской моды. Легендарная премиальная сеть родом из Нью-Йорка, основанная в 1898 году и известная широким выбором коллекций и брендов со всего мира. Saks Fifth Avenue Almaty – единственный в Центральной Азии мультибрендовый магазин формата department store, предлагающий лучший ассортимент женской, мужской и детской одежды, обуви и аксессуаров, парфюмерии и косметики, а также подарков и товаров для дома. Многие бренды, включая крупнейшие модные Дома Европы и США, представлены в Saks Fifth Avenue на эксклюзивной основе.",
    "city":[
       {
@@ -4863,5 +4863,1384 @@
    "special_best":false,
    "pos":true,
    "onlinePay":false
+},
+{
+   "id":132,
+   "title":"Магазин разливных напитков «Пенное Юго-Запад»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Магазин разливных напитков «Пенное Юго-Запад» - это огромное разнообразие алкогольных и безалкогольных напитков, рыбы, снеков, закусок. У нас всегда свежее пиво собственного производства, изготовленное из особых сортов солода. Приходите и оцените сами богатство вкуса и разнообразие выбора. Также действует услуга экспресс доставки.",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Абыл Таракулы, д.25 А"
+   ],
+   "worktime":"Пн-Вс - 09:00-00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 327 3636",
+   "wpPhone":"77013273636",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/jgo-zapad.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":133,
+   "title":"Магазин разливных напитков «Пенное»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Магазин разливных напитков «Пенное» - это широкий ассортимент холодного, разливного, янтарного свежеваренного пива собственного производства, а также огромный ассортимент закусок, снеков и др. Только для Вас самые лучшие сорта пива, коктейлей, мега вкусные рыбные закуски, снеки, морепродукты. Действует услуга экспресс доставки.",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Рыскулова, д.59 А"
+   ],
+   "worktime":"Пн-Вс - 09:00-00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 707 579 2643",
+   "wpPhone":"77075792643",
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/jgo-zapad.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":134,
+   "title":"У-Ка ДосСнаб",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":11,
+         "title":"Усть-Каменогорск"
+      }
+   ],
+   "address":[
+      "г.Усть-Каменогорск, ул. Красина д.11",
+      "г.Усть-Каменогорск, ул. Бажова 99/5"
+   ],
+   "worktime":"Пн-Сб - 08:00-17:00<br/>Вс - Выходной",
+      "homePhone":"8 7232 700 302",
+   "mobilePhone":"+7 777 535 5075",
+   "wpPhone":"77775355075", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/dossnab.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":135,
+   "title":"Восток",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.Б.Момышулы 25"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 074 8500",
+   "wpPhone":"77770748500", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gal.ill@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":136,
+   "title":"Дана Маркет",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.С.Сейфуллина 56"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 21:00",
+      "homePhone":"8 7102 765733",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gal.ill@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":137,
+   "title":"Қазына",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул. Есенова 17"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 074 8500",
+   "wpPhone":"77770748500", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gal.ill@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":138,
+   "title":"Панацея",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.С.Сейфуллина 12"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 074 8500",
+   "wpPhone":"77770748500", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gal.ill@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":139,
+   "title":"Турсынай АНА",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.С.Сейфуллина 60"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 074 8500",
+   "wpPhone":"77770748500", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"gal.ill@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":140,
+   "title":"Магазин разливных напитков «Кружка свежего»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Магазин разливных напитков «Кружка свежего» - это огромный выбор разливных алкогольных и безалкогольных напитков на любой вкус и предпочтение. У нас всегда свежеваренное, отменное, вкусное пиво собственного производства, ароматные закуски, лучшая рыба, снеки и многое другое. У нас есть всё на любой Ваш вкус, приходите! Действует услуга экспресс доставки.",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул.Шайкенова, д.19"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 707 304 6904",
+   "wpPhone":"77073046904", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/arpa_market11",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/kruzhka_svezhego.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":141,
+   "title":"Флора",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Флора – бутик комнатных растений для дома и офиса. Ассортимент горшков для комнатных растений и ассортимент грунтов и удобрений.",
+        "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, ул. район 1 | ТД Карагоз"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 486 6274",
+   "wpPhone":"77014866274", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/f.lora-aktau",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/all_for_home.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":142,
+   "title":"Рандеву",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.Холмецкого 4"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 285 6966",
+   "wpPhone":"77772856966", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"shumilina_kristi@mail.ru",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":143,
+   "title":"Магана",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":18,
+         "title":"Уральск"
+      }
+   ],
+   "address":[
+      "г.Уральск, ул. Бостандыкская, д. 37"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 21:00",
+      "homePhone":"8 7112 27 65 78",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":144,
+   "title":"Японамарки",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":19,
+         "title":"Тобыл"
+      }
+   ],
+   "address":[
+      "г.Тобыл,ул. Тәуелсіздік44 кв 1 район Агромакса"
+   ],
+   "worktime":"Пн-Сб - 09:00 - 16:00",
+      "homePhone":"8 7145 524 387",
+   "mobilePhone":"+7 701 778 4448",
+   "wpPhone":"77054624806", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/auto_and_moto.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":145,
+   "title":"Ainash Fashion",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«Ainash Fashion» – бутик женской стильной одежды из Турции. Высокое качество, безупречный пошив, отличная посадка, учитывающая особенности женских форм, огромный выбор платьев, костюмов, вечерних нарядов, всё это представлено в нашем бутике. Будьте неотразимыми и совершенными в нарядах от «Ainash Fashion».",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, пр. Абилхайыр-хана, д.42 | ТД АЙНА"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 771 023 6258",
+   "wpPhone":"77710236258", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/ainash317",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/ainashFashion.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":146,
+   "title":"Текстиль Alasha",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Товары для дома премиум качества, самые известные турецкие бренды. постельные принадлежности, полотенца, халаты. Доставка по РК.",
+        "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "address":[
+      "г.Талдыкорган, ул.Жансугурова 114/116"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"8 7282 40 09 09",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/alasha_textile",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/alashaTextile.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":147,
+   "title":"ЛКВ Дент",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, пр.Абылай-хана 9 "
+   ],
+   "worktime":"Пн-Сб - 10:00 - 20:00",
+      "homePhone":"8 7162 52 32 23",
+   "mobilePhone":"+7 702 497 7335",
+   "wpPhone":"77024977335", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/beauty_and_health.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":148,
+   "title":"Maxfood",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, мкр. 5  д. 7"
+   ],
+   "worktime":"Пн-Сб - 10:00 - 23:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":149,
+   "title":"МАГАС",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 4,
+   "description":"",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, ул.КАНАЙ-БИ, дом 212"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 22:00",
+      "homePhone":"",
+   "mobilePhone":"+7 775 226 4168",
+   "wpPhone":"77752264168", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":150,
+   "title":"ИРТЫШСКИЕ ОКНА",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Наша работа–это окна: <br/>Энергосберегающие для частного дома <br/>Арочные и нестандартные окна для особняков <br/>Входные группы и перегородки из алюминия и пластика для офиса и магазина <br/>Оконные системы для лоджии отделка и утепление <br/>Цветные конструкции и аксессуары, откосы.",
+        "city":[
+      {
+         "id":11,
+         "title":"Усть-Каменогорск"
+      }
+   ],
+   "address":[
+      "г.Усть-Каменогорск, проспект Абая, 203/1"
+   ],
+   "worktime":"Пн-Пт - 08:30 - 17:00 <br/>Сб-Вс - 08:30 - 13:00",
+      "homePhone":"8 7232 23-11-63",
+   "mobilePhone":"+7 771 305 2005",
+   "wpPhone":"77713052005", 
+   "social_link_fb":"https://www.facebook.com/oknauk",
+   "social_link_inst":"https://www.instagram.com/irtyshskiye.okna/",
+   "social_link_vk":"https://vk.com/oknauk",
+   "social_link_yt":"https://www.youtube.com/channel/UCRWzT0o_aC8Rqlm8WXFGn_A",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/irtyshOkna.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":151,
+   "title":"Офтальмологический центр «Шырак».",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. Айтбаева д 29"
+   ],
+   "worktime":"Пн-Пт - 10:00 - 17:00 <br/>Сб - 10:00 - 13:00",
+      "homePhone":"",
+   "mobilePhone":"+7 7242 26 3295",
+   "wpPhone":"77757968067", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/klinika_shyrak.",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/shyraq.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":152,
+   "title":"Men Zone",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«Men Zone» - это качественная, стильная, мужская одежда, в которой Вы будете чувствовать себя уверено и свободно! У нас самый большой выбор костюмов, рубашек, свитеров, теннисок, брюк, слакс и др. Правильно подобранная одежда – фундамент образа уверенного в себе мужчины!",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Некрасова, д.79 | ТД ОТРАР"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 570 8198",
+   "wpPhone":"77015708198", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/menZone.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":153,
+   "title":"Оптомаркет Жансая",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. Торайгырова 27"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 775 796 8067",
+   "wpPhone":"77757968067", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":154,
+   "title":"Магазин Аль Жазира",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, пос. Тасбогет, ул. Жанкожа батыра 25 ."
+   ],
+   "worktime":"Пн-Вс - 09:00 - 22:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 814 3131",
+   "wpPhone":"77778143131", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":155,
+   "title":"Браунис",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. Г.Муратбаева бн."
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"",
+   "mobilePhone":"+7 771 530 0030",
+   "wpPhone":"77715300030", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/braunis.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":156,
+   "title":"Добрострой",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Ремонт (окна и двери, строительные материалы, отделочные материалы)",
+        "city":[
+      {
+         "id":20,
+         "title":"Зыряновск"
+      }
+   ],
+   "address":[
+      "г.Зыряновск, ул. Каюпова, д.60"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"8 7233 579 089",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/dobrostroi.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":157,
+   "title":"Flamingo",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"Магазин «Flamingo» - реализция посуды, домашнего текстиля, одежды для дома для взрослых и детей.",
+        "city":[
+      {
+         "id":21,
+         "title":"Риддер"
+      }
+   ],
+   "address":[
+      "г.Риддер, пр. Независимости 46/1 | ТД АСТАНА",
+      "г.Риддер, пр Независимости 18"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 18:00",
+      "homePhone":"8 7233 645 387",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/flamingo.ridder/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/all_for_home.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":158,
+   "title":"TeploStandart",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"TeploStandart – производитель и поставщик оборудования для комфортной жизни. Надежное оборудование для тех, кто любит комфорт и долговечность. Направления: отопительное, насосное, вентиляционное оборудование, фильтра очистки воды.",
+        "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "address":[
+      "г.Талдыкорган, ул. Медеу, д.12"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 17:00",
+      "homePhone":"",
+   "mobilePhone":"+7 771 454 1502",
+   "wpPhone":"77714714530", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"info@teplostandart.kz",
+   "img":"logotypes/teploStandart.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":159,
+   "title":"Радуга",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":14,
+         "title":"Степногорск"
+      }
+   ],
+   "address":[
+      "г.Степногорск, микрорайон 3, дом 10",
+      "г.Степногорск, микрорайон 3, дом 37 | 8 701 74375 30"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 394 0544",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/repair.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":160,
+   "title":"Гермес",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Продуктовый магазин «Гермес». Магазин «Гермес» известен качественной и свежей продукцией.",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, улица Пушкина, дом 11"
+   ],
+   "worktime":"Пн-Вс - 08:30 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 743 7530",
+   "wpPhone":"77017437530", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":161,
+   "title":"Arasan De Lux",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«Arasan De Lux» – это самый новейший, комфортабельный, оздоровительный банный комплекс, вместительностью более 300 человек. Парильни с мокрым паром, хамам, бассейн, соляная шахта, игровые комнаты PS4, VIP-кабинки, различные виды массажа, пилинга, парикмахерские услуги, маникюр, педикюр, уютное кафе-бар, всё это представлено в нашем банном комплексе. Проводите отдых с пользой для здоровья!",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, пр.Санкибай батыра, д.663"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 778 511 3486",
+   "wpPhone":"77785113486", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/arasan_de_lux",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/arasanDeLux.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":162,
+   "title":"DS Dental Clinic",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":18,
+         "title":"Уральск"
+      }
+   ],
+   "address":[
+      "г.Уральск, Кызылжарская 9А"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 19:00",
+      "homePhone":"8 7112 258 100",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/ds_dental_clinic",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/deDentalClinic.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":163,
+   "title":"Saperavi",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Кафе «Saperavi» - частичка Грузии в сердце Капшагая. Традиционная и современная грузинская и европейская кухни, в исполнении знаменитого шеф-повара, не оставят Вас равнодушными. Вкусная еда, уютная атмосфера, высококачественное обслуживание и приемлемые цены приятно Вас удивят.",
+        "city":[
+      {
+         "id":22,
+         "title":"Капшагай"
+      }
+   ],
+   "address":[
+      "г.Капшагай, мкр. 3 , д._28/1"
+   ],
+   "worktime":"Пн-Вс - 11:00 - 01:00",
+      "homePhone":"",
+   "mobilePhone":"+7 747 384 0001",
+   "wpPhone":"77473840001", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/saperavi_kapchagay",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/cafe_and_restaraunt.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":164,
+   "title":"Premier Astana Company",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Оказываем все виды стоматологических услуг: лечение, удаление, имплантация, реставрация зубов, коррекция прикуса – на уровне мировых стандартов качества, с гарантией и индивидуальным подходом каждому пациенту. ",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, проспект Б.Момышулы, д.16"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 775 898 4249",
+   "wpPhone":"77758984249", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/premier_astana",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/beauty_and_health.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":165,
+   "title":"Арт-Десерт",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "payment":"",
+   "cashback": 10,
+   "description":"«Арт-Десерт» всегда свежие торты в наличии. Работаем на заказ. Большой ассортимент тортов.",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, ул.Пушкина,д.14"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 22:00",
+      "homePhone":"8 7162 761 104",
+   "mobilePhone":"+7 747 139 1440",
+   "wpPhone":"77471391440", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/artdesertkokshetau_",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/artDesert.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":166,
+   "title":"Минимаркет «Гранат»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":19,
+         "title":"Тобыл"
+      }
+   ],
+   "address":[
+      "г.Тобыл, ул.Калабаева д. 2/18"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 23:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 344 5809",
+   "wpPhone":"77773445809", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":167,
+   "title":"Адонис",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, улица Пушкина, дом 17"
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"8 7162 761 377",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":168,
+   "title":"Минимаркет Центральный",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":19,
+         "title":"Тобыл"
+      }
+   ],
+   "address":[
+      "г.Тобыл, ул.Тәуелсіздік 42"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 21:00",
+      "homePhone":"",
+   "mobilePhone":"+7 705 650 6599",
+   "wpPhone":"77056506599", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/centr_ztb",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":169,
+   "title":"KERAMA MARAZZI",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":23,
+         "title":"Караганда"
+      },
+      {
+         "id":5,
+         "title":"Темиртау"
+      }
+   ],
+   "address":[
+      "г.Караганда, ул. Ленина, д.74",
+      "г.Караганда, 137 учетный квартал,",
+      "г.Темиртау, пр. Металлургов д.36"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 702 733 0493",
+   "wpPhone":"77027330493", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://www.plitka.kz",
+   "email":"",
+   "img":"logotypes/keramaMarazzi.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":170,
+   "title":"Мир посуды «Elita»",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылорда"
+      }
+   ],
+   "address":[
+      "г.Кызылорда, ул. Казыбек би б/н | ТД ЖАЙНА"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 336 1080",
+   "wpPhone":"77773361080", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/posudi_kizilorda",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/all_for_home.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
 }
 ]
+
+
+
+
+
