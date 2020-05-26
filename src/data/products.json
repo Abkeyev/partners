@@ -13,10 +13,10 @@
         "id":6,
         "title":"FMCG"
      },
-     "date":"Действует до 1 мая",
+     "date":"",
      "payment":"Расcрочка 3 мес.",
-     "cashback":6,
-     "special_best":true,
+     "cashback":3,
+     "special_best":false,
      "pos":true,
      "onlinePay":false,
      "description":"Магазины у дома Froot - сеть маленьких и мега удобных магазинов, где можно найти всё самое необходимое по отличным ценам.<br/>Продукты, бытовая химия, горячий кофе, вкусные сэндвичи, свежий попкорн и местные овощи можно заказать с доставкой за 15 минут!",
@@ -260,7 +260,7 @@
      "date":"",
      "payment":"",
      "cashback":15,
-     "special_best":true,
+     "special_best":false,
      "pos":true,
      "onlinePay":false,
      "description":"«Малыш» - сеть магазинов игрушек.<br/>В нашем магазине вы найдёте огромный ассортимент оригинальных и эксклюзивных игрушек на любой вкус и бюджет.<br/>Все новинки, появляющиеся на мировом рынке, мы изучаем и предлагаем нашим покупателям.",
@@ -6237,10 +6237,474 @@
    "special_best":false,
    "pos":true,
    "onlinePay":false
+},
+{
+   "id":171,
+   "title":"Оздоровительный банный комплекс «Алма-Арасан»",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«Алма-Арасан» – это оздоровительный банный комплекс, в котором представлены: парильни с мокрым паром, различные виды массажа, пилинга, кафе-бар с отменными блюдами и свежими напитками. «Алма-Арасан» - это традиционное место отдыха для души и тела, место, где царит особая атмосфера. Посещение нашего комплекса гарантирует отличное настроение, оздоровление и заряд бодрости!",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, 12 Б мкр., д.32 Б"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 00:00",
+      "homePhone":"8 7132 775 686",
+   "mobilePhone":"+7 778 924 2086",
+   "wpPhone":"77789242086", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/banya_alma_arasan_aktobe",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/almaarasan.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":172,
+   "title":"Avtomalyar_tdk",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Качественный компьютерный подбор автоэмалей в кратчайшие сроки. Широкий ассортимент продукции, необходимой для кузовного ремонта автомобиля.",
+        "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "address":[
+      "г.Талдыкорган, ул.Желтоксан д.184"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00<br>Сб-Вс - 10:00 - 17:00",
+      "homePhone":"",
+   "mobilePhone":"+7 776 215 1354",
+   "wpPhone":"77762151354", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/avtomalyar_tdk",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/Avtomalyar_tdk.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":173,
+   "title":"Panda",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Cуши-бар за короткое время завоевал тысячи сердец своей изысканной кухней и своим большим ассортиментом. У нас самый большой ассортимент различных роллов (классические, темпурные, запеченные, сладкие), ВОК лапша, пицца и многое другое.&quot;",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, микрорайон ЮБИЛЕЙНЫЙ, дом 44/1"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 775 334 4429",
+   "wpPhone":"77753344429", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/sushi_panda_kokshetau",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/Panda.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":174,
+   "title":"Актюбинский областной центр крови",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Помимо главного направления Актюбинского областного центра крови - приема доноров, Центр крови предоставляет спектр медицинских услуг: лабораторные исследования крови, анализы на определение вирусов, гепатитов; анализы на определение суммарных антител к вирусам; биохимические анализы; ПЦР исследования; плазмаферез и многое другое. Оснащенная современной аппаратурой лаборатория и высокий профессионализм специалистов гарантирует быстрое и качественное получение заключения анализов и справок.",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Бр.Жубановых, д.253"
+   ],
+   "worktime":"Пн-Пт - 08:00 - 17:00<br>Сб-Вс - Выходные",
+      "homePhone":"8 7132 564 796",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/centr_krovi_aktobe",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/centr-krovi.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":175,
+   "title":"New York",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":6,
+         "title":"Тараз"
+      }
+   ],
+   "address":[
+      "г.Тараз, ул. Жамбыла 172 дом"
+   ],
+   "worktime":"Пн-Пт - 08:00 - 17:00<br>Сб-Вс - Выходные",
+      "homePhone":"",
+   "mobilePhone":"+7 747 739 4050",
+   "wpPhone":"77477394050", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/NewYork.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":176,
+   "title":"Торговая компания Базальт",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 5,
+   "description":"Кровельные, фасадные, теплоизоляционные материалы. Металлочерепица, металлосайдинг, профлист, теплоизоляция, OSB.",
+        "city":[
+      {
+         "id":24,
+         "title":"Павлодар"
+      }
+   ],
+   "address":[
+      "г.Павлодар, ул. промышленная зона Центральная, строение 312/3"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00<br>Сб-Вс - 09:00 - 14:00",
+      "homePhone":"",
+   "mobilePhone":"+7 705 707 9080",
+   "wpPhone":"77057079080", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/bazallt-tk",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"bazalt-sales@mail.ru",
+   "img":"logotypes/bazalt.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":177,
+   "title":"Сеть аптек АРС",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"«АРС» - это разветвлённая сеть аптек г.Актобе. В наших аптеках представлен широкий ассортимент лекарственных препаратов для взрослых и детей, медицинских товаров, медицинской техники, БАДов, витаминов, лечебной косметики, средств гигиены и многое другое. Высокопрофессиональные фармацевты помогут Вам подобрать необходимые медикаменты, уход и т.п. У нас самые низкие цены, самый широкий выбор, скидки, акции, льготы! Действует услуга экспресс доставки.",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Ахтанова, д.61/3",
+      "г.Актобе, ул. Уалиханова, д.1Г",
+      "г.Актобе, пр. А.Молдагуловой, д.53А",
+      "г.Актобе, ул. Бр.Жубановых, д.281, кв.63",
+      "г.Актобе, мкр. Батыс-2, пр.Тауелсиздик, д.18",
+      "г.Актобе, ул.Шернияза, д.57, кв.18",
+      "г.Актобе, 12 мкр., уч.30Б"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 00:00",
+      "homePhone":"8 7132 558 638",
+   "mobilePhone":"+7 701 570 8080",
+   "wpPhone":"77015708080", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/ars.apteka",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/apc-apteka.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":178,
+   "title":"Центр семейного здоровья",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.Абая 91-1,2 | 8(7102)763113",
+      "г.Жезказган, ул.Пирогова 9 | 8(7102)720353",
+      "г.Жезказган, ул.Асылбекова, 84-58 | 8(7102)763113",
+      "г.Жезказган, ул.Байконурова 120 | 8(7102)762844"
+   ],
+   "worktime":"Пн-Пт - 08:00 - 17:00, Сб - 09:00 - 14:00 - ул.Абая 91-1,2<br/>Пн-Пт - 08:00 - 17:00, Сб - 09:00 - 14:00 - ул.Пирогова 9<br/>Пн-Пт - 09:00 - 18:00 - ул.Асылбекова, 84-58<br/>Пн-Пт - 08:00 - 18:00, Сб - 09:00 - 14:00 - ул.Байконурова 120",
+      "homePhone":"8 7102 767 113",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/ars.apteka",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"tilman@mail.ru",
+   "img":"logotypes/centrSemeinogoZdoroviya.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":179,
+   "title":"Центра красоты и здоровья Суранчиевой Алмы",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Уникальный медико-эстетический центр, где классическая медицина тесно связана с высокими технологиями, бережным отношением к организму, с натуральными и естественными методами воздействия",
+        "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "address":[
+      "г.Шымкент, мкр.Север д.20"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 18:00",
+      "homePhone":"8 7252 373 416",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/kosmetologalma/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/surancheivaAlma.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":180,
+   "title":"ФИРКАН",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 3,
+   "description":"Оптово-розничная сеть «Фиркан» — одна из самых крупных активно развивающихся торговых сетей города Шымкента. Наши супермаркеты являются самыми крупными и наиболее посещаемыми в городе Мы стремимся быть эталоном для клиентов по качеству и быстроте обслуживания, широте ассортимента, разнообразию свежих продуктов, оптимальности цен. ",
+        "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "address":[
+      "г.Шымкент, ул. Адырбекова, 117 | 7 775 973 77 77",
+      "г.Шымкент, Shymkent Plaza, пл. Аль-Фараби",
+      "г.Шымкент, Фиркан Сити, р-т. Тауке-Хана | 7 701 981 50 36",
+      "г.Шымкент, ул. Гагарина, 147/5 | 7 701 294 63 77",
+      "г.Шымкент, Mega Planet, ул. Тауке-хана, 13 | 7 701 294 63 77"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://firkan.kz/",
+   "email":"",
+   "img":"logotypes/firkan.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":181,
+   "title":"ИталОчки",
+   "category":{
+      "id":14,
+      "title":"Аксессуары"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Мы предлагаем итальянские линзы DIVEL ITALIA, оправы из Италии, Польши, контактные линзы, растворы, аксессуары, солнце защитные очки.",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул.Акмешит 5 | +7 (7172) 280020",
+      "г.Нур-Султан, ул. Абылайхана  4 | +7 (7172) 344 386"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"http://italochki.kz ",
+   "email":"",
+   "img":"logotypes/italochki.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":182,
+   "title":"Al-Clinic",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Al-Clinic - Центр пластической, лазерной хирургии, косметологии и флебологии - более 15 лет стоит на страже красоты и здоровья жителей города Алматы, предлагая эффективные решения для улучшения качества жизни, сохранения молодости и привлекательности Al-Clinic - лидер в сфере лазерной эстетической медицины в Казахстане.",
+        "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г.Алматы, мкр. Самал-2 — 16"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"8 7272 221 001",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":" ",
+   "email":"info@al-clinic.kz",
+   "img":"logotypes/alClinic.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":183,
+   "title":"«Mama Boss» beauty salon",
+   "category":{
+      "id":4,
+      "title":"Красота и здоровье"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Салон красоты «Mama Boss» - это мир эстетики, здоровья, красоты и изящества! Лучшие мастера, профессионалы с радостью предоставят Вам следующие услуги: маникюр/педикюр, макияж, укладки/стрижки любой сложности, детские стрижки, покраска волос, сложное окрашивание, все виды массажа, шугаринг, ламинирование ресниц и бровей, наращивание ресниц и многое другое! Ждем Вас, будьте красивыми с «Mama Boss»!",
+        "city":[
+      {
+         "id": 15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Алматы, ул. Локомотивная, д.7"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 771 188 0800",
+   "wpPhone":"77711880800", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/mamaboss_beautysalon/",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":" ",
+   "email":"",
+   "img":"logotypes/mamaBoss.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
 }
 ]
-
-
-
-
-
