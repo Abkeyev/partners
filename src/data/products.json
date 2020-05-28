@@ -138,6 +138,45 @@
      "websiteLink":"https://stkt.kz/"
   },
   {
+     "id":180,
+     "title":"ФИРКАН",
+     "category":{
+        "id":6,
+        "title":"FMCG"
+     },
+     "payment":"Рассрочка 3 мес.",
+     "cashback": 3,
+     "description":"Оптово-розничная сеть «Фиркан» — одна из самых крупных активно развивающихся торговых сетей города Шымкента. Наши супермаркеты являются самыми крупными и наиболее посещаемыми в городе Мы стремимся быть эталоном для клиентов по качеству и быстроте обслуживания, широте ассортимента, разнообразию свежих продуктов, оптимальности цен. ",
+          "city":[
+        {
+           "id":3,
+           "title":"Шымкент"
+        }
+     ],
+     "address":[
+        "г.Шымкент, ул. Адырбекова, 117 | 7 775 973 77 77",
+        "г.Шымкент, Shymkent Plaza, пл. Аль-Фараби",
+        "г.Шымкент, Фиркан Сити, р-т. Тауке-Хана | 7 701 981 50 36",
+        "г.Шымкент, ул. Гагарина, 147/5 | 7 701 294 63 77",
+        "г.Шымкент, Mega Planet, ул. Тауке-хана, 13 | 7 701 294 63 77"
+     ],
+     "worktime":"Пн-Вс - 10:00 - 18:00",
+        "homePhone":"",
+     "mobilePhone":"",
+     "wpPhone":"", 
+     "social_link_fb":"",
+     "social_link_inst":"",
+     "social_link_vk":"",
+     "social_link_yt":"",
+     "websiteLink":"https://firkan.kz/",
+     "email":"",
+     "img":"logotypes/firkan.png",
+     "date":"",
+     "special_best":false,
+     "pos":true,
+     "onlinePay":false
+  },
+  {
      "id":2,
      "title":"Arua",
      "city":[
@@ -6239,6 +6278,41 @@
    "onlinePay":false
 },
 {
+   "id":184,
+   "title":"Krizal",
+   "category":{
+      "id":14,
+      "title":"Аксесуары"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Оптика KRIZAL- оптика с широким ассортиментом оправы для очков для всей семьи. Также оптика имеет кабинет аппаратной коррекции зрения и квалифицированного окулиста с большим стажем работы профессиональной косметики, инструментов и для Салонов Красоты.",
+        "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, район  316  д. 30"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 708 638 28 58",
+   "wpPhone":"77086382858", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/_krizal_optic",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/almaarasan.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
    "id":171,
    "title":"Оздоровительный банный комплекс «Алма-Арасан»",
    "category":{
@@ -6563,45 +6637,6 @@
    "onlinePay":false
 },
 {
-   "id":180,
-   "title":"ФИРКАН",
-   "category":{
-      "id":6,
-      "title":"FMCG"
-   },
-   "payment":"Рассрочка 3 мес.",
-   "cashback": 3,
-   "description":"Оптово-розничная сеть «Фиркан» — одна из самых крупных активно развивающихся торговых сетей города Шымкента. Наши супермаркеты являются самыми крупными и наиболее посещаемыми в городе Мы стремимся быть эталоном для клиентов по качеству и быстроте обслуживания, широте ассортимента, разнообразию свежих продуктов, оптимальности цен. ",
-        "city":[
-      {
-         "id":3,
-         "title":"Шымкент"
-      }
-   ],
-   "address":[
-      "г.Шымкент, ул. Адырбекова, 117 | 7 775 973 77 77",
-      "г.Шымкент, Shymkent Plaza, пл. Аль-Фараби",
-      "г.Шымкент, Фиркан Сити, р-т. Тауке-Хана | 7 701 981 50 36",
-      "г.Шымкент, ул. Гагарина, 147/5 | 7 701 294 63 77",
-      "г.Шымкент, Mega Planet, ул. Тауке-хана, 13 | 7 701 294 63 77"
-   ],
-   "worktime":"Пн-Вс - 10:00 - 18:00",
-      "homePhone":"",
-   "mobilePhone":"",
-   "wpPhone":"", 
-   "social_link_fb":"",
-   "social_link_inst":"",
-   "social_link_vk":"",
-   "social_link_yt":"",
-   "websiteLink":"https://firkan.kz/",
-   "email":"",
-   "img":"logotypes/firkan.png",
-   "date":"",
-   "special_best":false,
-   "pos":true,
-   "onlinePay":false
-},
-{
    "id":181,
    "title":"ИталОчки",
    "category":{
@@ -6702,6 +6737,573 @@
    "websiteLink":" ",
    "email":"",
    "img":"logotypes/mamaBoss.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":185,
+   "title":"Көмек Ломбард",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":8,
+         "title":"Жезказган"
+      },
+      {
+         "id":16,
+         "title":"Сатпаев"
+      }
+   ],
+   "address":[
+      "г.Жезказган, ул.Алашахана, 27",
+      "г.Жезказган, ул.Алашахана, 20-62",
+      "г.Жезказган, ул.Абая 41-25"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 22:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 535 5870",
+   "wpPhone":"77015355870", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/#komek_lombard",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/other.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":186,
+   "title":"AIS FARM",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":22,
+         "title":"Капшагай"
+      }
+   ],
+   "address":[
+      "г.Капшагай, ул. Жамбыла д.8"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 22:00",
+      "homePhone":"",
+   "mobilePhone":"+7 747 064 2928",
+   "wpPhone":"77470642928", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/chaika_apteka",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":187,
+   "title":"Аптека «Капшагай»",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":22,
+         "title":"Капшагай"
+      }
+   ],
+   "address":[
+      "г.Капшагай, Мкр 4, д 41"
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"8 7277 223 001",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":188,
+   "title":"Есения",
+   "category":{
+      "id":11,
+      "title":"Одежда и обувь"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Салон женской обуви «Есения» в г. Караганда уже более 20 лет предлагает обувь для тех, кто любит комфорт. Ассортимент в салоне представлен линейкой обуви для всех возрастов и разных стилей. Производится обувь на фабриках Турции и Китая, обувь хорошего качества, цены- приятные. Каждый сезон салон представляет новую коллекцию модной обуви от производителей.",
+        "city":[
+      {
+         "id":23,
+         "title":"Караганда"
+      }
+   ],
+   "address":[
+      "г.Караганда, пр. Б. Жырау, д. 53"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"8 7212 347 782",
+   "mobilePhone":"+7 702 649 8397",
+   "wpPhone":"77026498397", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/clothes.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":189,
+   "title":"Супермаркет Туран",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":25,
+         "title":"Жанаозен"
+      }
+   ],
+   "address":[
+      "г.Жанаозен, мкр. 5"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":190,
+   "title":"Автозапчасти для автомашин",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":23,
+         "title":"Караганда"
+      }
+   ],
+   "address":[
+      "г.Караганда, мкр-н 11 а, д. 17"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 489 4719",
+   "wpPhone":"77014894719", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/auto_and_moto.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":191,
+   "title":"Базисный магазин",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Компания Базисный магазин - один из крупнейших поставщиков учебного оборудования от мировых брендов на территории РК. Работает с учебными заведениями всех уровней – от детского сада до колледжей и университетов. К Вашим услугам оборудование для робототехники, 3D-принтеры, детские техноцентры и многое другое.",
+        "city":[
+      {
+         "id":23,
+         "title":"Караганда"
+      }
+   ],
+   "address":[
+      "г.Караганда, ул. Московская, д. 4"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00",
+      "homePhone":"8 7212 445 436",
+   "mobilePhone":"+7 777 201 7670",
+   "wpPhone":"77772017670", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/bazisnyi_magazin",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/other.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":192,
+   "title":"ШАҒЫН МАРКЕТ",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":6,
+         "title":"Тараз"
+      }
+   ],
+   "address":[
+      "г.Тараз, 10мкр (Аса) 19 Б дом"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 02:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 660 6667",
+   "wpPhone":"77016606667", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":193,
+   "title":"Аптека",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, Мкр 3, д. 15"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 23:00",
+      "homePhone":"",
+   "mobilePhone":"+7 702 925 5077",
+   "wpPhone":"77029255077", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":194,
+   "title":"Фарм Люкс",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур Султан"
+      }
+   ],
+   "address":[
+      "г.Нур Султан, Проспект Р.Кошкарбава 28"
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"8 7172 656 661",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":195,
+   "title":"ТОО S&W",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":7,
+         "title":"Костанай"
+      }
+   ],
+   "address":[
+      "г.Костанай, ул. Киевская 17А",
+      "г.Костанай, ул. Уральская 18"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 707 979 8338",
+   "wpPhone":"77079798338", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/repair.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":196,
+   "title":"ARDAGER",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"",
+        "city":[
+      {
+         "id":18,
+         "title":"Уральск"
+      }
+   ],
+   "address":[
+      "г.Уральск, ул. Шолохова, 23"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"8 7112 255 778",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/auto_and_moto.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":197,
+   "title":"Супермаркет Алтын Дэн",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 3,
+   "description":"Оптово-розничная сеть «Фиркан» — одна из самых крупных активно развивающихся торговых сетей города Шымкента. Наши супермаркеты являются самыми крупными и наиболее посещаемыми в городе Мы стремимся быть эталоном для клиентов по качеству и быстроте обслуживания, широте ассортимента, разнообразию свежих продуктов, оптимальности цен. ",
+        "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "address":[
+      "г.Шымкент, ул. Жандарбекова, 6А"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 886 8288",
+   "wpPhone":"77778868288", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://firkan.kz/",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":198,
+   "title":"Гипермаркет «Народный»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 3,
+   "description":"Оптово-розничная сеть «Фиркан» — одна из самых крупных активно развивающихся торговых сетей города Шымкента. Наши супермаркеты являются самыми крупными и наиболее посещаемыми в городе Мы стремимся быть эталоном для клиентов по качеству и быстроте обслуживания, широте ассортимента, разнообразию свежих продуктов, оптимальности цен. ",
+        "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "address":[
+      "г.Шымкент, ул. Капал-Батыра, 4А"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 239 17 39",
+   "wpPhone":"77772391739", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"https://firkan.kz/",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":199,
+   "title":"Арай Аптека",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":10,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, ул 31Б"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 23:00",
+      "homePhone":"8 7292 344 196",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":200,
+   "title":"Центра красоты и здоровья «Колор»",
+   "category":{
+      "id":4,
+      "title":"Красота и здороьве"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"В центре представлены многие бренды уходовой косметики, люксовой парфюмерии и профессиональной косметики, инструментов и для Салонов Красоты.",
+        "city":[
+      {
+         "id":3,
+         "title":"Шымкент"
+      }
+   ],
+   "address":[
+      "г.Шымкент, ул.Орынбай Акына 178 А"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 20:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 555 81 57",
+   "wpPhone":"77015558157", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/magazin_kolor_shimkent",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/beauty_and_health.svg",
    "date":"",
    "special_best":false,
    "pos":true,
