@@ -7308,5 +7308,747 @@
    "special_best":false,
    "pos":true,
    "onlinePay":false
+},
+{
+   "id":201,
+   "title":"JanZeTo",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Наш минимаркет предлагает широкий ассортимент свежих и натуральных продуктов. В том числе овощи, фрукты, алкогольные и безалкогольные напитки, мясные и молочные изделия. Большой выбор свежеиспеченного хлеба, всевозможных конфет и печенья, шоколада, консервированных продуктов и многое другое. А в нашей кондитерской «JanZeTo» Вы найдете вкусные торты и десерты по вкусным ценам с бесплатной доставкой по всему городу! ��Только натуральные и свежие продукты. Большой выбор вкусов в ассортименте ��Более 1500 выполненных заказов за 3 года работы. ��БЕСПЛАТНАЯ ДОСТАВКА",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, Кургалжинское шоссе, 11, НП 1."
+   ],
+   "worktime":"Пн-Вс - 08:00 - 00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 701 197 2717",
+   "wpPhone":"77028584020", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/janzeto.kz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"www.janzeto.kz",
+   "email":"",
+   "img":"logotypes/janzeto.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":202,
+   "title":"Супермаркет «Арсен»",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылодра"
+      }
+   ],
+   "address":[
+      "г.Кызылодра, пос. Шиели, ул. Жахаева 14."
+   ],
+   "worktime":"Пн-Вс - 09:00 - 00:00",
+      "homePhone":"",
+   "mobilePhone":"+7 702 318 0616",
+   "wpPhone":"77023180616", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":203,
+   "title":"Asia Oil",
+   "category":{
+      "id":2,
+      "title":"АЗС"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, район Есиль, ул. E669-16/2",
+      "г.Нур-Султан, район Алматы, поселок Железнодорожный, ул. Назира Торекулулы, 32"
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"8 7172 947 999,",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/azs.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":204,
+   "title":"Лесной двор",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Торговый павильон «Лесной Двор», работает на протяжении 5 лет, занимается реализацией пиломатериала, погонажных изделий, столярными изделиями. Погонажные изделия пользуются большим спросом для обшивки, для наружных и внутренних работ. Столярные изделия производятся по индивидуальному запросу соответствующим требованиям.",
+        "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г.Семей, ул. Мичурина, 81 Б"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00",
+      "homePhone":"8 7222 506 810",
+   "mobilePhone":"+7 777 163 6499",
+   "wpPhone":"77771636499", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/Lesnoidvor6908",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/repair.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":205,
+   "title":"Auto land",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":1,
+         "title":"Кокшетау"
+      }
+   ],
+   "address":[
+      "г.Кокшетау, ул. Ташенова, дом 109/1"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 771 516 0003",
+   "wpPhone":"77715160003", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/autoland.kokshetau",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/auto_and_moto.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":206,
+   "title":"Альфамед",
+   "category":{
+      "id":12,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Сеть аптек «Альфамед» розничная реализация медицинских средств, ИМЛ (изделия медицинского назначения) и медицинской техники.",
+        "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г.Семей, ул. Уранхаева, 59 | 8 7222 523 687",
+      "г.Семей, ул. Глинки, 47 | 8 7222 317 725",
+      "г.Семей, ул. Ауэзова, 42 Б | 8 7222 338 024"
+   ],
+   "worktime":"Круглосуточно",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/alfamed.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":206,
+   "title":"Стоматологическая клиника «Шакир дантист VIP»",
+   "category":{
+      "id":12,
+      "title":"Красота и здороьве"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Сеть аптек «Альфамед» розничная реализация медицинских средств, ИМЛ (изделия медицинского назначения) и медицинской техники.",
+        "city":[
+      {
+         "id":4,
+         "title":"Кызылодра"
+      }
+   ],
+   "address":[
+      "г.Кызылодра, ул. Г.Муратбаева 18."
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00",
+      "homePhone":"8 7242 236 492",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/beauty_and_health.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":207,
+   "title":"7 пятниц",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Комплекс «7 Пятниц» приглашает вас в гости, в вашем распоряжении имеется три атмосферных зала (ресто-бар, банкетный зал, караоке-бар). За вкусными блюдами и освежающими напитками к нам!",
+        "city":[
+      {
+         "id":12,
+         "title":"Семей"
+      }
+   ],
+   "address":[
+      "г.Семей, ул. Бозтаева, д. 33"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 02:00",
+      "homePhone":"8 7222 307 277",
+   "mobilePhone":"+7 777 994 5002",
+   "wpPhone":"77779945002", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/7_pyatniz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/7_pyatniz.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":208,
+   "title":"СпецШинТорг Жетысу",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"Компания ТОО «СпецШинТорг Жетысу» рада предложить вам самый широкий ассортимент автошин для грузовой, индустриальной, сельхоз, легковой и спецтехники. Мы являемся представителями автошин Hankook (Южная Корея), Кама Виатти (Россия), Farroad (КНР), Кордиант (Россия) также в наличии автошины Dunlop (япония), Roadstone (Корея), Sailun (КНР), Maxxis, Белшина. Полный пакет документов, оформление в кредит. Шиномонтаж в подарок, постоянным клиентам скидки. Мы сделаем все и немного больше.",
+        "city":[
+      {
+         "id":14,
+         "title":"Талдыкорган"
+      }
+   ],
+   "address":[
+      "г.Талдыкорган, ул. Казахстанская, д.250"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 18:00",
+      "homePhone":"8 7282 323 121",
+   "mobilePhone":"+7 777 402 81 82",
+   "wpPhone":"77774028182", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/spec_shintorg_tdk",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/spec_shintorg_tdk.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":209,
+   "title":"Супермаркет Жайна",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Посещение супермаркета — это быстрый и удобный способ сделать все повседневные покупки в одном месте. Здесь для вас представлен широкий ассортимент продуктов питания, прошедших контроль качества, а также разнообразная бытовая химия и другие товары первой необходимости.",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул. Кошкарбаева, 56"
+   ],
+   "worktime":"Пн-Пт - 08:00 - 00:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/FMCG.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":210,
+   "title":"Beauty Time",
+   "category":{
+      "id":4,
+      "title":"Красота и здороьве"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Комфортная обстановка, покой и уют, приветливый персонал, высокое качество обслуживания являются визитной карточкой салона Beauty Time. В нашем салоне Вы сможете воспользоваться услугами мастера парикмахера-стилиста по окрашиванию волос, стрижке, кератиновому выпрямлению, полировке и ботоксу волос. Так же свои услуги предоставят мастера по визажу, маникюру, педикюру, депиляции, по коррекции и ламинированию бровей.",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул. К.Рыскулбекова, 16/3 ВП 12"
+   ],
+   "worktime":"Пн - Выходной<br/>Вт-Сб - 10:00 - 21:00",
+      "homePhone":"",
+   "mobilePhone":"+7 708 999 1014",
+   "wpPhone":"77089991014", 
+   "social_link_fb":"https://www.facebook.com/pg/Beauty_Time/",
+   "social_link_inst":"https://www.instagram.com/Beauty.time.astana",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/Beauty_Time.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":211,
+   "title":"SULTAN",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Sultan- широкий ассортимент мебели на любой вкус. Здесь вы найдете спальни, гостиные, мягкую мебель, сундуки, кухонную мебель, двери самого высокого качества.",
+        "city":[
+      {
+         "id":7,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, район 15, д. 62"
+   ],
+   "worktime":"Пн-Сб - 10:00 - 19:00",
+      "homePhone":"",
+   "mobilePhone":"+7 777 703 99 10",
+   "wpPhone":"77777039910", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/all_for_home.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":212,
+   "title":"F.C Мебельный центр",
+   "category":{
+      "id":7,
+      "title":"Товары для дома"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"Мебельный центр F.C – это специализированный магазин по продаже мягкой и корпусной мебели, кухонь, столов и стульев, матрасов и аксессуаров для сна. Большой выбор мебели. Прямые поставки от фабрик Казахстана, России, Белоруссии. Продажа качественной мебелью!",
+        "city":[
+      {
+         "id":7,
+         "title":"Талдыкорган"
+      }
+   ],
+   "address":[
+      "г.Талдыкорган, ул. Абылай хана, д. 202/204"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 20:00",
+      "homePhone":"8 7282 241 062",
+   "mobilePhone":"+7 708 427 0388",
+   "wpPhone":"77084270388", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/f.c_mebelnyi_tsentr",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/c_mebelnyi_tsentr.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":213,
+   "title":"Аптека",
+   "category":{
+      "id":7,
+      "title":"Аптеки"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":7,
+         "title":"Актау"
+      }
+   ],
+   "address":[
+      "г.Актау, 11 МКР 40 ЗД",
+      "г.Актау, 8 МКР 21 ДОМ"
+   ],
+   "worktime":"Пн-Вс - 08:00 - 00:00",
+      "homePhone":"8 7292 303 301",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/medicine.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":214,
+   "title":"Центр досуга и развития Super Star Club",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Центр досуга и развития проводит занятия для детей от 9 месяцев и взрослых более чем в 20 направлениях в том числе образовательные, (раннее развитие, подготовка к школе, продленка, изучение языков, скорочтение, каллиграфия, логопед, дефектолог); творческие (ИЗО, вокал, фортепиано, актерское мастерство); спортивные (карате, гимнастика, лфк) танцевальные (Детская хореография, йога, zumba, break-dance) и другие.",
+        "city":[
+      {
+         "id":2,
+         "title":"Петропавловск"
+      }
+   ],
+   "address":[
+      "г.Петропавловск, ул. М. Жумабаева, 105"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 21:00",
+      "homePhone":"8 7152 706 240",
+   "mobilePhone":"+7 775 060 9999",
+   "wpPhone":"77750609999", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/superstarclub",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/superstarclub.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":215,
+   "title":"Детский центр Smart kids",
+   "category":{
+      "id":13,
+      "title":"Прочее"
+   },
+   "payment":"",
+   "cashback": 3,
+   "description":"Детский центр Smart kids в микрорайоне Береке приглашает на следующие виды занятий: <br/> - Час с мамой от 9 месяцев; <br/> - Мини-сад от 1,6 до 6 лет (русский язык, казахский язык) обучение; <br/> - Подготовка к школе 4-6 лет; <br/> - Группы продленного дня с 0-4 классы (русский язык, казахский язык) обучение (выполнение домашнего задания); <br/> - Ментальная арифметика; <br/> - Скорочтение; <br/> - Каллиграфия; <br/> - Казахский язык; <br/> - Английский язык; <br/> - Логопед, психолог; <br/> - ИЗО студия (рисование, лепка, ДПИ и многое другое); <br/> - Вокал (групповые и индивидуальные занятия); <br/> - Хореография (современная хореография, детский фитнес, постановочные танцы); <br/> - Художественная гимнастика (участие в городских и областных турнирах); <br/> - Самооборона; <br/> - Карате; <br/> - Карате kids; <br/> - Шахматы.",
+        "city":[
+      {
+         "id":2,
+         "title":"Петропавловск"
+      }
+   ],
+   "address":[
+      "г.Петропавловск, ул. Московский проезд, д 1 А"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 21:00",
+      "homePhone":"8 7152 619 258",
+   "mobilePhone":"+7 747 300 6099",
+   "wpPhone":"77473006099", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/smartkidsbereke",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/smartkidsbereke.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":216,
+   "title":"ПромХолод",
+   "category":{
+      "id":16,
+      "title":"Электроника"
+   },
+   "payment":"Рассрочка 12 мес.",
+   "cashback": 0,
+   "description":"Продажа комплектующего промышленного/бытового оборудования для ремонта холодильного оборудования",
+        "city":[
+      {
+         "id":11,
+         "title":"Усть-Каменогорск"
+      }
+   ],
+   "address":[
+      "г.Усть-Каменогорск, ул. Металлургов, д.13"
+   ],
+   "worktime":"Пн-Пт - 09:00 - 17:00",
+      "homePhone":"",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/icons/electronics.svg",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":217,
+   "title":"Ресторан «Alefun Pub»",
+   "category":{
+      "id":5,
+      "title":"Кафе и рестораны"
+   },
+   "payment":"",
+   "cashback": 5,
+   "description":"Ресторан «Alefun Pub» - это отменная еда, свежее пиво собственного производства, живая музыка, дружелюбная атмосфера, отличное обслуживание. Только у нас вкуснейшие стейки, шашлыки, блюда из мяса, птицы и морепродуктов, японская кухня, огромный выбор закусок, салатов и других изысканных блюд. Всё вкусное только у нас, приходите!",
+        "city":[
+      {
+         "id":15,
+         "title":"Актобе"
+      }
+   ],
+   "address":[
+      "г.Актобе, ул. Бр.Жубановых, д.344"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 02:00",
+      "homePhone":"8 7132 510 938",
+   "mobilePhone":"+7 747 748 0001",
+   "wpPhone":"77477480001", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/alefun_pub",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/alefun_pub.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":218,
+   "title":"Carefood",
+   "category":{
+      "id":6,
+      "title":"FMCG"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":0,
+         "title":"Алматы"
+      }
+   ],
+   "address":[
+      "г.Алматы, Grand Park | ул. Кабдолова, д. 1/4, 7 блок"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 22:00",
+      "homePhone":"8 7272 281 496",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/carefoodkz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/Carefood.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":219,
+   "title":"Шинный Центр",
+   "category":{
+      "id":1,
+      "title":"Авто и мото"
+   },
+   "payment":"Рассрочка 6 мес.",
+   "cashback": 0,
+   "description":"",
+        "city":[
+      {
+         "id":26,
+         "title":"Алтай"
+      }
+   ],
+   "address":[
+      "г.Алтай, ул. Бочарникова, д.11"
+   ],
+   "worktime":"Пн-Вс - 09:00 - 18:00",
+      "homePhone":"8 7233 577 881",
+   "mobilePhone":"",
+   "wpPhone":"", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/shinniy_zyrianovck",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/shinniy_zyrianovck.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
+},
+{
+   "id":219,
+   "title":"M light",
+   "category":{
+      "id":10,
+      "title":"Ремонт"
+   },
+   "payment":"Рассрочка 3 мес.",
+   "cashback": 0,
+   "description":"Грамотное освещение способно сотворить чудо: поднять настроение, помочь морально расслабиться и отдохнуть, создать нужную атмосферу в помещении. Свет– один из ключевых факторов в создании идеального интерьера, поэтому важны и размеры, и цветовое оформление люстры, которые повлияют на оттенение и рассеивание света… Магазин осветительных приборов и люстр «M Light». В наличии – люстры, лампочки, софиты, светильники, бра, торшеры, споты и тд.",
+        "city":[
+      {
+         "id":7,
+         "title":"Нур-Султан"
+      }
+   ],
+   "address":[
+      "г.Нур-Султан, ул. Валиханова, 1 ВП 5"
+   ],
+   "worktime":"Пн-Вс - 10:00 - 19:00",
+      "homePhone":"8 7172 660 274",
+   "mobilePhone":"+7 701 701 3834",
+   "wpPhone":"77017013834", 
+   "social_link_fb":"",
+   "social_link_inst":"https://www.instagram.com/mlightkz",
+   "social_link_vk":"",
+   "social_link_yt":"",
+   "websiteLink":"",
+   "email":"",
+   "img":"logotypes/mlightkz.png",
+   "date":"",
+   "special_best":false,
+   "pos":true,
+   "onlinePay":false
 }
 ]
+
+
+
